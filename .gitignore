@@ -848,3 +848,4 @@ cython_debug/
 # End of https://www.toptal.com/developers/gitignore/api/python,pycharm,csharp,rider,aspnetcore
 
 data/pkpplk_raw.csv
+config.yml
