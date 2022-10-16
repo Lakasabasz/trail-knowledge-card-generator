@@ -1,0 +1,4215 @@
+postid,postname,platform,requeststop,loadingpoint,idcategory
+1,Warszawa Zachodnia,1,0,0,1
+2,Warszawa W³ochy,1,0,0,2
+3,Józefinów,0,0,0,3
+4,Pruszków,1,0,1,1
+5,Grodzisk Mazowiecki,1,0,0,1
+6,Jaktorów,1,0,0,4
+7,Miêdzyborów,1,0,0,4
+8,¯yrardów,1,0,1,1
+9,Sucha ¯yrardowska,1,0,0,4
+10,Jesionka,1,0,0,4
+11,Radziwi³³ów Mazowiecki,0,0,0,3
+12,Radziwi³³ów Mazowiecki,1,0,0,4
+13,Skierniewice Rawka,1,0,0,4
+14,Skierniewice,1,0,1,1
+15,D¹browice Skierniewickie,1,0,0,4
+16,Maków,1,0,0,4
+17,P³yæwia,1,0,0,1
+18,Lipce Reymontowskie,1,0,0,4
+19,Krosnowa,1,0,0,4
+20,Przy³êk Du¿y,1,0,0,4
+21,Rogów,1,0,1,1
+22,W¹gry,1,0,0,4
+23,Koluszki,1,0,0,1
+24,Chrusty Nowe,1,0,0,4
+25,Rokiciny,1,0,0,1
+26,£aznów,1,0,0,4
+27,Wolbórka,1,0,0,4
+28,Baby,1,0,0,1
+29,Moszczenica,1,0,0,4
+30,Jarosty,1,0,0,4
+31,Piotrków Trybunalski,1,0,1,1
+32,Milejów,1,0,0,4
+33,Rozprza,1,0,1,1
+34,Luci¹¿anka,1,0,0,4
+35,Wilkoszewice,1,0,0,4
+36,Gorzkowice,1,0,0,1
+37,Gorzêdów,1,0,0,4
+38,Kamieñsk,1,0,0,4
+39,Gomunice,1,0,0,1
+40,Dobryszyce ko³o Radomska,1,0,0,4
+41,Radomsko,1,0,1,1
+42,Bobry,1,0,0,4
+43,Widzów Teklinów,1,0,0,1
+44,Jacków,1,0,0,4
+45,K³omnice,1,0,1,1
+46,Rzerzêczyce,1,0,0,4
+47,Rudniki ko³o Czêstochowy,1,0,0,1
+48,Wyczerpy,0,0,0,3
+49,Czêstochowa Anio³ów,1,0,0,4
+50,Czêstochowa,1,0,0,1
+51,Czêstochowa Towarowa,0,0,0,5
+52,Czêstochowa Raków,1,0,0,4
+53,Korwinów,1,0,0,4
+54,Poraj,0,0,1,5
+55,Poraj,1,0,0,4
+56,Mas³oñskie Natalin,1,0,0,4
+57,¯arki-Letnisko,1,0,0,4
+58,Myszków Nowa Wieœ,1,0,0,4
+59,Myszków,1,0,1,1
+60,Myszków Œwiatowit,1,0,0,4
+61,Myszków Mrzyg³ód,1,0,0,4
+62,Zawiercie Borowe Pole,1,0,0,4
+63,Zawiercie,1,0,0,1
+64,£azy,1,0,0,1
+65,Wiesió³ka,1,0,0,4
+66,Chruszczobród,1,0,0,4
+67,D¹browa Górnicza Sikorka,1,0,0,4
+68,D¹browa Górnicza Z¹bkowice,1,0,1,1
+69,D¹browa Górnicza Pogoria,1,0,0,4
+70,D¹browa Górnicza Go³onóg,1,0,0,4
+71,D¹browa Górnicza,1,0,0,1
+72,Bêdzin Ksawera,1,0,0,4
+73,Bêdzin Miasto,1,0,0,4
+74,Bêdzin,1,0,0,1
+75,Sosnowiec G³ówny,1,0,0,1
+76,Katowice Szopienice Po³udniowe,1,0,0,4
+77,Katowice Zawodzie,1,0,0,1
+78,Katowice,1,0,0,1
+79,Warszawa Centralna,1,0,0,1
+80,Warszawa Wschodnia,1,0,0,1
+81,Warszawa Podskarbiñska,0,0,0,3
+82,Warszawa Antoninów,0,0,0,3
+83,Warszawa Rembertów,1,0,1,1
+84,Warszawa Weso³a,1,0,0,4
+85,Warszawa Wola Grzybowska,1,0,0,4
+86,Sulejówek,1,0,0,4
+87,Sulejówek Mi³osna,1,0,0,1
+88,Halinów,1,0,0,4
+89,Cisie,1,0,0,4
+90,Dêbe Wielkie,1,0,0,4
+91,Nowe Dêbe Wielkie,1,0,0,4
+92,Wrzosów,1,0,0,4
+93,Miñsk Mazowiecki,1,0,1,1
+94,Miñsk Mazowiecki Anielina,1,0,0,4
+95,Barcz¹ca,1,0,0,4
+96,Mienia PBSZ,0,0,0,6
+97,Mienia,1,0,0,4
+98,Ceg³ów,1,0,0,4
+99,Mrozy,1,0,1,1
+100,Grodziszcze Mazowieckie,1,0,0,4
+101,Sosnowe,1,0,0,4
+102,Koszewnica,1,0,0,4
+103,Kotuñ,0,0,0,3
+104,Kotuñ,1,0,0,4
+105,Sabinka,1,0,0,4
+106,Siedlce Zachodnie,1,0,0,4
+107,Siedlce,1,0,1,1
+108,Siedlce Wschodnie,1,0,0,4
+109,Do³y,0,0,0,3
+110,Bia³ki Siedleckie,1,0,0,4
+111,Kosiorki,1,0,0,4
+112,Borki-Kosy,1,0,0,4
+113,Dziewule,1,0,0,4
+114,Dziewule,0,0,0,5
+115,Radomyœl,1,0,0,4
+116,Krynka £ukowska,1,0,0,4
+117,£uków,1,0,1,1
+118,£uków Zapowiednik,1,0,0,4
+119,Matysy,1,0,0,4
+120,Szaniawy,0,0,0,3
+121,Szaniawy,1,0,0,4
+122,Brzozowica,1,0,0,4
+123,Misie,1,0,0,4
+124,Miêdzyrzec Podlaski,1,0,1,1
+125,Sitno,1,0,0,4
+126,Szachy,1,0,0,4
+127,Sokule,0,0,0,3
+128,Sokule,1,0,0,4
+129,Porosiuki,1,0,0,4
+130,Bia³a Podlaska,1,0,0,1
+131,Bia³a Podlaska Wschodnia,0,0,0,4
+132,Ogrodniki,1,0,0,4
+133,Perkowice,1,0,0,4
+134,Choty³ów,1,0,1,1
+135,Dobrynka,1,0,0,4
+136,Magdalenka,0,0,0,3
+137,Ma³aszewicze Po³udniowe,0,0,0,5
+138,Ma³aszewicze,1,0,0,4
+139,Ma³aszewicze MSE,0,0,0,3
+140,Kobylany,1,0,0,4
+141,Terespol,1,0,0,1
+142,Terespol (Gr),0,0,0,7
+143,Warszawa Ursus Pó³nocny,1,0,0,4
+144,Warszawa Go³¹bki,1,0,0,2
+145,O¿arów Mazowiecki,1,0,1,1
+146,P³ochocin Polmos,0,0,0,6
+147,P³ochocin,1,0,0,4
+148,B³onie,1,0,0,1
+149,Witanów,1,0,0,4
+150,Bo¿a Wola,1,0,0,4
+151,Seroki,1,0,0,4
+152,Teresin Niepokalanów,1,0,0,1
+153,Piasecznica,1,0,0,4
+154,Sochaczew,1,0,1,1
+155,Kornelin,1,0,0,4
+156,Nowa Sucha,1,0,0,4
+157,Kêszyce,1,0,0,4
+158,Jasionna £owicka,1,0,0,4
+159,Bednary,1,0,0,1
+160,Mys³aków,1,0,0,4
+161,Arkadia,0,0,0,3
+162,£owicz G³ówny,1,0,0,1
+163,NiedŸwiada £owicka,1,0,0,4
+164,Jackowice,1,0,0,1
+165,Zosinów,1,0,0,4
+166,¯ychlin,1,0,1,1
+167,Z³otniki Kutnowskie,1,0,0,4
+168,Stara Wieœ ko³o Kutna,0,0,0,5
+169,Sklêczki,1,0,0,4
+170,Kutno,1,0,1,1
+171,Nowe Kutnowskie,1,0,0,4
+172,Krzewie,1,0,1,1
+173,Turzynów,1,0,0,4
+174,K³odawa,1,0,0,1
+175,Zamków,0,0,0,3
+176,Bar³ogi,1,0,1,1
+177,Ko³o,1,0,1,1
+178,Budki Nowe,1,0,0,4
+179,Kramsk,1,0,0,1
+180,Konin,1,0,1,1
+181,Konin Zachód,1,0,0,4
+182,Kawnice,1,0,0,4
+183,Sp³awie,1,0,0,4
+184,Cienin Koœcielny,1,0,0,4
+185,Cienin,1,0,1,1
+186,S³upca,1,0,1,4
+187,Strza³kowo,1,0,1,1
+188,Wólka,1,0,0,4
+189,Otoczna,1,0,0,4
+190,Gutowo Wielkopolskie,1,0,0,4
+191,Soko³owo Wrzesiñskie,0,0,0,3
+192,Podstolice,1,0,0,1
+193,Nekla,1,0,0,8
+194,Gu³towy,1,0,0,4
+195,Kostrzyn Wielkopolski,1,0,1,1
+196,Paczkowo,1,0,0,2
+197,Swarzêdz,1,0,0,1
+198,Poznañ Antoninek,0,0,0,9
+199,Poznañ Antoninek,1,0,0,4
+200,Poznañ Wschód,1,0,1,1
+201,Poznañ Garbary,1,0,0,4
+202,Poznañ G³ówny,1,0,0,1
+203,Poznañ Górczyn,1,0,1,1
+204,Rudnicze Bocz,0,0,0,10
+205,Poznañ Junikowo,1,0,0,4
+206,Palêdzie,1,0,1,1
+207,Dopiewo,1,0,0,4
+208,Otusz,1,0,0,4
+209,Buk,1,0,1,1
+210,Wojnowice Wielkopolskie,1,0,0,4
+211,Opalenica,1,0,1,1
+212,Pora¿yn,1,0,1,8
+213,S¹topy,1,0,0,4
+214,Nowy Tomyœl,1,0,1,1
+215,Jastrzêbsko,1,0,0,4
+216,Chroœnica,1,0,1,8
+217,Zb¹szyñ,1,0,0,1
+218,Chlastawa,0,0,0,3
+219,Zb¹szynek,1,0,0,1
+220,D¹brówka Zb¹ska,0,0,0,3
+221,Szczaniec,1,0,0,1
+222,Kupienino,1,0,0,4
+223,Œwiebodzin,1,0,1,1
+224,Wilkowo Œwiebodziñskie,1,0,0,4
+225,Mostki,1,0,0,4
+226,Toporów,1,0,0,1
+227,Drzewce,1,0,0,4
+228,Torzym,1,0,1,11
+229,Boczów,1,0,0,1
+230,Rzepin,1,0,1,1
+231,Kunowice,0,0,0,3
+232,Kunowice,1,0,0,4
+233,S³ubice,1,0,0,4
+234,Kunowice (Gr),0,0,0,7
+235,Korytów,0,0,0,5
+236,Szeligi,0,0,0,5
+237,Bia³a Rawska,0,0,0,3
+238,Strza³ki,0,0,0,5
+239,Idzikowice,0,0,0,5
+240,Opoczno Po³udnie,1,0,0,1
+241,Pilichowice,0,0,0,3
+242,Olszamowice,0,0,0,5
+243,W³oszczowa Pó³noc,1,0,0,1
+244,Knapówka,0,0,0,3
+245,Psary,0,0,0,5
+246,Góra W³odowska,0,0,0,5
+247,Zielonka,1,0,0,1
+248,Wo³omin,1,0,1,1
+249,Zagoœciniec,1,0,0,4
+250,Dobczyn,1,0,0,4
+251,Klembów,1,0,0,4
+252,Jasienica Mazowiecka,1,0,0,4
+253,T³uszcz,1,0,0,1
+254,Chrzêsne,1,0,0,4
+255,Mokra Wieœ,1,0,0,4
+256,Szewnica,1,0,0,4
+257,Urle,1,0,0,4
+258,Barchów,1,0,0,4
+259,£ochów,1,0,0,1
+260,Ostrówek Wêgrowski,1,0,0,4
+261,Topór,1,0,0,4
+262,Sadowne Wêgrowskie,1,0,0,4
+263,Sadowne Wêgrowskie STTH,0,0,0,5
+264,Prostyñ,1,0,0,4
+265,Ma³kinia,1,0,0,1
+266,Zarêby Koœcielne,1,0,0,4
+267,Kietlanka,1,0,0,2
+268,Szulborze Wielkie,1,0,0,4
+269,Czy¿ew,1,0,0,1
+270,Kity,1,0,0,4
+271,D¹browa-£azy,1,0,0,4
+272,Szepietowo,1,0,0,1
+273,Szymbory,1,0,0,4
+274,Jab³oñ Koœcielna,1,0,0,4
+275,Racibory,1,0,0,1
+276,Zdrody Nowe,1,0,0,4
+277,£apy Osse,1,0,0,4
+278,£apy,1,0,1,1
+279,Uhowo,1,0,0,4
+280,Bojary,1,0,0,4
+281,Baciuty,1,0,0,12
+282,Trypucie,1,0,0,4
+283,Niewodnica,1,0,0,4
+284,Klepacze,1,0,0,4
+285,Turczyn,0,0,0,3
+286,Bia³ystok Wiadukt,1,0,0,4
+287,Bia³ystok,1,0,0,1
+288,Wasilków,1,0,0,1
+289,Czarny Blok,1,0,0,13
+290,Wólka Ratowiecka,1,0,0,4
+291,Czarna Bia³ostocka,1,0,1,1
+292,Machnacz,1,0,0,1
+293,Rozedranka,1,0,0,4
+294,Geniusze,0,0,0,5
+295,Geniusze,1,0,0,4
+296,Sokó³ka,1,0,0,1
+297,Kundzin,1,0,0,4
+298,£osoœna Cl,0,0,0,14
+299,Krex Czuprynowo,0,0,0,14
+300,Czuprynowo,1,0,0,4
+301,KuŸnica Bia³ostocka,1,0,0,1
+302,KuŸnica Bia³ostocka (Gr),0,0,0,7
+303,Warszawa Olszynka Grochowska,1,0,0,4
+304,Warszawa Goc³awek,1,0,0,4
+305,Warszawa Wawer,1,0,0,1
+306,Warszawa Anin,1,0,0,4
+307,Warszawa Miêdzylesie,1,0,0,4
+308,Warszawa Radoœæ,1,0,0,4
+309,Warszawa Miedzeszyn,1,0,0,4
+310,Warszawa Falenica,1,0,0,1
+311,Michalin,1,0,0,4
+312,Józefów,1,0,0,4
+313,Œwider,1,0,0,4
+314,Otwock,1,0,0,1
+315,Œródborów,1,0,0,4
+316,Pogorzel Warszawska,1,0,0,4
+317,Stara Wieœ,1,0,0,4
+318,Celestynów,1,0,0,1
+319,Ko³biel,1,0,0,4
+320,Chrosna,1,0,0,4
+321,Zabie¿ki,1,0,0,4
+322,Augustówka,1,0,0,4
+323,Pilawa,1,0,0,1
+324,Garwolin,1,0,0,4
+325,Garwolin PGL,0,0,1,9
+326,Ruda Talubska,1,0,0,4
+327,Wola Rowska,1,0,0,4
+328,£askarzew Przystanek,1,0,0,4
+329,£askarzew,0,0,0,9
+330,Leokadia,1,0,0,4
+331,Sobolew,1,0,0,1
+332,Grabniak,1,0,0,4
+333,Wygoda,1,0,0,4
+334,Mika,1,0,0,4
+335,¯yczyn,1,0,0,1
+336,Rokitnia Stara,1,0,0,4
+337,Dêblin,1,0,1,1
+338,Wieprz,0,0,0,3
+339,Skoki - Borowa,1,0,0,4
+340,Zarzeka,0,0,0,5
+341,Go³¹b,1,0,0,4
+342,Pu³awy Azoty,1,0,0,1
+343,Pu³awy Chemia,1,0,0,4
+344,Pu³awy Miasto,1,0,0,4
+345,Pu³awy,1,0,1,1
+346,Koñskowola,1,0,0,4
+347,Klementowice,1,0,0,2
+348,£opatki,1,0,0,4
+349,Na³êczów,1,0,0,1
+350,Czes³awice,1,0,0,4
+351,Sadurki,1,0,0,4
+352,Sadurki PGL,0,0,0,9
+353,Mi³ocin Lubelski,1,0,0,4
+354,Motycz Leœny,1,0,0,4
+355,Motycz,1,0,0,1
+356,Stasin Polny,1,0,0,4
+357,Lublin Zachodni,1,0,0,4
+358,Lublin Rury,0,0,0,3
+359,Lublin G³ówny,1,0,0,1
+360,Lublin Pó³nocny,1,0,0,4
+361,Lublin Pó³nocny,0,0,0,3
+362,Adampol,0,0,0,3
+363,Œwidnik,0,0,0,5
+364,Œwidnik Miasto,1,0,0,4
+365,Œwidnik Wschód,1,0,0,4
+366,Minkowice,1,0,1,1
+367,Podzamcze,1,0,0,4
+368,Dominów,1,0,0,4
+369,Jaszczów,1,0,0,1
+370,Biskupice,1,0,0,4
+371,Trawniki,1,0,0,1
+372,Wólka Kañska,1,0,0,4
+373,Kanie,1,0,0,4
+374,Kanie,0,0,0,3
+375,Zalesie Krasieñskie,1,0,0,4
+376,Rejowiec,1,0,0,1
+377,Zawadówka,1,0,0,1
+378,Che³m Miasto,1,0,0,4
+379,Uherka,0,0,0,3
+380,Che³m,1,0,1,1
+381,Che³m Wschodni,0,0,0,5
+382,Che³m Cementownia,1,0,0,4
+383,BrzeŸno,1,0,0,1
+384,Wólka Okopska,1,0,1,1
+385,Dorohusk,1,0,0,1
+386,Dorohusk (Gr),0,0,0,7
+387,Warszawa Aleje Jerozolimskie,1,0,0,2
+388,Warszawa Rakowiec,1,0,0,4
+389,Warszawa ¯wirki i Wigury,1,0,0,4
+390,Warszawa S³u¿ewiec,1,0,0,4
+391,Warszawa Okêcie,1,0,1,1
+392,Warszawa Dawidy,1,0,0,4
+393,Warszawa Jeziorki,1,0,0,4
+394,Nowa Iwiczna,1,0,0,4
+395,Piaseczno,1,0,0,1
+396,Zalesie Górne,1,0,0,4
+397,Ustanówek,1,0,0,4
+398,Czachówek Górny,1,0,0,4
+399,Czachówek Po³udniowy,1,0,0,1
+400,Su³kowice,1,0,0,4
+401,Chynów,1,0,0,1
+402,Krê¿el,1,0,0,4
+403,Michalczew,1,0,0,4
+404,Goœniewice,1,0,0,4
+405,Warka,1,0,0,1
+406,Warka Miasto,1,0,0,4
+407,Grabów nad Pilic¹,1,0,0,4
+408,Strzy¿yna,1,0,0,4
+409,Dobieszyn,1,0,0,1
+410,Kruszyna,1,0,0,4
+411,Wola Bierwiecka,1,0,0,4
+412,Bartodzieje,1,0,0,4
+413,Lesiów,0,0,0,3
+414,Lesiów,1,0,0,4
+415,Radom Stara Wola,1,0,0,4
+416,Radom Pó³nocny,1,0,0,4
+417,Radom Go³êbiów,1,0,0,4
+418,Radom Wschodni,0,0,1,5
+419,Radom G³ówny,1,0,0,1
+420,Radom Po³udniowy,1,0,0,4
+421,Ro¿ki,1,0,0,1
+422,Ro¿ki,1,0,0,1
+423,D¹brówka Zab³otnia,0,0,0,4
+424,Ruda Wielka,1,0,0,12
+425,Wola Lipieniecka,1,0,0,4
+426,Jastrz¹b,1,0,0,1
+427,G¹sawy Plebañskie,1,0,0,4
+428,Szyd³owiec,1,0,1,1
+429,Lipowe Pole,1,0,0,4
+430,Skar¿ysko-Kamienna,1,0,0,1
+431,Skar¿ysko Zachodnie,1,0,0,4
+432,Suchedniów Pó³nocny,1,0,0,12
+433,Suchedniów,1,0,0,1
+434,Berezów,1,0,0,4
+435,£¹czna,1,0,0,1
+436,Ostojów,0,0,0,15
+437,Lekomin,0,0,0,15
+438,Zagnañsk,1,0,1,1
+439,Tumlin,1,0,0,4
+440,Kostom³oty,1,0,0,1
+441,Piaski,0,0,1,9
+442,Kielce Piaski,1,0,0,4
+443,Kielce,1,0,0,1
+444,Kielce Bia³ogon,1,0,0,1
+445,Kielce S³owik,1,0,0,4
+446,Sitkówka Nowiny,1,0,0,1
+447,Radkowice,0,0,0,9
+448,Radkowice,1,0,0,4
+449,Wolica,1,0,1,1
+450,Sobków,1,0,0,1
+451,Mi¹sowa,1,0,0,1
+452,Podchojny,0,0,0,15
+453,Jêdrzejów,1,0,1,1
+454,Potok,1,0,0,4
+455,Krzciêcice,1,0,0,12
+456,Sêdziszów,1,0,1,1
+457,Gniewiecin,0,0,0,15
+458,Klimontów,1,0,0,4
+459,Koz³ów,1,0,1,1
+460,Tunel,1,0,0,1
+461,Dziadówki,1,0,0,4
+462,Miechów,1,0,1,1
+463,Kamieñczyce,1,0,0,4
+464,Szczepanowice,1,0,0,4
+465,Smroków,1,0,0,4
+466,S³omniki,1,0,1,1
+467,S³omniki Miasto,1,0,0,4
+468,NiedŸwiedŸ,1,0,0,1
+469,Goszcza,1,0,0,4
+470,£uczyce,1,0,0,4
+471,Baranówka,1,0,0,4
+472,Zastów,1,0,0,1
+473,Raciborowice,0,0,0,3
+474,Kraków Batowice,1,0,0,1
+475,Kraków Przedmieœcie,0,0,0,3
+476,Kraków G³ówny,1,0,0,1
+477,Warszawa Targówek,1,0,0,4
+478,Warszawa Praga,0,0,1,1
+479,Warszawa Praga,1,0,0,4
+480,Warszawa Toruñska,1,0,0,4
+481,Warszawa ¯erañ,1,0,0,4
+482,Warszawa P³udy,1,0,0,4
+483,Warszawa Choszczówka,1,0,0,4
+484,Legionowo,1,0,0,1
+485,Legionowo Przystanek,1,0,0,4
+486,Chotomów,1,0,0,4
+487,Chotomów,0,0,0,3
+488,Janówek,1,0,0,4
+489,Nowy Dwór Mazowiecki,1,0,1,1
+490,Modlin,1,0,0,1
+491,Pomiechówek,1,0,0,4
+492,Brody Warszawskie,1,0,0,4
+493,Studzianki Nowe,1,0,0,4
+494,Nasielsk,1,0,1,1
+495,K¹tne,1,0,0,4
+496,Jackowo Dworskie,1,0,0,4
+497,Œwiercze,1,0,0,2
+498,Ka³êczyn,1,0,0,4
+499,G¹socin,1,0,0,1
+500,Go³otczyzna,1,0,0,4
+501,Ciechanów Przemys³owy,1,0,0,4
+502,Ciechanów,1,0,1,1
+503,Czeruchy,1,0,0,4
+504,Kroœnice Mazowieckie,1,0,0,4
+505,Konopki,1,0,0,1
+506,Stupsk Mazowiecki,1,0,0,4
+507,Wyszyny,1,0,0,4
+508,M³awa Miasto,1,0,0,4
+509,M³awa,1,0,1,1
+510,I³owo,1,0,0,1
+511,Narzym,1,0,0,4
+512,Dzia³dowo,1,0,1,1
+513,Burkat,1,0,0,4
+514,Turza Wielka,1,0,0,4
+515,Gralewo,1,0,1,1
+516,¯abiny,1,0,0,4
+517,Tuczki,1,0,0,4
+518,Rybno Pomorskie,1,0,0,1
+519,Jeglia,1,0,0,4
+520,Hartowiec,1,0,0,4
+521,Montowo,1,0,0,2
+522,Zaj¹czkowo Lubawskie,1,0,0,2
+523,Rakowice,1,0,0,1
+524,Smolniki,1,0,0,4
+525,I³awa G³ówna,1,0,0,1
+526,I³awa Miasto,1,0,0,4
+527,Z¹browo,1,0,0,4
+528,Redaki,1,0,0,1
+529,Susz,1,0,0,1
+530,Prabuty,1,0,1,1
+531,Gdakowo,1,0,0,4
+532,Miko³ajki Pomorskie,1,0,0,4
+533,Mleczewo,1,0,0,1
+534,D¹brówka Malborska,1,0,0,4
+535,Gronajny,1,0,0,4
+536,Malbork,1,0,1,1
+537,Malbork Ka³dowo,1,0,0,4
+538,Stogi Malborskie,1,0,0,4
+539,Szymankowo,1,0,0,1
+540,Lisewo,1,0,0,4
+541,Tczew,1,0,1,1
+542,Mi³ob¹dz,1,0,0,4
+543,Pszczó³ki,1,0,0,1
+544,Skowarcz,1,0,0,4
+545,Ró¿yny,1,0,0,4
+546,Cieplewo,1,0,0,4
+547,Pruszcz Gdañski,1,0,0,1
+548,Gdañsk Lipce,1,0,0,4
+549,Gdañsk Orunia,1,0,0,4
+550,Gdañsk Po³udniowy,0,0,0,5
+551,Gdañsk G³ówny,1,0,0,1
+552,Legionowo Piaski,1,0,0,1
+553,Micha³ów-Reginów,1,0,0,4
+554,Wieliszew,1,0,0,1
+555,Nieporêt,1,0,0,4
+556,D¹bkowizna,1,0,0,4
+557,Radzymin,1,0,1,1
+558,Emilianów,0,0,0,5
+559,Krusze,1,0,0,1
+560,Mokra,1,0,0,4
+561,Sierakowice Stare,0,0,0,15
+562,Sierakowice Skierniewickie,1,0,0,4
+563,Be³chów,1,0,0,1
+564,Bobrowniki,1,0,0,4
+565,Placencja,0,0,0,3
+566,D³ugok¹ty,0,0,0,4
+567,Puszcza Mariañska,0,0,1,5
+568,Grabce,0,0,0,4
+569,Marków,0,0,0,3
+570,Mszczonów,0,0,1,5
+571,Mszczonów Mostva,0,0,0,14
+572,Grzegorzewice,0,0,0,4
+573,Je¿ewice,0,0,0,4
+574,Tarczyn,0,0,1,5
+575,G¹ski,0,0,0,4
+576,Pra¿mów,0,0,0,4
+577,Czachówek Zachodni,0,0,0,3
+578,Czachówek Œrodkowy,0,0,0,4
+579,Czachówek Wschodni,1,0,0,2
+580,Góra Kalwaria,1,0,1,1
+581,Kêpa Gliniecka,0,0,0,3
+582,Warszówka,0,0,0,4
+583,Osieck,0,0,1,5
+584,JaŸwiny,0,0,0,4
+585,JaŸwiny,0,0,0,3
+586,Huta Czechy,0,0,0,4
+587,Parysów,0,0,0,4
+588,Chromin,0,0,0,4
+589,Iwowe,0,0,0,4
+590,Stoczek £ukowski,0,0,0,5
+591,Kobia³ki,0,0,0,4
+592,Jedlanka,0,0,0,4
+593,¯d¿ary,0,0,0,4
+594,Krzna,0,0,0,4
+595,Pustelnik,0,0,0,5
+596,Grzebowilk,0,0,0,5
+597,Sufczyn,0,0,0,5
+598,£ódŸ Kaliska,1,0,0,1
+599,Retkinia,0,0,0,3
+600,£ódŸ Retkinia,1,0,0,4
+601,£ódŸ Lublinek,1,0,0,1
+602,Pabianice,1,0,1,1
+603,Chech³o,1,0,0,4
+604,Dobroñ,1,0,0,12
+605,Kolumna,1,0,0,4
+606,£ask,1,0,1,1
+607,Borszewice,1,0,0,12
+608,Gajewniki,0,0,0,3
+609,Zduñska Wola,1,0,1,1
+610,Mêcka Wola,1,0,0,4
+611,Sieradz Mêka,0,0,0,14
+612,Mêka,0,0,0,15
+613,Sieradz Mêka,1,0,0,4
+614,Sieradz Warta,1,0,0,4
+615,Sieradz,1,0,1,1
+616,Sêdzice,1,0,1,1
+617,B³aszki,1,0,1,1
+618,Skalmierz,1,0,0,4
+619,Radliczyce,1,0,0,4
+620,Radliczyce,0,0,0,3
+621,Opatówek,1,0,1,1
+622,Kalisz Winiary,1,0,0,4
+623,Piwonice,0,0,0,9
+624,Kalisz,1,0,1,1
+625,Kalisz Szczypiorno,1,0,0,4
+626,Nowe Skalmierzyce,1,0,0,1
+627,Correct,0,0,0,14
+628,Oci¹¿,1,0,0,4
+629,Czekanów,1,0,1,1
+630,Stary Staw,0,0,0,3
+631,Ostrów Wielkopolski,1,0,0,1
+632,Ostrów Wielkopolski Zachodni,0,0,0,5
+633,Ostrów Wielkopolski Gorzyce,1,0,0,4
+634,£¹kociny,1,0,0,4
+635,Daniszyn,1,0,0,4
+636,Biadki,1,0,0,1
+637,Gorzupia,1,0,0,4
+638,Durzyn,0,0,0,5
+639,Osusz,0,0,0,3
+640,Dzier¿anów Wielkopolski,1,0,0,4
+641,Kuklinów,1,0,0,4
+642,Kobylin,1,0,0,1
+643,Czeluœcin,1,0,0,4
+644,Pêpowo,1,0,0,1
+645,W³ostowo,1,0,0,4
+646,Krobia,1,0,0,1
+647,Karzec,1,0,0,4
+648,Dziêczyn,1,0,0,4
+649,Poniec,1,0,1,1
+650,Paw³owice,1,0,0,4
+651,K¹kolewo,1,0,1,1
+652,Leszno Grzybowo,1,0,0,2
+653,Leszno,1,0,0,1
+654,Lasocice,1,0,0,1
+655,Wschowa,1,0,1,1
+656,Stare Drzewce,1,0,0,1
+657,G³ogówko,1,0,0,2
+658,Grodziec Ma³y,0,0,0,4
+659,G³ogów,1,0,0,1
+660,¯ukowice,0,0,0,4
+661,Nielubia,0,0,0,4
+662,K³obuczyn,0,0,0,3
+663,Gaworzyce,0,0,0,4
+664,Przec³aw Szprotawski,0,0,0,4
+665,Niegos³awice,0,0,1,5
+666,Dzikowice,0,0,0,4
+667,Szprotawa,0,0,0,5
+668,Bukowina Bobrzañska,0,0,0,4
+669,¯agañ,1,0,1,1
+670,¯ary,1,0,0,1
+671,Sieniawa ¯arska,0,0,0,3
+672,Sieniawa ¯arska,1,0,0,4
+673,Lipinki £u¿yckie,1,0,0,4
+674,Tuplice Dêbinka,1,0,0,4
+675,Tuplice,1,0,0,1
+676,Zasieki,1,0,0,4
+677,Zasieki (Gr),0,0,0,7
+678,£owicz Przedmieœcie,1,0,1,1
+679,Grudze,1,0,0,4
+680,Domaniewice,1,0,0,1
+681,Domaniewice Centrum,1,0,0,4
+682,Kamieñ £owicki,1,0,0,4
+683,G³owno,1,0,0,1
+684,Bratoszewice,1,0,0,4
+685,Stryków,1,0,1,1
+686,Swêdów,1,0,0,4
+687,Glinnik,1,0,0,13
+688,Glinnik Wieœ,1,0,0,4
+689,Smardzew,1,0,0,4
+690,Zgierz,1,0,0,1
+691,£ódŸ Radogoszcz Zachód,1,0,0,4
+692,£ódŸ ¯abieniec,1,0,0,1
+693,£ódŸ Widzew,1,0,0,1
+694,£ódŸ Stoki,1,0,0,4
+695,£ódŸ Marysin,1,0,0,13
+696,£ódŸ Warszawska,1,0,0,4
+697,£ódŸ Arturówek,1,0,0,4
+698,£ódŸ Radogoszcz Wschód,1,0,0,4
+699,Zgierz Jaracza,1,0,0,4
+700,Zgierz Pó³noc,1,0,0,1
+701,Zgierz Kontrewers,1,0,0,13
+702,Grotniki,1,0,0,4
+703,Chociszew,1,0,0,1
+704,Ozorków Nowe Miasto,1,0,0,4
+705,Ozorków,1,0,0,1
+706,Sierpów,1,0,0,4
+707,£êczyca,1,0,1,1
+708,Gawrony,1,0,0,4
+709,Witonia,1,0,0,1
+710,£ódŸ Fabryczna,1,0,0,1
+711,£ódŸ Niciarniana,1,0,0,4
+712,£ódŸ Widzew £KA,0,0,0,10
+713,£ódŸ Andrzejów,1,0,0,11
+714,Bedoñ,1,0,0,4
+715,Justynów,1,0,0,4
+716,Ga³kówek,1,0,0,1
+717,¯akowice,1,0,0,4
+718,Ostrowy,1,0,0,1
+719,Rutkowice,1,0,0,4
+720,Kaliska Kujawskie,1,0,0,1
+721,Wiktorowo,1,0,0,4
+722,Czerniewice,1,0,1,1
+723,Go³aszewo Kujawskie,1,0,0,4
+724,Warz¹chewka,1,0,0,4
+725,W³oc³awek,1,0,1,1
+726,W³oc³awek Zazamcze,1,0,0,4
+727,W³oc³awek Brzezie,0,0,1,5
+728,Brzezie,1,0,0,4
+729,Lubanie,1,0,0,12
+730,Nieszawa Waganiec,1,0,0,1
+731,Sierzchowo,0,0,0,15
+732,Turzno Kujawskie,1,0,0,4
+733,Turzno,0,0,0,15
+734,Aleksandrów Kujawski,1,0,1,1
+735,Ot³oczyn,1,0,0,1
+736,Brzoza Toruñska,1,0,0,8
+737,Toruñ Czerniewice,1,0,0,4
+738,Toruñ G³ówny,1,0,1,1
+739,Toruñ Kluczyki,1,0,0,4
+740,Cierpice,1,0,0,1
+741,Cierpice K¹kol,1,0,0,4
+742,Wodek,0,0,0,15
+743,Przy³ubie,1,0,0,12
+744,Solec Kujawski,1,0,1,1
+745,Otorowo,0,0,0,15
+746,Bydgoszcz £êgnowo,1,0,0,11
+747,Bydgoszcz Wschód,1,0,1,1
+748,Bydgoszcz Bielawy,1,0,0,4
+749,Bydgoszcz Leœna,1,0,0,11
+750,Bydgoszcz G³ówna,1,0,1,1
+751,Czy¿kówko,0,0,0,3
+752,Bydgoszcz Zachód,1,0,0,4
+753,Pr¹dy,0,0,0,5
+754,Bydgoszcz Osowa Góra,1,0,0,4
+755,Paw³ówek,1,0,0,4
+756,Zielonczyn,1,0,0,1
+757,Œlesin,1,0,0,4
+758,Nak³o nad Noteci¹,1,0,1,1
+759,Anieliny,1,0,0,4
+760,Samostrzel,1,0,0,11
+761,Jadwi¿yn,1,0,0,4
+762,Wyrzysk Osiek,1,0,0,1
+763,Krostkowo,1,0,0,4
+764,Bia³oœliwie,1,0,0,1
+765,Miasteczko Krajeñskie,1,0,0,4
+766,Kaczory,1,0,0,1
+767,Pi³a PolDróg,0,0,0,14
+768,Pi³a G³ówna,1,0,1,1
+769,Warszawa G³ówna Towarowa,0,0,0,5
+770,Warszawa Czyste,0,0,0,5
+771,Warszawa Zachodnia peron 9,1,0,0,4
+772,Warszawa Wola,1,0,0,4
+773,Warszawa M³ynów,1,0,0,4
+774,Warszawa Ko³o,1,0,0,4
+775,Warszawa Pow¹zki,1,0,0,4
+776,Warszawa Gdañska,1,0,0,1
+777,Warszawa ZOO,1,0,0,4
+778,Warszawa Wileñska,1,0,0,1
+779,Warszawa Wileñska Marki,0,0,0,5
+780,Warszawa Zacisze Wilno,1,0,0,4
+781,Z¹bki,1,0,0,4
+782,Koby³ka Ossów,1,0,0,4
+783,Koby³ka,1,0,0,4
+784,Wo³omin S³oneczna,1,0,0,16
+785,Tomaszów Mazowiecki,1,0,0,1
+786,Tomaszów Mazowiecki Bia³obrzegi,1,0,0,4
+787,Brzustów,1,0,0,13
+788,Antoniów,1,0,0,4
+789,Dêba Opoczyñska,1,0,0,1
+790,Radzice,0,0,0,5
+791,Radzice,1,0,0,4
+792,Drzewica,1,0,0,1
+793,Bieliny Opoczyñskie,1,0,0,4
+794,Zygmuntów,1,0,0,4
+795,Smogorzów Przysuski,1,0,0,4
+796,Przysucha,1,0,0,1
+797,Skrzynno,1,0,0,4
+798,Wieniawa,1,0,0,4
+799,Podbór,1,0,0,4
+800,Chronów,1,0,0,4
+801,Wolanów,1,0,0,1
+802,Koñczyce Radomskie,1,0,0,4
+803,Radom Krychnowice,0,0,0,5
+804,Radom Potkanów,1,0,0,4
+805,Warszawa G³ówna,1,0,0,1
+806,Be³chatów,0,0,0,1
+807,Be³chatów Miasto,0,0,0,4
+808,£ódŸ Pabianicka,1,0,0,4
+809,£ódŸ Chojny,1,0,1,1
+810,£ódŸ Olechów Wiadukt,1,0,0,4
+811,£ódŸ Olechów Zachód,1,0,0,4
+812,£ódŸ Olechów Wschód,1,0,0,4
+813,£ódŸ Olechów,0,0,0,1
+814,¯akowice Po³udniowe,1,0,0,2
+815,Miko³ajów,0,0,0,5
+816,Wykno,1,0,0,4
+817,Zaosie,1,0,0,4
+818,Skrzynki,1,0,0,1
+819,Jeleñ,1,0,0,1
+820,Bratków,1,0,0,1
+821,Tomaszówek,0,0,0,4
+822,Szadkowice,1,0,0,4
+823,S³omianka,1,0,0,4
+824,Opoczno,1,0,1,1
+825,Sitowa,1,0,0,4
+826,Petrykozy,1,0,0,4
+827,Ruda Bia³aczowska,1,0,0,4
+828,Na³êcz,0,0,0,14
+829,Kornica,1,0,0,4
+830,Koñskie,1,0,0,1
+831,W¹sosz Konecki,1,0,0,4
+832,Czarniecka Góra,1,0,0,4
+833,St¹porków,1,0,0,1
+834,Wólka Plebañska,1,0,0,4
+835,So³tyków,1,0,0,4
+836,Gilów,1,0,0,4
+837,Bli¿yn,1,0,0,1
+838,Brzask,1,0,0,4
+839,Skar¿ysko Milica,1,0,0,4
+840,Skar¿ysko Koœcielne,1,0,0,4
+841,Marcinków,1,0,0,4
+842,W¹chock,1,0,0,1
+843,Starachowice,1,0,0,4
+844,Starachowice Wschodnie,1,0,0,1
+845,Starachowice Micha³ów,1,0,0,4
+846,Styków I³¿ecki,1,0,0,4
+847,Brody I³¿eckie,1,0,0,4
+848,Brody,0,0,0,15
+849,Staw Kunowski,1,0,0,4
+850,Kunów,1,0,1,1
+851,Boksycka,1,0,0,4
+852,Ostrowiec Œwiêtokrzyski,1,0,1,1
+853,Bodzechów,1,0,0,1
+854,Brzustowa Opatowska,1,0,0,4
+855,Æmielów,1,0,0,4
+856,Drygulec,1,0,0,4
+857,O¿arów Cementownia,0,0,0,5
+858,Jasice,1,0,0,4
+859,Jakubowice,1,0,0,1
+860,Stary Garbów,0,0,0,4
+861,Dwikozy,1,0,0,1
+862,Metan,1,0,0,4
+863,Zalesie Gorzyckie,0,0,0,3
+864,Sandomierz,1,0,1,1
+865,Wielowieœ,1,0,0,4
+866,Sobów,1,0,0,1
+867,Tarnobrzeg,1,0,1,1
+868,Ocice,0,0,0,5
+869,Chmielów,1,0,0,1
+870,D¹browica Ma³opolska,0,0,0,4
+871,Skopanie,0,0,0,17
+872,Baranów Sandomierski,0,0,0,4
+873,Padew,1,0,0,1
+874,Jaœlany,1,0,0,4
+875,Tuszów Narodowy,1,0,0,4
+876,Chorzelów,1,0,0,4
+877,Mielec,1,0,0,1
+878,Wojs³aw,1,0,0,4
+879,Rzochów,1,0,0,4
+880,Rzochów,0,0,1,5
+881,Rzemieñ,1,0,0,4
+882,Tuszyma,1,0,0,4
+883,D¹bie ko³o Dêbicy,1,0,0,4
+884,Pustków,1,0,0,4
+885,Kochanówka Pustków,1,0,1,1
+886,Pustynia,1,0,0,4
+887,Dêbica Towarowa,0,0,1,5
+888,Dêbica,1,0,0,1
+889,£uków £apiguz,1,0,1,1
+890,Sarnów,1,0,0,4
+891,Borowina,1,0,0,4
+892,Krzywda,1,0,0,17
+893,Hordzie¿ka,1,0,0,4
+894,Okrzeja,1,0,0,1
+895,Grabów Szlachecki,1,0,0,4
+896,Leopoldów,1,0,0,4
+897,Ryki £adownia,0,0,1,18
+898,Ryki,1,0,0,4
+899,Stawy,0,0,0,5
+900,Wis³a,0,0,0,3
+901,Zajezierze ko³o Dêblina,1,0,0,1
+902,B¹kowiec,1,0,0,1
+903,Garbatka-Letnisko,1,0,0,1
+904,¯ytkowice,1,0,0,1
+905,Pionki,1,0,1,1
+906,Pionki Zachodnie,1,0,0,4
+907,Jedlnia Koœcielna,1,0,0,4
+908,Jedlnia-Letnisko,1,0,0,1
+909,Groszowice Wrzosów,0,0,0,4
+910,Antoniówka,1,0,0,4
+911,Rajec Poduchowny,1,0,0,4
+912,Cieksyn,1,0,0,4
+913,Wkra,1,0,0,4
+914,Dalanówek,1,0,0,4
+915,P³oñsk,1,0,0,1
+916,Arcelin,1,0,0,4
+917,Baboszewo,1,0,0,17
+918,Kaczorowo,1,0,0,4
+919,Raci¹¿,1,0,0,1
+920,Koziebrody,1,0,0,4
+921,Zawidz Koœcielny,1,0,0,4
+922,Zawidz,1,0,0,17
+923,Mieszaki,1,0,0,4
+924,Sierpc,1,0,1,1
+925,Podwierzbie,1,0,0,4
+926,Kozio³ek,1,0,0,4
+927,Czermno,1,0,0,4
+928,Skêpe,1,0,0,1
+929,Karnkowo,1,0,0,4
+930,Lipno,1,0,1,1
+931,Konotopie,1,0,0,4
+932,Ograszka,1,0,0,4
+933,Czernikowo,1,0,0,1
+934,Obrowo,1,0,0,4
+935,Dobrzejewice,1,0,0,4
+936,Lubicz,1,0,1,1
+937,Grêbocin,1,0,0,4
+938,Grêbocin,0,0,0,3
+939,Toruñ Wschodni,1,0,1,1
+940,Wieliszew Centrum,0,0,0,4
+941,Zegrze Po³udniowe,0,0,0,17
+942,Jarzêbia £¹ka,1,0,0,4
+943,Grzegorzewo,1,0,0,4
+944,Mostówka,1,0,0,1
+945,Lucynów,1,0,0,4
+946,Rybienko,1,0,0,4
+947,Wyszków,1,0,1,1
+948,Leszczydó³,1,0,0,4
+949,Dalekie,1,0,0,4
+950,Zygmuntowo Mazowieckie,1,0,0,4
+951,Przetycz,1,0,0,1
+952,Prabuty Góry,1,0,0,4
+953,Pasieki,1,0,0,1
+954,Goworowo,1,0,0,4
+955,Gierwaty,1,0,0,1
+956,Ostro³êka,1,0,1,1
+957,Kownatki,0,0,0,4
+958,Jaski,0,0,0,4
+959,Radzyñ Podlaski,1,0,1,1
+960,Lisiowólka,0,0,0,4
+961,Bezwola,0,0,0,5
+962,Milanów,0,0,0,4
+963,Parczew Kolejowa,1,0,0,4
+964,Parczew,1,0,1,1
+965,Laski,1,0,0,4
+966,Gródek,1,0,0,4
+967,Zabiele,1,0,0,4
+968,BrzeŸnica Bychawska,1,0,0,4
+969,BrzeŸnica Bychawska,0,0,0,19
+970,Berejów,1,0,0,4
+971,Tar³o,1,0,0,4
+972,Pa³ecznica,1,0,0,4
+973,Lubartów S³owackiego,1,0,0,4
+974,Lubartów Lipowa,1,0,0,4
+975,Lubartów,1,0,1,1
+976,Wandzin,1,0,0,4
+977,Niemce,1,0,0,4
+978,Bystrzyca ko³o Lublina,1,0,1,1
+979,Ciecierzyn,1,0,0,4
+980,Rudnik,1,0,0,4
+981,Lublin Ponikwoda,1,0,0,4
+982,Lublin Zadêbie,1,0,0,4
+983,Zadêbie,0,0,0,3
+984,Stok Lacki,1,0,0,4
+985,Krzymosze,1,0,0,4
+986,Mordy,1,0,0,4
+987,Mordy Miasto,1,0,0,4
+988,Cierpigórz,1,0,0,4
+989,Niemojki,1,0,1,1
+990,Patków,1,0,0,4
+991,Platerów,1,0,0,1
+992,Sarnaki,1,0,0,4
+993,Frono³ów,1,0,0,4
+994,Siemiatycze,1,0,1,1
+995,Sycze,1,0,0,4
+996,Nurzec,1,0,0,1
+997,Nowy Nurzec,1,0,0,4
+998,Borowiki,1,0,0,4
+999,Czeremcha,1,0,1,1
+1000,Dobrowoda,1,0,0,4
+1001,Policzna,1,0,0,4
+1002,Witowo,1,0,0,4
+1003,Witowo,0,0,0,19
+1004,Orzeszkowo,1,0,0,4
+1005,Hajnówka,1,0,1,1
+1006,Nowosady ANDREX-LOGISTIC,0,0,0,14
+1007,Bernadczyzna,0,0,0,1
+1008,Narewka,1,0,1,1
+1009,Siemianówka AIDA T1435,0,0,0,14
+1010,Siemianówka,1,0,1,1
+1011,Cisówka,0,0,0,4
+1012,Siemianówka (Gr),0,0,0,7
+1013,Kleszczele,1,0,0,4
+1014,Suchowolce,1,0,0,4
+1015,Gregorowce,1,0,0,1
+1016,Podbiele,1,0,0,4
+1017,IKEA Oddzia³ ORLA,0,0,0,14
+1018,Lewki,1,0,0,2
+1019,Bielsk Podlaski,1,0,1,1
+1020,Orzechowicze,1,0,0,4
+1021,Rajsk,1,0,0,4
+1022,Strabla,1,0,0,1
+1023,Zimnochy,1,0,0,4
+1024,Ho³ówki Du¿e,1,0,0,4
+1025,Lewickie,1,0,0,1
+1026,Hryniewicze,1,0,0,4
+1027,Bia³ystok Stadion,1,0,0,4
+1028,Bia³ystok Bocz. 157,0,0,0,14
+1029,Bia³ystok Nowe Miasto,1,0,0,4
+1030,Kutno Azory,1,0,0,4
+1031,Florek,0,0,0,5
+1032,Raciborów Kutnowski,1,0,0,4
+1033,Strzelce Kujawskie,1,0,0,1
+1034,Sierakówek,1,0,0,1
+1035,Gostynin,1,0,1,1
+1036,Rogo¿ew,1,0,0,4
+1037,£¹ck,1,0,0,1
+1038,P³ock Radziwie,1,0,0,1
+1039,P³ock,1,0,1,1
+1040,P³ock Trzepowo,1,0,0,1
+1041,Proboszczewice P³ockie,1,0,0,17
+1042,Gozdowo,1,0,0,17
+1043,Susk,1,0,0,4
+1044,Szczutowo,1,0,0,17
+1045,Puszcza Rz¹dowa,1,0,0,4
+1046,Rypin,1,0,1,17
+1047,Kretki,1,0,0,17
+1048,Brodnica,1,0,1,1
+1049,Daniszewo,0,0,0,4
+1050,Jarnuty,0,0,0,4
+1051,Gucin,0,0,0,4
+1052,Goc³y,0,0,0,4
+1053,Jelonki,0,0,0,4
+1054,Ostrów Mazowiecka,0,0,1,5
+1055,Ostrów Mazowiecka Miasto,0,0,0,4
+1056,Biel,0,0,0,4
+1057,Grabowo,0,0,0,5
+1058,Nowa Wieœ Koœcielna,0,0,0,4
+1059,Zabiele Wielkie,0,0,0,4
+1060,Jastrz¹bka,0,0,0,1
+1061,Parciaki,0,0,0,4
+1062,Olszewka,0,0,0,4
+1063,Raszujka,0,0,0,4
+1064,Chorzele,0,0,0,5
+1065,Wielbark,1,0,1,17
+1066,Jesionowiec,0,0,0,4
+1067,Szymany,1,0,0,1
+1068,Siódmak,1,0,0,4
+1069,Szczytno,1,0,1,1
+1070,¯yŸniewo,0,0,0,4
+1071,Œniadowo,0,0,1,5
+1072,Czerwony Bór,0,0,0,4
+1073,£ubnica £om¿yñska,0,0,0,4
+1074,Ko³aki,0,0,0,4
+1075,Czarnowo-Undy,0,0,0,5
+1076,Kulesze Koœcielne,0,0,0,4
+1077,Wnory,0,0,0,4
+1078,Jamio³ki,0,0,0,4
+1079,Soko³y,0,0,1,18
+1080,Roszki Leœne,0,0,0,4
+1081,P³onka,0,0,0,4
+1082,Bia³ystok Fabryczny,1,0,0,17
+1083,Bia³ystok Fabr. Ikaj,0,0,0,14
+1084,Kuriany,1,0,0,4
+1085,Zajezierce,1,0,0,4
+1086,¯ednia,1,0,0,4
+1087,Sokole Bia³ostockie,1,0,0,4
+1088,Sokole Cpn Nr 8 Zpn,0,0,0,14
+1089,Wali³y,1,0,0,4
+1090,Straszewo Bia³ostockie,0,0,0,4
+1091,Zubki Bia³ostockie,0,0,0,1
+1092,Zubki Bia³ostoc.(Gr),0,0,0,7
+1093,Bia³ystok Starosielce,1,0,0,1
+1094,Bia³ystok Bacieczki,1,0,0,13
+1095,Fasty,1,0,0,4
+1096,Dobrzyniewo Du¿e,1,0,0,4
+1097,Borsukówka,1,0,0,4
+1098,Knyszyn,1,0,0,1
+1099,Zastocze,1,0,0,4
+1100,Czechowizna,1,0,0,4
+1101,Moñki,1,0,0,1
+1102,Goni¹dz,1,0,0,4
+1103,Osowiec,1,0,0,1
+1104,Podlasek,1,0,0,13
+1105,Ruda,1,0,0,4
+1106,Grajewo,1,0,1,1
+1107,Prostki,1,0,0,1
+1108,Lipiñskie Ma³e,1,0,0,4
+1109,E³k Szyba Wschód,1,0,0,4
+1110,E³k Towarowy,0,0,0,5
+1111,E³k,1,0,1,1
+1112,Woszczele,1,0,0,4
+1113,Stare Juchy,1,0,0,1
+1114,Wydminy,1,0,0,1
+1115,Siedliska,1,0,0,4
+1116,Gi¿ycko,1,0,0,1
+1117,Niegocin,1,0,0,4
+1118,Ster³awki Ma³e,1,0,0,4
+1119,Ster³awki Wielkie,1,0,0,1
+1120,Martiany,1,0,0,4
+1121,Kêtrzyn,1,0,1,1
+1122,Nowy M³yn,1,0,0,4
+1123,Linkowo,1,0,0,4
+1124,To³kiny,1,0,1,1
+1125,Korsze,1,0,1,1
+1126,Studzieniec,0,0,0,4
+1127,Ró¿yna Warmiñska,0,0,0,4
+1128,Wiatrowiec Warmiñski,0,0,1,14
+1129,Bartoszyce,0,0,1,14
+1130,G³omno (Gr),0,0,0,7
+1131,Olecko,0,0,1,5
+1132,Wieliczki Oleckie,0,0,0,4
+1133,Wilkasy,0,0,0,4
+1134,Cimochy,0,0,0,4
+1135,Wasilówka,0,0,0,4
+1136,Raczki,0,0,0,14
+1137,Poddubówek,0,0,0,4
+1138,Papiernia,0,0,0,5
+1139,Suwa³ki,1,0,1,1
+1140,Sokó³ka Zpk Zadworz.,0,0,0,14
+1141,Gliniszcze,1,0,0,4
+1142,Racewo,1,0,0,4
+1143,Sidra,1,0,0,1
+1144,Ró¿anystok,1,0,0,4
+1145,D¹browa Bia³ostocka,1,0,0,1
+1146,Kamienna Nowa,1,0,0,4
+1147,Ostrowie Biebrzañskie,1,0,0,4
+1148,Jastrzêbna,1,0,0,1
+1149,Balinka,1,0,0,4
+1150,Augustów,1,0,1,1
+1151,Augustów Port,1,0,0,4
+1152,Blizna,1,0,0,4
+1153,Szczepki,1,0,0,4
+1154,P³ociczno ko³o Suwa³k,1,0,0,4
+1155,Las Suwalski,0,0,0,5
+1156,Przykopka,0,0,0,4
+1157,Che³chy,0,0,0,4
+1158,Kijewo,0,0,0,17
+1159,Olecko Ma³e,0,0,0,4
+1160,Sto¿ne,0,0,0,4
+1161,Kowale Oleckie,0,0,0,4
+1162,Pogorzel,0,0,0,4
+1163,Górne,0,0,0,4
+1164,Botkuny,0,0,0,4
+1165,Go³dap Zpd Tartak,0,0,0,14
+1166,Go³dap,0,0,0,1
+1167,Czeremcha (Gr),0,0,0,7
+1168,Regny,0,0,0,4
+1169,Regny JW,0,0,0,14
+1170,Warszawa Grochów,0,0,0,5
+1171,Koziki,0,0,0,20
+1172,£om¿a,0,0,0,5
+1173,Trakiszki,1,0,1,1
+1174,Trakiszki (Gr),0,0,0,7
+1175,Mik³asze,1,0,0,4
+1176,Orlanka,1,0,0,4
+1177,Morze,1,0,0,4
+1178,Stare Berezowo,1,0,0,4
+1179,Chytra,1,0,0,4
+1180,Nieznany Bór,0,0,0,4
+1181,Nieznany Bór Bsz,0,0,0,14
+1182,Tedex-Oil,0,0,0,14
+1183,Glinnik Bocznica,0,0,0,14
+1184,Spa³a,1,0,0,1
+1185,Soko³ów Podlaski,0,0,1,5
+1186,Bielany Podlaskie,0,0,0,4
+1187,Borki Siedleckie,0,0,0,4
+1188,Strza³a Bsz,0,0,0,14
+1189,£osoœna CL 1520,0,0,0,14
+1190,Bufa³owo Wschód,0,0,0,14
+1191,Sokó³ka SAGA,0,0,0,10
+1192,Mik³aszewo,0,0,0,5
+1193,Zab³otczyzna,0,0,0,5
+1194,Kobylany,0,0,0,5
+1195,Kielce Herbskie,1,0,1,1
+1196,Kielce Œlichowice,1,0,0,4
+1197,Górki Szczukowskie,1,0,0,2
+1198,Szczukowice,0,0,0,3
+1199,Piekoszów,1,0,1,17
+1200,Rykoszyn,0,0,0,5
+1201,Rykoszyn,1,0,0,4
+1202,Wierna Rzeka,1,0,0,4
+1203,Ma³ogoszcz,1,0,1,1
+1204,Bukowa,1,0,0,4
+1205,Ludynia,1,0,0,1
+1206,Ludynia Dwór,1,0,0,4
+1207,W³oszczowa,1,0,1,1
+1208,Czarnca,1,0,0,4
+1209,Czarnca,0,0,0,3
+1210,¯elis³awice,1,0,0,1
+1211,Koniecpol,1,0,0,1
+1212,Koniecpol Magdasz,1,0,0,4
+1213,Podlesie,1,0,0,12
+1214,Staropole Czêstochowskie,1,0,0,4
+1215,Julianka,1,0,0,1
+1216,Lus³awice,1,0,0,12
+1217,Turów,1,0,0,1
+1218,Kusiêta Nowe,1,0,0,4
+1219,Kusiêta,0,0,0,15
+1220,Kucelinka,0,0,0,3
+1221,Czêstochowa Stradom,1,0,1,1
+1222,Czêstochowa Gnaszyn,0,0,0,5
+1223,Czêstochowa Gnaszyn,1,0,0,4
+1224,Blachownia,1,0,0,4
+1225,Blachownia,0,0,0,5
+1226,Herby Stare,1,0,0,1
+1227,Liswarta,0,0,0,3
+1228,Lisów,1,0,0,1
+1229,Kochanowice,1,0,1,1
+1230,Jawornica,0,0,0,3
+1231,Lubliniec,1,0,1,1
+1232,Lisowice,1,0,0,4
+1233,Pawonków,1,0,1,1
+1234,Pludry,1,0,0,1
+1235,Fosowskie,1,0,0,1
+1236,Charsznica,1,0,0,1
+1237,Gajówka,1,0,0,4
+1238,Gajówka APO,0,0,0,15
+1239,Je¿ówka,1,0,0,4
+1240,Wolbrom,1,0,1,1
+1241,Zarzecze,1,0,0,4
+1242,Zarzecze APO,0,0,0,15
+1243,Chrz¹stowice Olkuskie,1,0,0,4
+1244,Jaroszowiec Olkuski,1,0,0,1
+1245,Olkusz,1,0,0,1
+1246,Bukowno,1,0,0,1
+1247,Bukowno Przymiarki,1,0,0,4
+1248,S³awków,1,0,0,1
+1249,D¹browa Górnicza Wschodnia,1,0,0,1
+1250,D¹browa Górnicza Strzemieszyce,1,0,0,1
+1251,Sosnowiec Kazimierz,1,0,0,1
+1252,Sosnowiec Por¹bka,1,0,0,4
+1253,Sosnowiec Dañdówka,1,0,0,1
+1254,Sosnowiec D. F-ka Lin i Drutu,0,0,0,14
+1255,Sosnowiec Po³udniowy,1,0,0,1
+1256,Wólka Okopska,0,0,0,5
+1257,Tezet,0,0,0,14
+1258,BrzeŸno,0,0,0,15
+1259,Uherka Mijanka,0,0,0,19
+1260,Naftobaza,0,0,0,14
+1261,Sprowa,0,0,0,3
+1262,Starzyny,0,0,0,3
+1263,Zwierzyniec Towarowy,0,0,1,5
+1264,Szozdy,0,0,0,4
+1265,Tereszpol Bi³gorajski,1,0,0,4
+1266,Wola Du¿a,0,0,0,4
+1267,Bi³goraj,1,0,0,1
+1268,D¹browica ko³o Bi³goraja,0,0,0,4
+1269,Ciosmy,0,0,0,4
+1270,Huta Krzeszowska,1,0,0,1
+1271,Golce,0,0,0,4
+1272,Huta Derêgowska,0,0,0,4
+1273,K³y¿ów,0,0,0,4
+1274,Stalowa Wola Po³udnie,1,0,0,1
+1275,Lublin Tatary,0,0,1,1
+1276,Lublin Zemborzyce,1,0,0,1
+1277,Krê¿nica Jara,1,0,0,4
+1278,Majdan,1,0,0,4
+1279,Niedrzwica,1,0,1,1
+1280,Niedrzwica Koœcielna,1,0,0,4
+1281,Leœniczówka,1,0,0,4
+1282,Wilko³az Wieœ,1,0,0,4
+1283,Wilko³az,1,0,1,1
+1284,Pu³ankowice,1,0,0,4
+1285,Kraœnik,1,0,1,1
+1286,Sulów,1,0,0,4
+1287,Szastarka,1,0,1,1
+1288,Polichna Kraœnicka,1,0,0,4
+1289,Rzeczyca-Kolonia,1,0,0,4
+1290,Rzeczyca,1,0,0,1
+1291,Potok Kraœnicki,1,0,0,4
+1292,Zaklików,1,0,0,1
+1293,Zaklików Miasto,1,0,0,4
+1294,Lipa,1,0,0,1
+1295,Kêpa,1,0,0,4
+1296,Pilchów,1,0,0,4
+1297,Charzewice,0,0,0,3
+1298,Stalowa Wola Rozwadów,1,0,1,1
+1299,Stalowa Wola Centrum,1,0,0,4
+1300,Stalowa Wola,1,0,0,4
+1301,Moskale,1,0,0,4
+1302,Nisko Osiedle,1,0,0,4
+1303,Nisko,1,0,1,1
+1304,Nisko Rac³awice,1,0,0,4
+1305,Nisko Podwolina,1,0,0,4
+1306,Rudnik Stró¿a,1,0,0,4
+1307,Rudnik nad Sanem,1,0,0,1
+1308,£êtownia,1,0,0,1
+1309,Nowa Sarzyna Kolonia,1,0,0,4
+1310,Nowa Sarzyna,1,0,0,1
+1311,Jelna,1,0,0,4
+1312,Le¿ajsk,1,0,1,1
+1313,Wierzawice,1,0,0,4
+1314,Grodzisko Dolne,1,0,1,1
+1315,Tryñcza,1,0,0,13
+1316,Gniewczyna,1,0,0,4
+1317,Przeworsk Gorliczyna,0,0,0,5
+1318,Przeworsk,1,0,1,1
+1319,Zagrody Koœció³,1,0,0,4
+1320,¯ulin,1,0,0,4
+1321,Krasnystaw Fabryczny,1,0,0,1
+1322,Krasnystaw Miasto,1,0,0,4
+1323,Krasnystaw,0,0,0,5
+1324,Wólka Or³owska,1,0,0,4
+1325,Izbica,1,0,0,4
+1326,Izbica,0,0,0,18
+1327,Tarzymiechy,1,0,0,4
+1328,Ruskie Piaski,1,0,0,1
+1329,Z³ojec,1,0,0,4
+1330,Zawada,1,0,0,1
+1331,Wólka Niedzieliska,1,0,0,4
+1332,Klemensów,1,0,0,1
+1333,Szczebrzeszyn,1,0,1,1
+1334,Zwierzyniec,1,0,0,4
+1335,Józefów Roztoczañski,1,0,0,17
+1336,D³ugi K¹t,1,0,1,17
+1337,Nowiny,1,0,0,4
+1338,Susiec,1,0,0,1
+1339,Mazi³y,1,0,0,4
+1340,Be³¿ec Drugi,1,0,0,4
+1341,Be³¿ec,1,0,1,1
+1342,Lubycza Królewska,1,0,1,17
+1343,Hrebenne,1,0,0,1
+1344,Hrebenne (Gr),0,0,0,7
+1345,W³oszczowice,1,0,0,1
+1346,Go³uchów LHS,0,0,0,14
+1347,Chmielnik,0,0,0,5
+1348,Raczyce,0,0,0,19
+1349,Grzybów,0,0,0,5
+1350,Staszów,0,0,1,5
+1351,Rytwiany,0,0,0,3
+1352,Strzegomek,0,0,0,5
+1353,Chmielów Zagumnie,1,0,0,4
+1354,Cygany,1,0,0,4
+1355,Jadachy,1,0,0,4
+1356,Tarnowska Wola,1,0,0,4
+1357,Dêba Rozalin,1,0,0,1
+1358,Nowa Dêba,1,0,0,4
+1359,Huta Komorowska,1,0,0,4
+1360,Majdan Królewski,1,0,0,13
+1361,Majdan Królewski Podlasek,1,0,0,4
+1362,Komorów Podmurynia,1,0,0,4
+1363,Cmolas,1,0,0,4
+1364,Zarêbki,1,0,0,4
+1365,Kolbuszowa,1,0,1,1
+1366,Wide³ka,1,0,0,4
+1367,Wide³ka ORLEN,0,0,0,21
+1368,Budy G³ogowskie,1,0,0,4
+1369,G³ogów Ma³opolski,1,0,1,1
+1370,RogoŸnica ko³o Rzeszowa,1,0,0,4
+1371,Zaczernie,1,0,0,4
+1372,Rzeszów Mi³ocin,1,0,0,4
+1373,Rzeszów Zachodni,1,0,0,4
+1374,Rzeszów G³ówny,1,0,0,1
+1375,Mokre,1,0,0,4
+1376,Zamoœæ,1,0,1,1
+1377,Zamoœæ Starówka,1,0,0,4
+1378,Zamoœæ Wschód,1,0,0,4
+1379,Zamoœæ Szopinek,0,0,0,5
+1380,Jaros³awiec,0,0,0,5
+1381,Mi¹czyn,0,0,1,18
+1382,Koniuchy,0,0,0,4
+1383,Frankamionka,0,0,0,4
+1384,Konopne,0,0,0,4
+1385,Werbkowice,1,0,0,1
+1386,Metelin,0,0,0,4
+1387,Hrubieszów Cpn Bsz,0,0,0,14
+1388,Hrubieszów Miasto,1,0,1,1
+1389,Brzeziny,1,0,0,2
+1390,Nida,0,0,0,1
+1391,Dêbska Wola,1,0,0,4
+1392,Kije,1,0,0,4
+1393,Stawiany Piñczowskie,0,0,0,17
+1394,Szarbków,0,0,0,1
+1395,Busko-Zdrój £adownia,0,0,1,18
+1396,Busko-Zdrój,1,0,0,4
+1397,Grêbów,1,0,1,1
+1398,Zbydniów,1,0,0,1
+1399,Turbia,1,0,0,4
+1400,Stalowa Wola Rozwadów Towarowa,0,0,0,5
+1401,Po³aniec,0,0,0,5
+1402,Sieciechów,0,0,0,5
+1403,Janików,0,0,0,19
+1404,Œwier¿e Górne,0,0,0,5
+1405,Wola Baranowska,0,0,0,22
+1406,Karolinówka,1,0,0,4
+1407,Ruda-Huta,1,0,0,4
+1408,Ruda-Opalin,1,0,1,17
+1409,Uhrusk Przystanek,1,0,0,4
+1410,Uhrusk,1,0,1,17
+1411,Majdan Stuleñski,1,0,0,4
+1412,Stulno,1,0,0,4
+1413,Sobibór,1,0,1,17
+1414,Okuninka Bia³e,1,0,0,4
+1415,W³odawa,1,0,1,17
+1416,Sarnów ko³o Wysokiego Ko³a,0,0,0,18
+1417,Zamoœæ Bortatycze,0,0,0,5
+1418,Zebrzydowice,1,0,0,1
+1419,Koñczyce,1,0,0,4
+1420,Kaczyce,1,0,0,1
+1421,Pogwizdów,1,0,0,4
+1422,Cieszyn Marklowice,1,0,0,1
+1423,Cieszyn,1,0,0,1
+1424,Kraków Zab³ocie,1,0,0,4
+1425,Kraków P³aszów,1,0,0,1
+1426,Kraków Prokocim,1,0,0,4
+1427,Kraków Bie¿anów,1,0,0,1
+1428,Kraków Z³ocieñ,1,0,0,4
+1429,Kokotów,1,0,0,4
+1430,Wêgrzce Wielkie,1,0,0,4
+1431,Pod³ê¿e,1,0,1,1
+1432,Stani¹tki,1,0,0,4
+1433,Szarów,1,0,0,4
+1434,K³aj,1,0,0,1
+1435,Stanis³awice,1,0,0,4
+1436,Cikowice,1,0,0,4
+1437,Bochnia,1,0,0,1
+1438,Rzezawa,1,0,0,4
+1439,Jasieñ Brzeski,1,0,0,4
+1440,Brzesko Okocim,1,0,0,1
+1441,Sterkowiec,1,0,0,4
+1442,Biadoliny,1,0,0,4
+1443,Biadoliny,0,0,0,3
+1444,Bogumi³owice,1,0,1,1
+1445,Tarnów Moœcice,1,0,0,1
+1446,Tarnów,1,0,0,1
+1447,Tarnów Wschód,0,0,0,3
+1448,Wola Rzêdziñska,1,0,0,1
+1449,Wa³ki,1,0,0,4
+1450,Czarna Tarnowska,1,0,0,4
+1451,Czarna Tarnowska,0,0,0,3
+1452,Grabiny,1,0,0,4
+1453,Dêbica Wschodnia,1,0,0,4
+1454,Lubzina,1,0,0,4
+1455,Ropczyce,1,0,1,1
+1456,Ropczyce Witkowice,1,0,0,4
+1457,Sêdziszów Ma³opolski,1,0,1,1
+1458,Bêdziemyœl,1,0,0,4
+1459,Trzciana,1,0,0,2
+1460,Œwilcza,1,0,0,4
+1461,Rudna Wielka,1,0,0,4
+1462,Rzeszów Za³ê¿e,1,0,0,4
+1463,Stra¿ów,1,0,0,1
+1464,Krzemienica,1,0,0,4
+1465,£añcut,1,0,1,1
+1466,G³uchów,1,0,0,4
+1467,Kosina,1,0,0,4
+1468,Rogó¿no ko³o £añcuta,1,0,0,1
+1469,Grzêska,1,0,0,4
+1470,Pe³kinie,1,0,0,4
+1471,Jaros³aw,1,0,1,1
+1472,Munina,1,0,1,1
+1473,Ostrów ko³o Radymna,1,0,0,4
+1474,Radymno,1,0,1,1
+1475,Soœnica Jaros³awska,1,0,0,4
+1476,Niziny,1,0,0,4
+1477,Walawa,1,0,0,4
+1478,¯urawica,0,0,1,1
+1479,¯urawica Rozrz¹dowa,1,0,0,4
+1480,¯urawica,1,0,0,4
+1481,Przemyœl Zasanie,1,0,0,4
+1482,Przemyœl G³ówny,1,0,1,1
+1483,Hurko,1,0,0,1
+1484,Medyka Towarowa,1,0,0,4
+1485,Medyka Rozrz¹dowa,1,0,0,4
+1486,Medyka,1,0,0,1
+1487,Medyka (Gr),0,0,0,7
+1488,Trzebinia,1,0,0,1
+1489,Chrzanów Œródmieœcie,1,0,0,4
+1490,Chrzanów,1,0,0,1
+1491,Libi¹¿ ZB Janina,0,0,0,6
+1492,Libi¹¿,1,0,0,1
+1493,Che³mek,1,0,0,1
+1494,Gorzów Chrzanowski,1,0,0,4
+1495,Oœwiêcim,1,0,0,1
+1496,Brzeszcze,1,0,0,4
+1497,Brzeszcze Kopalnia,0,0,0,5
+1498,Brzeszcze Jawiszowice,1,0,0,1
+1499,Jawiszowice JaŸnik,1,0,0,4
+1500,Dankowice,1,0,0,12
+1501,Kaniów,1,0,0,4
+1502,Czechowice-Dziedzice,1,0,1,1
+1503,Zabrzeg,1,0,0,4
+1504,Zabrzeg Czarnolesie,1,1,0,4
+1505,Bronów podg,0,0,0,3
+1506,Chybie,1,0,1,1
+1507,Drogomyœl,1,0,0,4
+1508,Pruchna,1,0,0,1
+1509,Zebrzydowice (Gr),0,0,0,7
+1510,Kraków Podgórze P2,1,0,0,2
+1511,Kraków Bonarka,1,0,1,1
+1512,Kraków £agiewniki,1,0,0,4
+1513,Kraków Sanktuarium,1,0,0,4
+1514,Kraków Swoszowice,1,0,0,4
+1515,Kraków Opatkowice,1,0,0,2
+1516,Kraków Sidzina,1,0,0,4
+1517,Skawina Jagielnia,1,0,0,4
+1518,Skawina,1,0,0,1
+1519,Skawina Zachodnia,1,0,0,4
+1520,Podbory Skawiñskie,1,0,0,1
+1521,Zelczyna,1,0,0,4
+1522,Wielkie Drogi,1,0,0,12
+1523,Jaœkowice,1,0,0,4
+1524,BrzeŸnica,1,0,0,1
+1525,Pó³wieœ,1,0,0,4
+1526,Ryczów Odst,0,0,0,15
+1527,Ryczów,1,0,0,4
+1528,Spytkowice Kêpki,1,0,0,4
+1529,Spytkowice,1,0,0,1
+1530,Zator,1,0,0,4
+1531,Przeciszów,1,0,0,1
+1532,W³osienica,1,0,0,4
+1533,Dwory,1,0,0,1
+1534,Kraków Mydlniki,1,0,0,1
+1535,D³ubnia,0,0,0,3
+1536,Kraków Lubocza,1,0,0,4
+1537,Kraków Nowa Huta,1,0,0,4
+1538,Kraków Nowa Huta,0,0,0,5
+1539,Koœcielniki,0,0,0,3
+1540,Tarnów Filia,0,0,0,5
+1541,K³okowa,0,0,0,19
+1542,K³okowa,1,0,0,4
+1543,£owczówek Pleœna,1,0,0,1
+1544,£owczów,1,0,0,13
+1545,Tuchów,1,0,0,1
+1546,Lubaszowa,1,0,0,4
+1547,Siedliska ko³o Tuchowa,1,0,0,13
+1548,Chojnik,1,0,0,4
+1549,Gromnik,1,0,0,1
+1550,Bogoniowice Ciê¿kowice,1,0,1,1
+1551,Zborowice,0,0,0,19
+1552,P³awna,1,0,0,4
+1553,Bobowa,1,0,1,1
+1554,Bobowa-Miasto,1,0,0,4
+1555,Jankowa,1,0,0,4
+1556,Wilczyska,1,0,0,13
+1557,Stró¿e,1,0,0,1
+1558,Grybów,1,0,1,1
+1559,Bia³a Wy¿na,0,0,0,15
+1560,Ptaszkowa,1,0,0,2
+1561,Mszalnica,1,0,0,12
+1562,Kamionka Wielka,1,0,0,1
+1563,Nowy S¹cz Jamnica,1,0,0,4
+1564,Nowy S¹cz,1,0,1,1
+1565,Nowy S¹cz Biegonice,1,0,0,23
+1566,Stary S¹cz,1,0,0,1
+1567,Barcice,1,0,0,4
+1568,Rytro,1,0,0,1
+1569,M³odów,1,0,0,4
+1570,Piwniczna-Zdrój,1,0,0,4
+1571,Piwniczna,1,0,1,1
+1572,£omnica-Zdrój,1,0,0,4
+1573,Wierchomla,0,0,0,24
+1574,Wierchomla Wielka,1,0,0,4
+1575,Zubrzyk,1,0,0,4
+1576,¯egiestów,1,0,0,1
+1577,¯egiestów-Zdrój,1,0,0,4
+1578,Andrzejówka,1,0,0,13
+1579,Milik,1,0,0,4
+1580,Muszyna,1,0,0,1
+1581,Muszyna Poprad,1,0,0,4
+1582,Leluchów,1,0,0,4
+1583,Muszyna (Gr),0,0,0,7
+1584,Rzozów Centrum,0,0,0,4
+1585,Rzozów,1,0,0,4
+1586,Radziszów Centrum,1,0,0,4
+1587,Radziszów,1,0,0,1
+1588,Wola Radziszowska Lipki,0,0,0,4
+1589,Wola Radziszowska,1,0,0,4
+1590,Podolany,1,0,0,4
+1591,Leñcze,1,0,0,1
+1592,Przytkowice,1,0,0,4
+1593,Kalwaria Zebrzydowska Lanckorona,1,0,0,1
+1594,Stronie,1,0,0,1
+1595,Stryszów,1,0,0,1
+1596,Zembrzyce,1,0,0,4
+1597,Zembrzyce Nowe,0,0,0,19
+1598,Sucha Beskidzka Zamek,1,0,0,2
+1599,Sucha Beskidzka,1,0,1,1
+1600,Stryszawa,1,0,0,4
+1601,Lachowice,1,0,0,1
+1602,Lachowice Centrum,1,0,0,4
+1603,Kurów Suski,1,0,0,4
+1604,Hucisko,1,0,0,4
+1605,Pewel Wielka,1,0,0,4
+1606,Pewel Wielka Centrum,1,0,0,4
+1607,Jeleœnia,1,0,0,1
+1608,Pewel Ma³a,1,0,0,4
+1609,¯ywiec Sporysz,1,0,0,1
+1610,¯ywiec,1,0,1,1
+1611,Maków Podhalañski,1,0,0,1
+1612,Juszczyn,1,0,0,4
+1613,Kojszówka,1,0,0,4
+1614,Osielec,1,0,1,1
+1615,Bystra Podhalañska,1,0,0,4
+1616,Jordanów,1,0,0,1
+1617,Skawa,1,0,0,13
+1618,Skawa Œrodkowa,1,0,0,4
+1619,Chabówka,1,0,1,1
+1620,Rokiciny Podhalañskie,1,0,0,4
+1621,Raba Wy¿na,1,0,0,1
+1622,Sieniawa,1,0,0,1
+1623,Pyzówka,1,0,0,4
+1624,Lasek,1,0,0,1
+1625,Nowy Targ,1,0,0,1
+1626,Szaflary,1,0,0,1
+1627,Szaflary Wieœ,1,0,0,4
+1628,Bia³y Dunajec,1,0,0,1
+1629,Poronin,1,0,0,1
+1630,Zakopane,1,0,0,1
+1631,Kraków Olsza,1,0,0,1
+1632,Kraków Prokocim Towarowy,0,0,0,1
+1633,Surochów,1,0,0,4
+1634,Surochów EUROSERVICE,0,0,0,14
+1635,Bobrówka,1,0,1,1
+1636,Zagrody,1,0,0,4
+1637,Korzenica,1,0,0,4
+1638,Nowa Grobla,1,0,0,4
+1639,Oleszyce,1,0,0,4
+1640,Lubaczów,1,0,0,1
+1641,Basznia Dolna,1,0,0,4
+1642,Basznia,1,0,0,4
+1643,Basznia Polska Siarka,0,0,0,14
+1644,Horyniec-Zdrój,1,0,1,1
+1645,Werchrata,1,0,0,1
+1646,Siedliska Tomaszowskie,1,0,0,4
+1647,Przemyœl Bakoñczyce,0,0,1,5
+1648,Pikulice,0,0,0,4
+1649,Przemyœl Pikulice,1,0,0,4
+1650,Hermanowice,0,0,0,4
+1651,Malhowice,0,0,0,4
+1652,Przemyœl Bakoñczyce (Gr),0,0,0,7
+1653,Pi³a Koœcielecka,0,0,0,4
+1654,Bolêcin,0,0,0,17
+1655,Regulice Górne,0,0,0,4
+1656,Regulice,0,0,0,4
+1657,Alwernia,0,0,0,4
+1658,Alwernia Z-dy Chemiczne ALVENTA,0,0,0,14
+1659,Okleœna,0,0,0,17
+1660,Miejsce,0,0,0,4
+1661,Trzebieñczyce,0,0,0,4
+1662,Grodzisko,0,0,0,4
+1663,WoŸniki,0,0,0,4
+1664,Radocza,0,0,0,4
+1665,Wadowice,1,0,0,1
+1666,Rabka-Zdrój,1,0,0,4
+1667,Rabka Zaryte,1,0,0,1
+1668,Raba Ni¿na,1,0,0,4
+1669,Mszana Dolna Marki,1,0,0,4
+1670,Mszana Dolna,1,0,0,1
+1671,Kasina Wielka,1,0,0,4
+1672,Skrzydlna,1,0,0,4
+1673,Dobra ko³o Limanowej,1,0,0,4
+1674,Tymbark,1,0,0,1
+1675,Piekie³ko,1,0,0,4
+1676,£ososina Górna,1,0,0,4
+1677,Limanowa,1,0,0,1
+1678,Pisarzowa,1,0,0,4
+1679,Mêcina Podgórze,1,0,0,4
+1680,Mêcina,1,0,0,4
+1681,Chomranice,1,0,0,4
+1682,Klêczany,1,0,0,4
+1683,Klêczany Kss,0,0,0,14
+1684,Marcinkowice,1,0,0,1
+1685,Nowy S¹cz Che³miec,1,0,0,4
+1686,Nowy S¹cz Miasto,1,0,0,4
+1687,Muszyna Zdrój,1,0,0,4
+1688,PowroŸnik,1,0,0,1
+1689,Krynica-Zdrój,1,0,0,1
+1690,Rzeszów Staroniwa,1,0,0,1
+1691,Rzeszów Osiedle,1,0,0,4
+1692,Rzeszów Zwiêczyca,1,0,0,4
+1693,Boguchwa³a,1,0,1,1
+1694,Wis³oczanka,1,0,0,4
+1695,Babica,1,0,0,13
+1696,Babica Kolonia,1,0,0,4
+1697,Czudec,1,0,1,1
+1698,Zaborów B³onia,1,0,0,4
+1699,Zaborów,1,0,0,4
+1700,Strzy¿ów nad Wis³okiem,1,0,1,1
+1701,Dobrzechów,1,0,0,13
+1702,Markuszowa,1,0,0,4
+1703,Kalembina,1,0,0,4
+1704,Wiœniowa,1,0,0,4
+1705,Frysztak,1,0,1,1
+1706,Przybówka,1,0,0,13
+1707,Wojaszówka,1,0,0,4
+1708,Szebnie,1,0,0,4
+1709,Jas³o Fabryczne,1,0,0,4
+1710,Jas³o Towarowa,0,0,0,1
+1711,Jas³o,1,0,0,1
+1712,Nowy Zagórz,1,0,0,2
+1713,Zagórz,1,0,1,1
+1714,Tarnawa Dolna,1,0,0,4
+1715,Czaszyn,1,0,0,4
+1716,Morochów,1,0,0,4
+1717,Mokre Ma³opolskie,1,0,0,4
+1718,Wysoczany,1,0,0,4
+1719,Szczawne Kulaszne,1,0,1,1
+1720,RzepedŸ,1,0,0,4
+1721,Komañcza Letnisko,1,0,0,4
+1722,Komañcza,1,0,1,1
+1723,Nowy £upków,1,0,0,4
+1724,Nowy £upków,0,0,0,18
+1725,£upków,1,0,0,1
+1726,£upków (Gr),0,0,0,7
+1727,Polna,1,0,0,4
+1728,Szalowa,1,0,0,4
+1729,Wola £u¿añska,1,0,0,1
+1730,Moszczenica Ma³opolska,1,0,0,4
+1731,Gorlice Zagórzany,1,0,1,1
+1732,Libusza,1,0,0,4
+1733,Biecz,1,0,0,1
+1734,Siepietnica,1,0,0,4
+1735,Sko³yszyn,1,0,0,4
+1736,Przysieki,1,0,0,1
+1737,Jas³o Nieg³owice,1,0,0,8
+1738,Sobniów,0,0,0,3
+1739,Gliniczek,1,0,0,4
+1740,Tarnowiec,1,0,0,1
+1741,Jedlicze Mêcinka,1,0,0,4
+1742,Jedlicze,1,0,1,1
+1743,Krosno Turaszówka,1,0,0,4
+1744,Krosno Polanka,1,0,0,4
+1745,Krosno,1,0,0,1
+1746,Krosno Miasto,1,0,0,4
+1747,Targowiska,1,0,1,1
+1748,Widacz,1,0,0,4
+1749,Wróblik Szlachecki,1,0,1,1
+1750,Milcza,1,0,0,4
+1751,Besko,1,0,0,4
+1752,Zarszyn,1,0,0,1
+1753,D³ugie,1,0,0,4
+1754,Nowosielce,1,0,0,1
+1755,Sanok D¹brówka,1,0,0,4
+1756,Sanok Miasto,1,0,0,4
+1757,Sanok,1,0,1,1
+1758,Za³u¿,1,0,0,4
+1759,Lesko £ukawica,1,0,0,4
+1760,Jankowce,1,0,0,4
+1761,Uherce Tunel,1,0,0,4
+1762,Uherce,1,0,1,1
+1763,Olszanica,1,0,0,4
+1764,Ustianowa,1,0,0,4
+1765,Ustrzyki Dolne,1,0,1,1
+1766,Kroœcienko,1,0,0,1
+1767,Kroœcienko (Gr),1,0,0,7
+1768,Kraków Bie¿anów Dro¿d¿ownia,1,0,0,4
+1769,Wieliczka Bogucice,1,0,0,4
+1770,Wieliczka Park,1,0,0,1
+1771,Wieliczka Rynek-Kopalnia,1,0,0,4
+1772,Hydronaft Gorlice,0,0,0,14
+1773,Gorlice Fabryka Maszyn Glinik,0,0,0,14
+1774,Gorlice Glinik,1,0,0,4
+1775,Gorlice,1,0,0,1
+1776,Trzebinia Sz W³odzim,0,0,0,14
+1777,Trzebionka,0,0,0,6
+1778,Trzebinia Siersza,0,0,0,5
+1779,Tarnów Pó³nocny,0,0,0,4
+1780,Tarnów Klikowa,0,0,0,4
+1781,Tarnów Klikowa Bsz,0,0,0,14
+1782,£ukowa Tarnowska,0,0,0,4
+1783,£êg Tarnowski,0,0,0,4
+1784,Niedomice,0,0,0,4
+1785,Niedomice Zuh,0,0,0,14
+1786,¯abno,0,0,0,14
+1787,Fiuk,0,0,0,17
+1788,D¹browa Tarnowska,0,0,0,17
+1789,Olesno Tarnowskie,0,0,0,17
+1790,D¹brówki Breñskie,0,0,0,4
+1791,Mêdrzechów,0,0,0,17
+1792,Kupienin,0,0,0,4
+1793,Delastowice,0,0,0,4
+1794,Szczucin ko³o Tarnowa,0,0,0,14
+1795,Werchrata (Gr),0,0,0,7
+1796,Kalwaria Zebrzydowska,1,0,0,4
+1797,Barwa³d Górny,1,0,0,4
+1798,Barwa³d Œredni,1,0,0,13
+1799,Klecza Górna,1,0,0,4
+1800,Klecza Dolna,1,0,0,4
+1801,Wadowice Osiedle Podhalanin,1,0,0,4
+1802,Chocznia,1,0,0,4
+1803,Chocznia Górna,1,0,0,4
+1804,Inwa³d,1,0,0,4
+1805,Andrychów,1,0,0,1
+1806,Andrychów Górnica,1,0,0,4
+1807,Bulowice,1,0,0,4
+1808,Zamek Bulowicki,1,0,0,4
+1809,Kêty,1,0,1,1
+1810,Kêty Podlesie,1,0,0,4
+1811,Kozy Zagroda,1,0,0,4
+1812,Kozy,1,0,0,1
+1813,Krzemionki,1,0,0,4
+1814,Bielsko-Bia³a Wschód,1,0,0,1
+1815,Bielsko-Bia³a G³ówna,1,0,1,1
+1816,Kraków £obzów,1,0,0,4
+1817,Kraków Bronowice,1,0,0,4
+1818,Kraków M³ynówka,1,0,0,4
+1819,Kraków Zakliki,1,0,0,4
+1820,Kraków Olszanica,1,0,0,4
+1821,Kraków Pkn Orlen,0,0,0,10
+1822,Kraków Balice MPL,0,0,0,10
+1823,Kraków Lotnisko,1,0,0,1
+1824,Ma³kowice,0,0,0,22
+1825,Krówniki Bsz,0,0,0,14
+1826,Cha³upki Medyckie Czh,0,0,0,14
+1827,Cha³upki Medyckie,0,0,0,22
+1828,Chrzanów PKN Orlen BM46,0,0,0,14
+1829,Chrzanów ZMO,0,0,0,14
+1830,Chrzanów ¯elatowa,0,0,0,14
+1831,Pogorzyce,0,0,0,4
+1832,P³aza,0,0,0,18
+1833,Radzionków,1,0,1,1
+1834,Nak³o Œl¹skie,1,0,0,1
+1835,Tarnowskie Góry,1,0,0,1
+1836,Miasteczko Œl¹skie,1,0,0,4
+1837,Zwierzyniec,0,0,0,15
+1838,Kalety,1,0,1,1
+1839,Chorzów Batory,1,0,0,1
+1840,Chorzów Miasto,0,0,0,1
+1841,Chorzów Stary,1,0,0,1
+1842,Bytom,1,0,0,1
+1843,Bytom Karb,1,0,0,1
+1844,Bytom Pó³nocny,0,0,0,3
+1845,Bytom Pó³nocny,1,0,0,4
+1846,Radzionków Rojca,1,0,0,4
+1847,Strzebiñ,1,0,0,4
+1848,Strzebiñ Podg,0,0,0,3
+1849,Boronów,1,0,0,1
+1850,Kalina,0,0,0,3
+1851,Herby Nowe,1,0,0,1
+1852,Wrêczyca,0,0,0,5
+1853,K³obuck,0,0,1,5
+1854,MiedŸno,0,0,0,5
+1855,Dzia³oszyn,0,0,1,5
+1856,Sadowiec,0,0,0,15
+1857,Chorzew Siemkowice,0,0,0,5
+1858,Huta,0,0,0,4
+1859,Rusiec £ódzki,0,0,0,5
+1860,Chociw £aski,0,0,1,5
+1861,Siedlce £askie,0,0,0,4
+1862,Kozuby,0,0,0,5
+1863,Zduñska Wola Po³udniowa,1,0,0,16
+1864,Zduñska Wola Karsznice,1,0,1,1
+1865,Dionizów,0,0,0,3
+1866,Szadek,1,0,0,1
+1867,Otok,1,0,0,1
+1868,Poddêbice,1,0,0,1
+1869,K³udna,1,0,1,1
+1870,Kraski,1,0,0,1
+1871,D¹bie nad Nerem,1,0,1,1
+1872,Ponêtów,1,0,0,1
+1873,Borys³awice,0,0,0,3
+1874,Lipie Góry,1,0,0,1
+1875,Babiak,1,0,0,1
+1876,Zaryñ,1,0,1,1
+1877,Piotrków Kujawski,1,0,1,1
+1878,Che³mce,1,0,1,1
+1879,Bachorce,1,0,0,4
+1880,Karczyn,1,0,0,1
+1881,Inowroc³aw R¹binek,1,0,0,1
+1882,Mimowola,0,0,0,3
+1883,Inowroc³aw,1,0,0,1
+1884,Jaksice,1,0,0,1
+1885,Z³otniki Kujawskie,1,0,0,1
+1886,Nowa Wieœ Wielka,1,0,0,1
+1887,Chmielniki Bydgoskie,1,0,0,4
+1888,Brzoza Bydgoska,1,0,0,1
+1889,Trzciniec,1,0,0,1
+1890,Bydgoszcz B³onie,1,0,0,4
+1891,Rynkowo Wiadukt,1,0,0,4
+1892,Maksymilianowo,1,0,1,1
+1893,Kotomierz,1,0,1,1
+1894,Pruszcz Pomorski,1,0,1,1
+1895,Parlin,1,0,0,1
+1896,Terespol Pomorski,1,0,0,1
+1897,Laskowice Pomorskie,1,0,1,1
+1898,Warlubie,1,0,1,1
+1899,Twarda Góra,1,0,0,1
+1900,Smêtowo,1,0,1,1
+1901,Majewo,1,0,0,4
+1902,Morzeszczyn,1,0,0,1
+1903,Kulice Tczewskie,1,0,0,4
+1904,Pelplin,1,0,1,1
+1905,Subkowy,1,0,0,1
+1906,Subkowy Centrum,1,0,0,4
+1907,Czarlin,1,0,0,4
+1908,Górki,0,0,0,3
+1909,Bytom Bobrek,0,0,0,5
+1910,Zabrze Biskupice,0,0,0,5
+1911,Pyskowice,1,0,0,1
+1912,Paczyna,1,0,0,2
+1913,Toszek,1,0,0,1
+1914,Ligota Toszecka,1,0,0,4
+1915,Kotulin,1,0,0,4
+1916,B³otnica Strzelecka,1,0,0,2
+1917,Strzelce Opolskie,1,0,1,1
+1918,Szymiszów,1,0,0,1
+1919,Otmice,1,0,0,1
+1920,Tarnów Opolski,1,0,0,1
+1921,Opole Groszowice,1,0,0,1
+1922,Opole G³ówne,1,0,1,1
+1923,Opole Zachodnie,1,0,0,12
+1924,Opole Zachodnie,0,0,0,1
+1925,Chróœcina Opolska,1,0,0,4
+1926,D¹browa Niemodliñska,1,0,0,2
+1927,Przecza,1,0,0,4
+1928,Lewin Brzeski,1,0,0,4
+1929,Lewin Brzeski,0,0,0,5
+1930,£osiów,1,0,0,4
+1931,Brzeg,1,0,1,1
+1932,Lipki,1,0,0,4
+1933,O³awa,1,0,1,1
+1934,Lizawice,1,0,0,4
+1935,Zêbice Wroc³awskie,1,0,0,4
+1936,Œwiêta Katarzyna,1,0,0,1
+1937,Wroc³aw Brochów PODG,0,0,0,3
+1938,Wroc³aw Brochów,1,0,0,4
+1939,Wroc³aw G³ówny,1,0,1,1
+1940,D¹browa Górnicza Huta Katowice,0,0,0,9
+1941,D¹browa Górnicza Po³udniowa,1,0,0,1
+1942,Dorota,0,0,0,3
+1943,Sosnowiec Maczki,0,0,0,5
+1944,Jaworzno Szczakowa,1,0,0,1
+1945,Pieczyska,0,0,0,3
+1946,Jaworzno Ciê¿kowice,1,0,0,4
+1947,Balin,1,0,0,4
+1948,Dulowa,1,0,0,4
+1949,Wola Filipowska,1,0,0,4
+1950,Krzeszowice,1,0,0,1
+1951,Rudawa,1,0,0,4
+1952,Zabierzów,1,0,0,1
+1953,Zabierzów Rz¹ska,1,0,0,4
+1954,Kraków Mydlniki Wapiennik,1,0,0,4
+1955,D³ugoszyn,0,0,0,3
+1956,Sosnowiec Jêzor,0,0,0,5
+1957,Mys³owice,1,0,0,1
+1958,Gliwice £abêdy,1,0,1,1
+1959,Gliwice KuŸnica,1,0,0,4
+1960,Kêdzierzyn-KoŸle,1,0,0,1
+1961,K³odnica,0,0,0,3
+1962,Raszowa,1,0,0,4
+1963,Raszowa,0,0,0,3
+1964,Zdzieszowice,1,0,0,1
+1965,Jasiona,1,0,0,12
+1966,Gogolin,1,0,1,1
+1967,Góra¿d¿e,1,0,0,1
+1968,Przywory Opolskie,1,0,0,1
+1969,Opole Grotowice,1,0,0,4
+1970,Katowice Za³ê¿e,1,0,0,4
+1971,Œwiêtoch³owice,1,0,0,4
+1972,Ruda Chebzie,1,0,0,1
+1973,Ruda Œl¹ska,1,0,0,4
+1974,Zabrze,1,0,0,1
+1975,Gliwice,1,0,0,1
+1976,Szobiszowice,0,0,0,3
+1977,Rzeczyce Œl¹skie,1,0,0,4
+1978,Taciszów,1,0,0,1
+1979,Rudziniec Gliwicki,1,0,0,1
+1980,S³awiêcice,1,0,0,1
+1981,Nowa Wieœ,0,0,0,3
+1982,¯abieniec,0,0,0,3
+1983,Kêdzierzyn-KoŸle Przystanek,1,0,0,4
+1984,Kêdzierzyn-KoŸle Zachodnie,1,0,0,11
+1985,Pokrzywnica,1,0,0,4
+1986,Twardawa,1,0,0,1
+1987,G³ogówek,1,0,0,1
+1988,Rac³awice Œl¹skie,1,0,0,1
+1989,Dytmarów,1,0,0,4
+1990,Dytmarów Osadkowski,0,0,0,14
+1991,Prudnik,1,0,1,1
+1992,Szybowice,1,0,0,4
+1993,Nowy Las,1,0,0,4
+1994,Nowy Œwiêtów,1,0,0,1
+1995,Prze³êk,0,0,0,4
+1996,Nysa,1,0,0,1
+1997,Radzikowice,0,0,0,4
+1998,Goœwinowice,1,0,0,1
+1999,Wójcice,1,0,0,4
+2000,Otmuchów,1,0,0,1
+2001,Otmuchów Jezioro,1,0,0,4
+2002,Paczków,1,0,0,1
+2003,Doboszowice,1,1,0,17
+2004,Kamieniec Z¹bkowicki,1,0,1,1
+2005,Z¹bkowice Œl¹skie,1,0,1,1
+2006,Pi³awa Górna,1,0,1,1
+2007,Pi³awa Górna ZPK£,0,0,0,6
+2008,Dzier¿oniów Œl¹ski,1,0,1,1
+2009,Moœcisko Dzier¿oniowskie,1,0,0,13
+2010,Krzy¿owa,1,1,0,4
+2011,Œwidnica Miasto,1,0,0,1
+2012,Ciep³ownia Zawiszów,0,0,0,14
+2013,Œwidnica ELECTROLUX,0,0,0,14
+2014,Boles³awice Œwidnickie,1,1,0,4
+2015,Jaworzyna Œl¹ska,1,0,1,1
+2016,Stanowice,1,0,0,4
+2017,Strzegom,1,0,0,1
+2018,Gocza³ków,1,0,0,4
+2019,RogoŸnica,1,0,1,1
+2020,Jawor,1,0,0,1
+2021,"Jawor Lafarge, Œwita³a",0,0,0,14
+2022,Jawor Roboty Ziemne B. Œwita³a,0,0,0,14
+2023,Stary Jawor,1,0,0,4
+2024,Brachów,0,0,0,4
+2025,Brachów KSS Bartnica,0,0,0,14
+2026,Przyby³owice,1,0,0,13
+2027,Nowa Wieœ Legnicka,1,1,0,17
+2028,Legnica Piekary,1,0,0,4
+2029,Legnica Wschód,0,0,0,3
+2030,Legnica,1,0,0,1
+2031,Nowy Bieruñ,1,0,0,1
+2032,Che³m Œl¹ski,1,0,0,1
+2033,Imielin,1,0,0,1
+2034,Mys³owice Kosztowy,1,0,0,1
+2035,Mys³owice Brzezinka,1,0,0,1
+2036,Mys³owice Brzêczkowice,1,0,0,4
+2037,Szabelnia,0,0,0,3
+2038,Brynów,0,0,0,3
+2039,Katowice Brynów,1,0,0,4
+2040,Katowice Ligota,1,0,0,1
+2041,Katowice Piotrowice,1,0,0,4
+2042,Katowice Podlesie,1,0,0,4
+2043,M¹ko³owiec,0,0,0,3
+2044,Tychy,1,0,0,1
+2045,Tychy ¯waków,1,0,0,4
+2046,Kobiór,1,0,1,11
+2047,Piasek,1,0,0,4
+2048,Pszczyna,1,0,1,1
+2049,Gocza³kowice,1,0,0,4
+2050,Gocza³kowice-Zdrój,1,0,0,4
+2051,Most Wis³a,0,0,0,3
+2052,Czechowice-Dziedzice Przystanek,1,0,0,4
+2053,Czechowice-Dziedzice Po³udniowe,1,0,0,1
+2054,Bielsko-Bia³a Fiat AUTO POLAND,0,0,0,14
+2055,Bielsko-Bia³a Komorowice,1,0,0,8
+2056,Bielsko-Bia³a Pó³noc,1,0,0,4
+2057,Bielsko-Bia³a Lipnik,1,0,0,2
+2058,Bielsko-Bia³a Leszczyny,1,0,0,1
+2059,Bielsko-Bia³a Mikuszowice,1,0,0,4
+2060,Wilkowice Bystra,1,0,0,1
+2061,£odygowice Górne,1,0,0,4
+2062,£odygowice,1,0,0,1
+2063,Pietrzykowice ¯ywieckie,1,0,0,4
+2064,¯ywiec Zak³ady Piwowarskie SA,0,0,0,14
+2065,Radziechowy Wieprz,1,0,0,4
+2066,Ciêcina Dolna,1,0,0,4
+2067,Ciêcina,1,0,0,4
+2068,Wêgierska Górka,1,0,0,1
+2069,Cisiec,1,0,0,4
+2070,Milówka,1,0,0,1
+2071,Milówka Zabawa,1,0,0,4
+2072,Rajcza,1,0,0,1
+2073,Rajcza Centrum,1,0,0,4
+2074,Rycerka,1,0,0,4
+2075,Rycerka Bocznica,0,0,0,14
+2076,Sól,1,0,0,1
+2077,Sól Kiczora,1,0,0,4
+2078,Laliki,1,0,0,4
+2079,Zwardoñ,1,0,0,1
+2080,Zwardoñ (Gr),0,0,0,7
+2081,Miko³ów Jamna,1,0,0,13
+2082,Miko³ów,1,0,0,1
+2083,£aziska Górne,1,0,0,4
+2084,£aziska Górne Brada,1,0,0,13
+2085,Orzesze,1,0,1,1
+2086,Orzesze Jaœkowice,1,0,0,1
+2087,Czerwionka,1,0,0,1
+2088,Czerwionka Dêbieñsko,1,0,0,4
+2089,Leszczyny,1,0,0,1
+2090,Kamieñ,0,0,0,15
+2091,Rybnik Paruszowiec,1,0,0,4
+2092,Rybnik,1,0,0,1
+2093,Rybnik Towarowy,1,0,0,1
+2094,Rybnik Niedobczyce,1,0,0,4
+2095,Rybnik Niewiadom,1,0,0,1
+2096,Rydu³towy,1,0,0,1
+2097,£uków Œl¹ski,1,0,0,4
+2098,Sumina Wieœ,1,0,0,4
+2099,Sumina,1,0,1,1
+2100,Górki Œl¹skie,1,0,0,4
+2101,Szymocice,1,0,0,12
+2102,Nêdza Wieœ,1,0,0,2
+2103,Nêdza,1,0,0,1
+2104,Panewnik,0,0,0,3
+2105,Radoszowy,0,0,0,3
+2106,Ruda Koch³owice,0,0,0,5
+2107,Ruda Wirek,0,0,0,15
+2108,Ruda Bielszowice,0,0,0,5
+2109,Zabrze Makoszowy,0,0,0,5
+2110,Zabrze Makoszowy Kopalnia,0,0,0,5
+2111,Gliwice Soœnica,0,0,0,5
+2112,Katowice Ochojec,0,0,0,3
+2113,Staszic,0,0,0,3
+2114,Katowice Kostuchna,0,0,0,5
+2115,Koszêcin,1,0,0,1
+2116,Rusinowice,1,0,0,12
+2117,Kochcice-Glinica,1,0,0,12
+2118,Ciasna,1,0,0,1
+2119,Sieraków Œl¹ski,1,0,1,1
+2120,Sowczyce,1,0,0,1
+2121,Olesno Œl¹skie,1,0,1,1
+2122,Stare Olesno,1,0,0,2
+2123,B¹ków,1,0,0,1
+2124,Chocianowice APO,0,0,0,15
+2125,Kluczbork,1,0,1,1
+2126,Smardy,1,0,0,4
+2127,Wo³czyn,1,0,0,1
+2128,Wierzbica Górna,1,0,0,4
+2129,Domaszowice,1,0,0,1
+2130,Grêboszów,1,0,0,4
+2131,Namys³ów,1,0,1,1
+2132,Wilków Namys³owski,1,0,0,4
+2133,Bierutów,1,0,0,1
+2134,Solniki Wielkie,1,1,0,4
+2135,Oleœnica,1,0,1,1
+2136,£ukanów,0,0,0,3
+2137,Borowa Oleœnicka,1,0,0,1
+2138,D³ugo³êka,1,0,1,1
+2139,Wroc³aw Psie Pole,1,0,1,1
+2140,Wroc³aw So³tysowice,1,0,1,1
+2141,Wroc³aw Nadodrze,1,0,0,1
+2142,Wroc³aw Szczepin,1,0,0,4
+2143,Wroc³aw Jw2451,0,0,0,14
+2144,Wroc³aw Popowice,0,0,0,5
+2145,Wroc³aw Miko³ajów,1,0,0,4
+2146,Tarnowskie G.Fazos,0,0,0,14
+2147,Tarnowskie Góry Strzybnica,0,0,0,18
+2148,Tworóg,0,0,1,5
+2149,Borowiany,0,0,0,2
+2150,Kielcza,1,0,0,1
+2151,¯êdowice,1,0,0,17
+2152,Zawadzkie,1,0,0,1
+2153,Kolonowskie,1,0,0,4
+2154,Staniszcze Ma³e,1,0,0,4
+2155,Krasiejów,1,0,0,4
+2156,Ozimek,1,0,1,1
+2157,Dêbska KuŸnia,1,0,0,4
+2158,Chrz¹stowice,1,0,0,13
+2159,Suchy Bór Opolski,1,0,0,4
+2160,Bolko,0,0,0,3
+2161,Brzeziny Œl¹skie,0,0,0,5
+2162,Jup,0,0,0,6
+2163,Piekary Œl¹skie Szarlej,0,0,0,5
+2164,Rz¹sawa,0,0,0,24
+2165,Mykanów,0,0,0,4
+2166,Cykarzew Stary,0,0,0,4
+2167,Cykarzew,0,0,0,5
+2168,Wa¿ne M³yny,0,0,0,4
+2169,BrzeŸnica nad Wart¹,0,0,1,5
+2170,Pieñki Dubidzkie,0,0,0,4
+2171,Dubidze,0,0,0,4
+2172,Wistka,0,0,0,4
+2173,Bia³a Pajêczañska,0,0,0,5
+2174,Maciejów Pó³nocny,0,0,0,3
+2175,Pszczyna Czarków,1,0,0,4
+2176,Radostowice,1,0,0,13
+2177,Suszec,1,0,0,1
+2178,Suszec Kopalnia,1,0,0,4
+2179,Suszec Rudziczka,1,0,0,4
+2180,Suszec Rudziczka,0,0,0,3
+2181,Kleszczów,0,0,0,3
+2182,¯ory,1,0,1,1
+2183,Szczejkowice,1,0,0,12
+2184,Rybnik Gotartowice,1,0,0,2
+2185,Rybnik Piaski,1,0,0,4
+2186,Mizerów,0,0,0,3
+2187,Przyszowice,1,0,0,4
+2188,Giera³towice,0,0,0,25
+2189,Knurów,1,0,0,1
+2190,Szczyg³owice Kopalnia,0,0,0,3
+2191,Zabrzeg Czarnolesie,0,0,0,1
+2192,Stare KoŸle,0,0,0,3
+2193,Kêdzierzyn-KoŸle Azoty,1,0,0,4
+2194,Bierawa,1,0,0,1
+2195,Dziergowice,1,0,0,11
+2196,KuŸnia Raciborska,1,0,0,1
+2197,Turze,0,0,0,3
+2198,Racibórz Markowice,1,0,0,2
+2199,Racibórz,1,0,1,1
+2200,Tworków,1,0,0,17
+2201,Krzy¿anowice,1,0,1,1
+2202,Roszków Raciborski,1,0,0,4
+2203,Rudyszwa³d,1,0,0,4
+2204,Cha³upki,1,0,0,1
+2205,Cha³upki (Gr),0,0,0,7
+2206,Toszek Pó³noc,0,0,0,5
+2207,Czarków,0,0,0,5
+2208,Krupski M³yn,0,0,0,3
+2209,Droniowiczki,0,0,0,3
+2210,Kana³,0,0,0,15
+2211,Przemiarki,0,0,0,3
+2212,D¹browa Górnicza Towarowa,0,0,0,5
+2213,Czêstochowa Mirów,0,0,0,5
+2214,Borowa Górka,0,0,0,3
+2215,Paw³owice Œl¹skie,0,0,0,5
+2216,Dêbina,0,0,0,3
+2217,Strumieñ,1,0,0,1
+2218,Bieniowiec,0,0,0,3
+2219,Chybie Mnich,1,0,0,4
+2220,Zaborze,1,0,0,4
+2221,Pierœciec,1,0,0,1
+2222,Skoczów Bajerki,1,0,0,4
+2223,Skoczów,1,0,1,1
+2224,Rybnik Rymer,1,0,0,4
+2225,Radlin Obszary,0,0,0,3
+2226,Radlin Obszary,1,0,0,4
+2227,Wodzis³aw Œl¹ski Radlin,1,0,0,4
+2228,Wodzis³aw Œl¹ski,1,0,0,1
+2229,Czy¿owice,1,0,0,4
+2230,Be³sznica,1,0,0,17
+2231,Olza,1,0,0,1
+2232,Ciep³ownia,0,0,0,3
+2233,¯ory Baranowice,0,0,0,4
+2234,Warszowice,0,0,0,5
+2235,Studzionka,0,0,0,3
+2236,Katowice Szopienice Pó³nocne,0,0,1,5
+2237,Katowice D¹brówka Ma³a,0,0,0,5
+2238,Siemianowice Œl¹skie,0,0,0,5
+2239,Hajduki,0,0,0,3
+2240,Gliwice Port,0,0,0,5
+2241,Wyry,1,0,0,4
+2242,Wyry Wytwórnia Chemi,0,0,0,14
+2243,£aziska Œrednie,1,0,1,1
+2244,£aziska Kopanina,0,0,0,4
+2245,£aziska Huta,0,0,0,14
+2246,Orzesze Zawiœæ,0,0,0,4
+2247,Orzesze Miasto,1,0,0,4
+2248,Kozio³,0,0,0,3
+2249,Juliusz,0,0,0,9
+2250,Stawiska,0,0,0,3
+2251,Katowice Muchowiec,0,0,0,5
+2252,Chudów,0,0,0,6
+2253,Jejkowice,0,0,0,3
+2254,Rozmierka Polspan,0,0,0,14
+2255,Rozmierka,0,0,0,4
+2256,Kad³ub,0,0,0,4
+2257,Sporok,0,0,0,4
+2258,Staniszcze Wielkie,0,0,0,4
+2259,Myœlina Lubliniecka,0,0,0,4
+2260,Zêbowice,0,0,0,4
+2261,Szumirad,0,0,0,4
+2262,Lasowice Ma³e Oleskie,0,0,0,4
+2263,Kuniów,0,0,0,3
+2264,Lekartów,0,0,0,14
+2265,Pietrowice Wielkie,0,0,0,5
+2266,Baborów,0,0,0,5
+2267,G³ubczyce,0,0,0,17
+2268,Tychy Zachodnie,1,0,0,4
+2269,Tychy Aleja Bielska,1,0,0,4
+2270,Tychy Grota Roweckiego,1,0,0,4
+2271,Tychy Miasto,0,0,0,5
+2272,Bieruñ Stary,0,0,0,19
+2273,Górki Œciernie,0,0,0,9
+2274,Lêdziny,0,0,0,3
+2275,Kuleje,1,0,0,4
+2276,Panki,1,0,0,1
+2277,Krzepice,1,0,0,1
+2278,Jaworzno ko³o Wielunia,1,0,0,4
+2279,Janinów,1,0,0,1
+2280,Dzietrzniki,1,0,0,4
+2281,P¹tnów Wieluñski,1,0,0,1
+2282,Wieluñ,1,0,0,4
+2283,Wieluñ D¹browa,1,0,1,1
+2284,Bia³a,1,0,0,4
+2285,Czastary,1,0,0,1
+2286,Pieczyska,1,0,0,4
+2287,Wieruszów Prospan,0,0,0,14
+2288,Wieruszów Miasto,1,0,0,4
+2289,Wieruszów,1,0,0,1
+2290,Œwiba,1,0,0,4
+2291,Kêpno,1,0,1,1
+2292,Bralin,0,0,0,4
+2293,Perzów,0,0,0,4
+2294,Gêsia Górka,0,0,0,4
+2295,Syców,0,0,0,17
+2296,Stradomia,0,0,0,4
+2297,Jemielna Oleœnicka,0,0,0,18
+2298,Poniatowice,0,0,0,4
+2299,Cieœle,0,0,0,18
+2300,Miasteczko Œl¹skie Centrum,0,0,0,4
+2301,Tarnowskie G. ¯yglin,0,0,0,14
+2302,Pyrzowice Lotnisko,0,0,0,4
+2303,Mierzêcice,0,0,0,4
+2304,Siewierz,0,0,0,5
+2305,Porêba Fum,0,0,0,14
+2306,Zawiercie K¹dzielów,0,0,0,4
+2307,D¹browa Górnicza Piek³o,0,0,0,9
+2308,Bêdzin £agisza,0,0,0,5
+2309,Ruda Czarny Las,0,0,0,5
+2310,Ruda Wschodnia,0,0,0,6
+2311,Ruda Orzegów,0,0,0,3
+2312,Bielsko-Bia³a Zachód,0,0,0,4
+2313,Stare Bielsko,0,0,0,18
+2314,Bielsko-Bia³a Górne,0,0,0,4
+2315,Bielsko-Bia³a Aleksandrowice,0,0,0,4
+2316,Bielsko-Bia³a Wapienica,0,0,0,1
+2317,Jaworze Jasienica,0,0,0,1
+2318,Jasienica ko³o Bielska,0,0,0,4
+2319,Grodziec Œl¹ski,0,0,0,4
+2320,Pogórze,0,0,0,1
+2321,Skoczów B³adnice,1,0,0,4
+2322,Goleszów,1,0,0,1
+2323,Goleszów Górny,1,0,0,4
+2324,Ba¿anowice,1,0,0,4
+2325,Cieszyn Uniwersytet,1,0,0,4
+2326,Cieszyn Marklowice (Gr),0,0,0,7
+2327,Ustroñ,1,0,0,1
+2328,Ustroñ Zdrój,1,0,0,4
+2329,Ustroñ Brzegi,0,0,0,4
+2330,Ustroñ Polana,1,0,0,13
+2331,Wis³a Jawornik,0,0,0,4
+2332,Wis³a Uzdrowisko,1,0,0,1
+2333,Wis³a Dziechcinka,1,0,0,4
+2334,Wis³a Kopyd³o,1,0,0,4
+2335,Wis³a G³êbce,1,0,0,1
+2336,Kietrz,0,0,0,5
+2337,Gliwice Soœnica GSB,0,0,0,3
+2338,Kwk Soœnica,0,0,0,5
+2339,Pr¹docin,0,0,0,4
+2340,Bydgoszcz Emilianowo,0,0,0,5
+2341,Stronno,1,0,0,4
+2342,Wudzyn,1,0,0,4
+2343,Serock,1,0,0,1
+2344,Lubania-Lipiny,1,0,0,4
+2345,Œwiekatowo,1,0,0,4
+2346,Lipienica,1,0,0,4
+2347,B³¹dzim,1,0,0,17
+2348,Wierzchucin,1,0,1,1
+2349,Zielonka Pomorska,1,0,0,4
+2350,Ma³e Gacno,1,0,0,4
+2351,Zaroœle,1,0,0,4
+2352,Rosochatka,1,0,0,4
+2353,Lipowa Tucholska,1,0,0,1
+2354,£¹g Po³udniowy,1,0,0,4
+2355,Sza³amaje,1,0,0,4
+2356,Wojtal,1,0,0,4
+2357,B¹k,1,0,0,1
+2358,Olpuch,1,0,0,4
+2359,Olpuch Wdzydze,1,0,0,4
+2360,Podleœ,1,0,0,4
+2361,Koœcierzyna,1,0,1,1
+2362,Skorzewo,1,0,0,4
+2363,Go³ubie Kaszubskie,1,0,1,1
+2364,Krzeszna,1,0,0,4
+2365,Wie¿yca,1,0,0,4
+2366,S³awki,1,0,0,4
+2367,Somonino,1,0,0,1
+2368,Kie³pino Kartuskie,1,0,0,4
+2369,Babi Dó³,1,0,0,4
+2370,Glincz,0,0,0,3
+2371,Borkowo,1,0,0,4
+2372,¯ukowo,1,0,0,4
+2373,¯ukowo Wschodnie,1,0,0,1
+2374,Pêpowo Kartuskie,1,0,0,4
+2375,Rêbiechowo,1,0,0,4
+2376,Gdañsk Osowa,1,0,1,1
+2377,Gdynia Wielki Kack,0,0,0,5
+2378,Gdynia Karwiny,1,0,0,4
+2379,Gdynia Stadion,1,0,0,4
+2380,Gdynia G³ówna,1,0,0,1
+2381,Gdynia Port,0,0,1,5
+2382,Gdañsk Wrzeszcz,1,0,0,1
+2383,Gdañsk Oliwa,1,0,0,4
+2384,Sopot,1,0,0,1
+2385,Gdynia Or³owo,1,0,0,1
+2386,Gdynia Chylonia,1,0,0,1
+2387,Rumia,1,0,0,1
+2388,Reda,1,0,1,1
+2389,Reda Pieleszewo,1,0,0,4
+2390,Wejherowo Œmiechowo,1,0,0,12
+2391,Wejherowo-Nanice,1,0,0,4
+2392,Wejherowo,1,0,1,1
+2393,Goœcicino Wejherowskie,1,0,0,1
+2394,Luzino,1,0,0,1
+2395,Strzebielino Morskie,1,0,0,1
+2396,Bo¿epole Wielkie,1,0,1,1
+2397,Godêtowo,1,0,1,1
+2398,Lêbork Mosty,1,0,0,4
+2399,Lêbork,1,0,0,1
+2400,Leœnice,1,0,0,4
+2401,Pogorzelice,1,0,0,1
+2402,Potêgowo,1,0,0,1
+2403,G³uszyno Pomorskie,1,0,0,4
+2404,Strzy¿yno S³upskie,1,0,0,4
+2405,Damnica,1,0,1,1
+2406,Jezierzyce S³upskie,1,0,0,1
+2407,S³upsk,1,0,1,1
+2408,Reblino,1,0,0,13
+2409,Sycewice,1,0,0,4
+2410,Wrzeœnica,1,0,0,13
+2411,S³awno,1,0,1,1
+2412,Karwice,1,0,0,1
+2413,Wiekowo,1,0,0,13
+2414,Skibno,1,0,1,1
+2415,Koszalin,1,0,1,1
+2416,Niek³onice,0,0,0,4
+2417,Dunowo ZE,0,0,0,14
+2418,Dunowo,1,0,0,4
+2419,Nosówko,1,0,0,1
+2420,Koœciernica,1,0,0,4
+2421,Bia³ogard,1,0,1,1
+2422,Czarnowêsy Pomorskie,1,0,0,13
+2423,R¹bino,1,0,0,1
+2424,Nielep,1,0,0,4
+2425,Œwidwin,1,0,1,1
+2426,Klêpnica,1,0,0,4
+2427,Worowo,1,0,0,1
+2428,£obez,1,0,0,1
+2429,Lesiêcin,1,0,0,4
+2430,Runowo Pomorskie,1,0,1,1
+2431,Cieszyno £obeskie,1,0,0,4
+2432,Chociwel,1,0,0,1
+2433,Lisowo,1,0,0,4
+2434,Tr¹bki,1,0,0,1
+2435,Gogolewo,1,0,0,4
+2436,Ulikowo,1,0,0,1
+2437,Stargard,1,0,1,1
+2438,Malinowo,0,0,0,3
+2439,Tczew Suchostrzygi,0,0,0,3
+2440,Rokitki Tczewskie,1,0,0,4
+2441,Swaro¿yn,1,0,0,1
+2442,Szpêgawsk,1,0,0,4
+2443,Starogard Gdañski,1,0,1,1
+2444,Piesienice,1,0,0,4
+2445,Pinczyn,1,0,0,4
+2446,Zblewo,1,0,0,2
+2447,Bytonia,1,0,0,4
+2448,Kaliska,1,0,0,1
+2449,Kamienna Karczma,1,0,0,4
+2450,Czarna Woda,1,0,0,1
+2451,£¹g,1,0,0,4
+2452,Czersk,1,0,1,1
+2453,Gutowiec,1,0,0,4
+2454,Gutowiec Podg,0,0,0,3
+2455,Rytel Wieœ,1,0,0,4
+2456,Rytel,1,0,0,1
+2457,Krojanty,1,0,0,4
+2458,Chojnice,1,0,1,1
+2459,Moszczenica Pomorska,1,0,0,4
+2460,Wierzchowo Cz³uchowskie,1,0,0,1
+2461,Bukowo Cz³uchowskie,1,0,0,17
+2462,Lipka Krajeñska,1,0,0,1
+2463,Zakrzewo Z³otowskie,1,0,0,17
+2464,Z³otów,1,0,1,1
+2465,Krajenka,1,0,0,1
+2466,Dolnik,1,0,0,4
+2467,Skórka,1,0,0,4
+2468,Pi³a Podlasie,1,0,0,4
+2469,Powodowo Prefabet,0,0,0,14
+2470,Stobno,1,0,0,4
+2471,Bia³a Pilska,1,0,0,4
+2472,Trzcianka,1,0,1,1
+2473,Siedlisko Czarnkowskie,1,0,0,4
+2474,Biernatowo,1,0,0,1
+2475,Wieleñ,1,0,1,1
+2476,Krzy¿,1,0,1,1
+2477,Stare Bielice,1,0,0,4
+2478,Nowe Drezdenko,1,0,1,1
+2479,Stare Kurowo,1,0,0,1
+2480,Strzelce Krajeñskie Wschód,1,0,0,1
+2481,Sarbiewo,1,0,0,4
+2482,Górki Noteckie,1,0,1,1
+2483,Santok,1,0,0,11
+2484,Czechów,0,0,0,4
+2485,Wawrów,0,0,0,5
+2486,Gorzów Wielkopolski Wschodni,1,0,0,4
+2487,Gorzów Wielkopolski,1,0,0,1
+2488,Gorzów Wielkopolski Wieprzyce,1,0,0,4
+2489,£upowo,1,0,0,4
+2490,Bogdaniec,1,0,0,1
+2491,Nowiny Wielkie,1,0,1,1
+2492,Witnica,1,0,0,1
+2493,Kamieñ Ma³y,1,0,0,4
+2494,D¹broszyn,1,0,0,4
+2495,Kostrzyn,1,0,1,1
+2496,Kostrzyn (Gr),0,0,0,7
+2497,Królewo Malborskie,1,0,0,4
+2498,Królewo Malbor.Bsz,0,0,0,14
+2499,Stare Pole,1,0,0,1
+2500,Fiszewo,1,0,0,4
+2501,Gronowo Elbl¹skie,1,0,0,1
+2502,Tropy,0,0,0,3
+2503,Elbl¹g,1,0,1,1
+2504,Komorowo ¯u³awskie,1,0,0,4
+2505,Bogaczewo,1,0,0,1
+2506,Stegny,0,0,0,4
+2507,S³obity,0,0,0,4
+2508,M³ynary,0,0,1,5
+2509,Kurowo Braniewskie,0,0,0,14
+2510,Wielkie Wierzno Bocznica,0,0,0,14
+2511,Chruœciel,0,0,0,5
+2512,"""Bo""""Autostrada""""""",0,0,0,14
+2513,Bemowizna,0,0,0,4
+2514,Braniewo,1,0,1,1
+2515,Braniewo (Gr),0,0,0,7
+2516,Skandawa (Gr),0,0,0,7
+2517,Kotki,0,0,0,6
+2518,Anielin Gradowo,0,0,0,14
+2519,Dziarnowo,0,0,0,3
+2520,Koœcielec Kujawski,1,0,0,4
+2521,Pakoœæ,1,0,0,1
+2522,Piechcin,0,0,0,18
+2523,Bielawy,1,0,0,4
+2524,Wapienno Przystanek,1,0,0,4
+2525,Wapienno,0,0,0,5
+2526,Barcin,0,0,0,17
+2527,Jadowniki,0,0,0,4
+2528,¯nin,0,0,0,1
+2529,Toruñ Mokre,0,0,0,3
+2530,Toruñ Jar,0,0,0,4
+2531,£ysomice,1,0,0,13
+2532,Ostaszewo Toruñskie,1,0,0,1
+2533,Grzywna,1,0,0,4
+2534,Che³m¿a,1,0,1,1
+2535,Wroc³awki,1,0,0,4
+2536,Firlus,1,0,0,4
+2537,Kornatowo,1,0,1,1
+2538,Gorzuchowo Che³miñskie,1,0,0,4
+2539,Wa³dowo Szlacheckie,1,0,0,4
+2540,Grudzi¹dz Mniszek,1,0,1,1
+2541,Grudzi¹dz Przedmieœcie,1,0,0,4
+2542,Grudzi¹dz,1,0,1,1
+2543,Grudzi¹dz Owczarki,1,0,1,1
+2544,RogóŸno Pomorskie,1,0,0,1
+2545,Gardeja,0,0,0,1
+2546,Dziwno,0,0,0,4
+2547,Sadlinki,0,0,0,1
+2548,Bia³ki,0,0,0,4
+2549,Kwidzyn,1,0,0,1
+2550,Brachlewo,1,0,0,4
+2551,Ryjewo,1,0,0,1
+2552,Sztumska Wieœ,1,0,0,4
+2553,Sztum,1,0,0,1
+2554,Goœciszewo,1,0,0,4
+2555,Pier³awki,0,0,0,4
+2556,Prioma,0,0,0,4
+2557,P³oœnica,0,0,0,4
+2558,Lidzbark,0,0,0,1
+2559,Lidzbark Miasto,0,0,0,4
+2560,Klonowo ko³o Lidzbarka,0,0,0,4
+2561,Gutowo Pomorskie,0,0,0,4
+2562,Radoszki,0,0,0,1
+2563,Tama Brodzka,0,0,0,1
+2564,Najmowo,1,0,0,4
+2565,Konojady,1,0,0,4
+2566,Jab³onowo Pomorskie,1,0,0,1
+2567,Bursztynowo,1,0,0,4
+2568,Linowo,1,0,0,4
+2569,Boguszewo,1,0,0,4
+2570,Me³no,1,0,1,1
+2571,Nicwa³d,1,0,0,4
+2572,Dragacz,1,0,0,4
+2573,Górna Grupa,1,0,0,4
+2574,Grupa,1,0,1,1
+2575,Dubielno,1,0,0,4
+2576,Je¿ewo,1,0,0,4
+2577,Leosia,1,0,0,4
+2578,Drzycim,1,0,0,4
+2579,Jastrzêbie Pomorskie,1,0,0,4
+2580,Lniano,1,0,0,17
+2581,Wierzchucin Stary,1,0,0,4
+2582,Cekcyn,1,0,0,4
+2583,Tuchola,1,0,1,1
+2584,¯alno,1,0,0,4
+2585,Piastoszyn,1,0,0,4
+2586,Silno,1,0,0,1
+2587,Rac³awki,1,0,0,4
+2588,Kowalewo Pomorskie,1,0,0,1
+2589,Mlewiec,0,0,0,4
+2590,Mirakowo,0,0,0,17
+2591,G³uchowo,1,0,0,4
+2592,Nawra,1,0,0,4
+2593,Grzybno,1,0,0,4
+2594,Unis³aw Pomorski,1,0,0,1
+2595,Gzin,1,0,0,4
+2596,D¹browa Che³miñska,1,0,0,17
+2597,Ostromecko,1,0,0,17
+2598,Bydgoszcz Fordon,1,0,0,17
+2599,Bydgoszcz Akademia,1,0,0,4
+2600,Bydgoszcz Brdyujœcie,1,0,0,4
+2601,BrzeŸno Cz³uchowskie,1,0,0,4
+2602,Cz³uchów,1,0,1,1
+2603,Biskupnica,1,0,0,4
+2604,Biñcze,1,0,1,1
+2605,Domis³aw,1,0,0,4
+2606,Czarne,1,0,1,1
+2607,¯ó³tnica,1,0,0,4
+2608,Czarnobór,1,0,0,4
+2609,Szczecinek,1,0,1,1
+2610,Jelenino,1,0,0,4
+2611,Silnowo,1,0,0,4
+2612,£ubowo,1,0,1,1
+2613,Czarne Ma³e,1,0,0,4
+2614,Czaplinek,1,0,1,1
+2615,¯elis³awie Pomorskie,1,0,0,4
+2616,Bobrowo Pomorskie,1,0,0,4
+2617,Z³ocieniec,1,0,0,1
+2618,Rzêœnica,1,0,0,4
+2619,Suliszewo Drawskie,1,0,0,4
+2620,Drawsko Pomorskie,1,0,1,17
+2621,Jankowo Pomorskie,1,0,1,1
+2622,Wiewiecko,1,0,0,4
+2623,Wêgorzyno,1,0,0,4
+2624,Powa³ki,1,0,0,4
+2625,Mêcika³,1,0,0,4
+2626,¯abno ko³o Chojnic,1,0,0,4
+2627,Brusy,1,0,0,1
+2628,Lubnia,1,0,0,4
+2629,Raduñ,1,0,0,4
+2630,Dziemiany Kaszubskie,1,0,0,4
+2631,Kalisz Kaszubski,1,0,0,4
+2632,Lipuska Huta,1,0,0,4
+2633,Lipusz,1,0,0,1
+2634,£ubiana,1,0,0,17
+2635,Garczyn,1,0,0,4
+2636,D¹brówka Bytowska,0,0,0,4
+2637,Borzytuchom,0,0,0,17
+2638,Barnowo,0,0,0,17
+2639,Ko³czyg³ówki,0,0,0,17
+2640,Zielin Miastecki,0,0,0,17
+2641,Gumieniec,0,0,0,4
+2642,Barcino,0,0,0,4
+2643,Korzybie,1,0,0,4
+2644,Reda Rekowo,1,0,0,4
+2645,Mrzezino,1,0,0,1
+2646,¯elistrzewo,1,0,0,17
+2647,Puck,1,0,0,1
+2648,Bocznica Kral,0,0,0,14
+2649,Swarzewo,1,0,0,4
+2650,W³adys³awowo,1,0,0,1
+2651,W³adys³awowo Port,1,0,0,4
+2652,Cha³upy,1,0,0,4
+2653,KuŸnica (Hel),1,0,0,1
+2654,Jastarnia Wczasy,1,0,0,4
+2655,Jastarnia,1,0,0,1
+2656,Jurata,1,0,0,4
+2657,Hel,1,0,0,1
+2658,Leszno Kartuskie,0,0,0,4
+2659,Kartuzy,1,0,1,1
+2660,D¹browy,1,0,0,4
+2661,Czersk Œwiecki,1,0,0,4
+2662,Kwiatki,1,0,0,4
+2663,Osie,1,0,0,1
+2664,Tleñ,1,0,0,4
+2665,£¹¿ek,1,0,0,4
+2666,Laski Tucholskie,1,0,0,4
+2667,Œliwiczki,1,0,0,4
+2668,Œliwice,1,0,0,17
+2669,Lipowa Wschodnia,1,0,0,4
+2670,Szlachta,1,0,0,1
+2671,BêdŸmierowice,1,0,0,4
+2672,Karsin,1,0,0,4
+2673,Zakrzów-Sarnowo,1,0,0,4
+2674,Koz³owo,1,0,0,13
+2675,Nidzica,1,0,1,1
+2676,Dobrzyñ,1,0,0,4
+2677,Bujaki,1,0,0,4
+2678,Waplewo,1,0,0,13
+2679,Olsztynek,1,0,1,1
+2680,GryŸliny,1,0,0,4
+2681,Stawiguda,1,0,0,4
+2682,G¹g³awki,1,0,0,13
+2683,Bart¹g,1,0,0,4
+2684,Olsztyn MPEC Kortowo,0,0,0,14
+2685,Olsztyn Kortowo,0,0,0,3
+2686,Olsztyn Dajtki,1,0,0,4
+2687,Olsztyn Zachodni,1,0,0,4
+2688,Olsztyn Œródmieœcie,1,0,0,4
+2689,Olsztyn G³ówny,1,0,1,1
+2690,Wielkie Wie¿no,0,0,0,18
+2691,Pierzcha³y,0,0,0,14
+2692,Wielewo Bos,0,0,0,14
+2693,Gonty,0,0,0,4
+2694,Licze,0,0,0,17
+2695,Rakowiec Pomorski,0,0,0,17
+2696,Klewki,1,0,0,4
+2697,Marcinkowo,1,0,0,1
+2698,Pasym,1,0,0,1
+2699,Grom,1,0,0,4
+2700,Olszyny,1,0,0,4
+2701,Jeruty,1,0,0,4
+2702,Œwiêtajno,1,0,0,4
+2703,Kolonia,1,0,0,4
+2704,Spychowo,1,0,0,1
+2705,Ruciane-Nida Zachód,1,0,0,4
+2706,Ruciane-Nida,1,0,0,4
+2707,Szeroki Bór Jw156,0,0,0,14
+2708,Szeroki Bór,1,0,0,4
+2709,Pisz,1,0,1,1
+2710,Pisz Wschodni,1,0,0,4
+2711,Stare Guty,1,0,0,4
+2712,Kaliszki,1,0,0,4
+2713,Bia³a Piska,1,0,0,4
+2714,Dryga³y,1,0,0,13
+2715,Pogorzel Wielka,1,0,0,4
+2716,Bajtkowo,1,0,0,4
+2717,Nowa Wieœ E³cka,1,0,0,4
+2718,E³k Szyba Zachód,1,0,0,4
+2719,Olsztyn Jezioro Ukiel,1,0,0,4
+2720,Olsztyn Likusy,1,0,0,13
+2721,Olsztyn Redykajny,1,0,0,4
+2722,Olsztyn Gutkowo,1,0,1,1
+2723,Jonkowo,1,0,0,4
+2724,Godki,1,0,0,4
+2725,Wo³owno,1,0,0,4
+2726,Gamerki Wielkie,1,0,0,1
+2727,Kozia Góra,1,0,0,4
+2728,¯abi Róg,1,0,0,13
+2729,Mor¹g Kolonia,1,0,0,4
+2730,Mor¹g,1,0,1,1
+2731,Dobrocin,1,0,0,4
+2732,Ma³dyty,1,0,1,1
+2733,Zielonka Pas³êcka,1,0,0,4
+2734,Nowa Wieœ Cierpkie,1,0,0,4
+2735,Pas³êk,1,0,1,1
+2736,Bukwa³d,1,0,0,4
+2737,Cerkiewnik,1,0,0,4
+2738,Swobodna,1,0,0,4
+2739,Dobre Miasto,1,0,1,1
+2740,Bzowiec,1,0,0,4
+2741,Rogiedle,1,0,0,4
+2742,Lubomino,0,0,0,4
+2743,Orneta,1,0,1,1
+2744,Henrykowo,0,0,0,4
+2745,Pieniê¿no,1,0,0,8
+2746,¯ugienie,1,0,0,4
+2747,Wysoka Braniewska,1,0,0,4
+2748,Jarzêbiec,1,0,0,4
+2749,Grodzie,1,0,0,4
+2750,Czerwonka,1,0,0,1
+2751,Biskupiec Reszelski,0,0,1,5
+2752,Parleza Wielka,0,0,0,4
+2753,D¹brówka Kobu³cka,0,0,0,4
+2754,Sorkwity,0,0,0,4
+2755,Bagienice,0,0,0,4
+2756,Mr¹gowo,0,0,0,1
+2757,Kosewo,0,0,0,4
+2758,Baranowo,0,0,0,4
+2759,Ze³w¹gi,0,0,0,4
+2760,Miko³ajki,0,0,0,1
+2761,WoŸnice,0,0,0,4
+2762,Olszewo,0,0,0,4
+2763,D¹brówka Górk³o,0,0,0,4
+2764,Tuchlin,0,0,0,4
+2765,Okartowo,0,0,0,4
+2766,Orzysz,0,0,1,5
+2767,Odoje,0,0,0,4
+2768,Skomack Wielki,0,0,1,14
+2769,Rogale,0,0,0,4
+2770,Mo³dzie TRANS-¯WIR,0,0,0,14
+2771,Bartosze,0,0,0,4
+2772,E³k Zachód,0,0,0,4
+2773,Napiwoda,0,0,0,4
+2774,Muszaki,0,0,0,4
+2775,Pucha³owo,0,0,0,4
+2776,PrzeŸdziêk Wielki,0,0,0,4
+2777,Gdañsk Œwiêty Wojciech,0,0,0,3
+2778,Gdañsk Olszynka,0,0,0,5
+2779,Gdañsk Port Pó³nocny,0,0,0,5
+2780,Gdañsk Zaspa Towarowa,0,0,0,5
+2781,Gdynia Port Oksywie,0,0,0,1
+2782,Pruszcz Gdañski GPRD,0,0,0,14
+2783,Pruszcz Gdañski GS,0,0,0,14
+2784,Pruszcz Gdañski Cargill,0,0,0,14
+2785,Juszkowo,0,0,0,4
+2786,Straszyn Prêdzieszyn,0,0,0,17
+2787,Goszyn,0,0,0,20
+2788,Bielkowo,0,0,0,20
+2789,Kolbudy,0,0,0,14
+2790,Kolbudy Górne Rolbet,0,0,0,14
+2791,£apino Kartuskie,0,0,0,20
+2792,Niestêpowo,0,0,0,20
+2793,Stara Pi³a,0,0,1,18
+2794,¯ukowo Zachodnie,0,0,0,17
+2795,Dzier¿¹¿no,1,0,0,4
+2796,Prokowo,0,0,0,4
+2797,Garcz,0,0,0,17
+2798,Reskowo,0,0,0,4
+2799,Miechucino,0,0,0,17
+2800,Mojusz,0,0,0,4
+2801,Sierakowice,0,0,0,17
+2802,Kamienica Królewska,0,0,0,17
+2803,Niepoczo³owice,0,0,0,4
+2804,Linia Zakrzewo,0,0,0,17
+2805,Kêtrzyno,0,0,0,4
+2806,Nawcz,0,0,0,4
+2807,Roz³azino,0,0,0,4
+2808,Lêbork Nowy Œwiat,1,0,0,4
+2809,Nowa Wieœ Lêborska,1,0,0,4
+2810,Garczegorze,1,0,0,4
+2811,Lêdziechowo,1,0,0,4
+2812,Wrzeœcie,1,0,0,1
+2813,Steknica,1,0,0,4
+2814,£eba,1,0,0,1
+2815,Wejherowo Cementownia,0,0,0,14
+2816,Orle,0,0,0,4
+2817,Góra Pomorska,0,0,0,4
+2818,Zamostne,0,0,0,4
+2819,Rybno Kaszubskie,0,0,0,4
+2820,S³uszewo,0,0,0,4
+2821,Kostkowo,0,0,0,17
+2822,Lisewo Kaszubskie,0,0,0,4
+2823,Gniewino,0,0,0,17
+2824,Strzebielinko Lêborskie,0,0,0,4
+2825,Toliszczek,0,0,0,4
+2826,Prusewo,0,0,0,4
+2827,Lublewo,0,0,0,4
+2828,Osieki Lêborskie,0,0,0,4
+2829,Choczewo,0,0,0,17
+2830,Kurowo,0,0,0,17
+2831,Zwartowo,0,0,0,4
+2832,Goœciêcino,0,0,0,4
+2833,Tawêcino,0,0,0,4
+2834,Rekowo Lêborskie,0,0,0,4
+2835,Obliwice,0,0,0,4
+2836,Inowroc³aw M¹twy,0,0,0,5
+2837,Ro¿niaty,1,0,0,4
+2838,Kruszwica,1,0,0,1
+2839,Gdañsk Kokoszki,0,0,1,14
+2840,LeŸno,0,0,0,4
+2841,Gdañsk Osowa Grupa O¿arów,0,0,0,14
+2842,W¹growiec,1,0,0,1
+2843,Wiatrowiec,0,0,0,4
+2844,Runowo ko³o W¹growca,0,0,0,4
+2845,RogoŸno Wielkopolskie,1,0,1,1
+2846,Ryczywó³,0,0,0,17
+2847,Po³ajewo,0,0,0,18
+2848,Lubasz ko³o Czarnkowa,0,0,0,18
+2849,Bzowo Goraj,0,0,0,18
+2850,Lêbork Pzz Elewator,0,0,0,14
+2851,Lêbork Dretowo,0,0,1,18
+2852,Osowo Lêborskie,0,0,0,4
+2853,Maszewo Lêborskie,0,0,0,14
+2854,Opalenie Tczewskie,0,0,0,18
+2855,Ma³a Karczma,0,0,0,18
+2856,Œwiecie Przechowo,0,0,0,14
+2857,Konopat,0,0,0,3
+2858,Brzuchowo,0,0,0,17
+2859,Przyrowa,0,0,0,4
+2860,Gostycyn,0,0,0,17
+2861,Pruszcz Bagienica,0,0,0,17
+2862,M¹kowarsko,0,0,0,17
+2863,Wilcza Góra,0,0,0,17
+2864,Buszkowo,0,0,0,4
+2865,Koronowo,0,0,0,17
+2866,Jab³owo,0,0,0,14
+2867,Starogard Gdañski Przedmieœcie,0,0,0,14
+2868,Brody Pomorskie,0,0,0,4
+2869,Brodzkie M³yny,0,0,0,4
+2870,Gniew,0,0,0,1
+2871,Odolion,1,0,0,4
+2872,Ciechocinek,1,0,0,17
+2873,Toruñ Pó³nocny,0,0,0,18
+2874,Olek,0,0,0,18
+2875,Gdañsk Strzy¿a,0,0,0,4
+2876,Gdañsk NiedŸwiednik,0,0,0,4
+2877,Gdañsk Brêtowo,0,0,0,4
+2878,Brêtowo,0,0,0,3
+2879,Gdañsk Jasieñ,0,0,0,4
+2880,Gdañsk Kie³pinek,0,0,0,4
+2881,Kie³pinek,0,0,0,3
+2882,Gdañsk Matarnia,0,0,0,4
+2883,Gdañsk Firoga,0,0,0,6
+2884,Gdañsk Port Lotniczy,0,0,0,4
+2885,Gdañsk Rêbiechowo,0,0,0,5
+2886,Gdañsk Rêbiechowo,0,0,0,4
+2887,Gdañsk Stocznia,0,0,0,4
+2888,Gdañsk Nowe Szkoty,0,0,0,4
+2889,Gdañsk Kolonia,0,0,0,4
+2890,Gdañsk Stadion Expo,1,0,0,4
+2891,Gdañsk BrzeŸno,0,0,0,4
+2892,Gdañsk Œródmieœcie,0,0,0,4
+2893,Gdañsk Politechnika,0,0,0,4
+2894,Gdañsk Zaspa,0,0,0,4
+2895,Gdañsk Przymorze-Uniwersytet,0,0,0,4
+2896,Gdañsk Oliwa SKM,0,0,0,2
+2897,Gdañsk ¯abianka-AWFiS,0,0,0,4
+2898,Sopot Wyœcigi,0,0,0,4
+2899,Sopot Kamienny Potok,0,0,0,4
+2900,Gdynia Or³owo SKM,0,0,0,13
+2901,Gdynia Red³owo,0,0,0,4
+2902,Gdynia Wzgórze Œw.Maksymiliana,0,0,0,4
+2903,Gdynia Stocznia-Uniwersytet Morski,0,0,0,4
+2904,Gdynia Grabówek,0,0,0,4
+2905,Gdynia Leszczynki,0,0,0,4
+2906,Gdynia Cisowa,0,0,0,4
+2907,Gdynia Cisowa Postojowa,0,0,0,5
+2908,Rumia Janowo,0,0,0,4
+2909,Elbl¹g Zdrój,0,0,0,4
+2910,Elbl¹g Zdrój,0,0,1,5
+2911,Rubno Wielkie,0,0,0,4
+2912,Jagodna,0,0,0,4
+2913,Kamiennica Elbl¹ska,0,0,0,4
+2914,Nadbrze¿e,0,0,0,4
+2915,Suchacz Zamek,0,0,0,4
+2916,Pêklewo,0,0,0,14
+2917,Kadyny,0,0,0,4
+2918,Tolkmicko,0,0,0,4
+2919,Œwiêty Kamieñ,0,0,0,4
+2920,Frombork,0,0,0,4
+2921,Stêpieñ,0,0,0,4
+2922,Braniewo Brama,0,0,0,14
+2923,Stogi,0,0,0,20
+2924,Tralewo,0,0,0,20
+2925,Nowy Staw,0,0,0,17
+2926,Marynowy,0,0,0,20
+2927,Nowy Dwór Gdañski,0,0,0,17
+2928,Karolewo Bsz,0,0,0,14
+2929,Czerniki,0,0,0,4
+2930,Gier³o¿,0,0,0,4
+2931,Parcz,0,0,0,4
+2932,Radzieje Wêgorzewskie,0,0,0,4
+2933,Kamionek Wielki,0,0,0,4
+2934,Przystañ,0,0,0,4
+2935,Zaj¹czkowo Tczewskie,0,0,0,1
+2936,Grabiszyn,0,0,0,3
+2937,Wroc³aw Popowice,1,0,0,4
+2938,Wroc³aw Ró¿anka,1,0,0,4
+2939,Wroc³aw Osobowice,1,0,0,1
+2940,Wroc³aw Œwiniary,1,0,0,4
+2941,Szewce,1,0,0,4
+2942,Pêgów,1,0,0,2
+2943,Oborniki Œl¹skie,1,0,0,1
+2944,Osola,1,0,0,4
+2945,Skokowa,1,0,0,1
+2946,¯migród,1,0,0,1
+2947,Garbce,1,0,0,4
+2948,Korzeñsko,1,0,0,4
+2949,Rawicz,1,0,1,1
+2950,Bojanowo,1,0,1,1
+2951,Kaczkowo,1,0,0,4
+2952,Rydzyna,1,0,0,4
+2953,Rydzyna PODG,0,0,0,3
+2954,Lipno Nowe,1,0,0,4
+2955,Górka Duchowna,1,0,0,4
+2956,Stare Bojanowo,1,0,0,1
+2957,Przysieka Stara PGL,0,0,0,9
+2958,Przysieka Stara,1,0,0,4
+2959,Koœcian,1,0,1,1
+2960,Oborzyska Stare,1,0,0,4
+2961,Czempiñ,1,0,1,1
+2962,I³owiec,1,0,0,4
+2963,Dru¿yna Poznañska,1,0,0,4
+2964,Mosina,1,0,0,1
+2965,Puszczykówko,1,0,0,8
+2966,Puszczykowo,1,0,0,4
+2967,Luboñ ko³o Poznania,1,0,1,1
+2968,Poznañ Dêbiec,1,0,0,4
+2969,Gotartów,0,0,0,3
+2970,Krzywizna,1,0,0,1
+2971,Biskupice ko³o Kluczborka,1,0,0,4
+2972,Byczyna Kluczborska,1,0,0,1
+2973,Kostów,1,0,0,1
+2974,£êka Opatowska,1,0,0,1
+2975,S³upia,1,0,0,4
+2976,Kêpno,1,0,0,4
+2977,Hanulin,0,0,0,5
+2978,Domanin,1,0,1,1
+2979,Ostrzeszów,1,0,0,1
+2980,NiedŸwiedŸ Wielkopolski,1,0,0,4
+2981,Antonin,1,0,1,1
+2982,Przygodzice,1,0,0,1
+2983,Janków Przygodzki,1,0,0,4
+2984,Franklinów,0,0,0,3
+2985,Biniew,1,0,0,1
+2986,Bronów,1,0,0,1
+2987,Taczanów,1,0,0,2
+2988,Pleszew,1,0,1,1
+2989,Kotlin,1,0,0,1
+2990,Witaszyce,1,0,0,1
+2991,Jarocin,1,0,1,1
+2992,Mieszków,1,0,0,1
+2993,Chocicza,1,0,1,1
+2994,Solec Wielkopolski,1,0,0,4
+2995,Sulêcinek,1,0,0,1
+2996,Œroda Wielkopolska,1,0,1,1
+2997,Pierzchno,1,0,0,2
+2998,Kórnik,1,0,0,4
+2999,G¹dki,1,0,0,1
+3000,Poznañ Krzesiny,1,0,0,1
+3001,Poznañ Staro³êka,1,0,0,1
+3002,Poznañ Dêbina,1,0,0,4
+3003,Wroc³aw Muchobór,1,0,0,4
+3004,Wroc³aw Muchobór,0,0,0,3
+3005,Wroc³aw KuŸniki,1,0,0,1
+3006,Wroc³aw Stadion,1,0,0,4
+3007,Wroc³aw Pracze,1,0,0,1
+3008,Brzezinka Œredzka,1,0,0,1
+3009,Czerna Ma³a,1,0,0,4
+3010,Ksiêginice,1,0,0,2
+3011,Brzeg Dolny,1,0,1,1
+3012,£ososiowice,1,0,0,4
+3013,Wo³ów,1,0,1,1
+3014,Orzeszków,1,0,0,4
+3015,Ma³owice Wo³owskie,1,0,0,1
+3016,Œcinawa,1,0,1,1
+3017,Che³mek Wo³owski,1,0,0,2
+3018,Rudna Miasto,1,0,0,4
+3019,Rudna Gwizdanów,1,0,0,1
+3020,Grêbocice,1,0,0,1
+3021,Krzepów,1,0,0,1
+3022,G³ogów Famaba Bsz,0,0,0,14
+3023,G³ogów Huta,1,0,0,4
+3024,G³ogów Wróblin,1,0,0,1
+3025,Brzeg G³ogowski,1,0,0,4
+3026,Czerna,1,0,0,2
+3027,Bytom Odrzañski,1,0,0,1
+3028,Nowa Sól,1,0,1,1
+3029,Niedoradz,1,0,1,1
+3030,Zielona Góra Nowy Kisielin,1,0,0,4
+3031,Zielona Góra Stary Kisielin,1,0,0,4
+3032,Stary Kisielin,0,0,0,15
+3033,Zielona Góra G³ówna,1,0,1,1
+3034,Zielona Góra Przylep,1,0,0,4
+3035,Czerwieñsk Po³udnie,0,0,0,3
+3036,Czerwieñsk,1,0,1,1
+3037,Czerwieñsk Towarowy,0,0,0,5
+3038,Nietkowice,1,0,0,4
+3039,Bêdów,1,0,0,4
+3040,Radnica,1,0,0,1
+3041,Bytnica,1,0,0,4
+3042,Budachów,1,0,1,1
+3043,Pliszka,1,0,0,4
+3044,G¹dków Wielki,1,0,0,1
+3045,Jerzmanice Lubuskie,1,0,1,1
+3046,Drzeñsko,0,0,0,3
+3047,Drzeñsko,1,0,0,4
+3048,Kowalów,1,0,0,1
+3049,Radów,1,0,0,4
+3050,Laski Lubuskie,1,0,0,1
+3051,Górzyca,1,0,0,4
+3052,£ugi Górzyckie,1,0,0,1
+3053,Chyrzyno,0,0,0,3
+3054,Namyœlin,1,0,0,1
+3055,Boleszkowice,1,0,1,1
+3056,Mieszkowice,1,0,1,1
+3057,Bielin,1,0,0,4
+3058,Witnica Chojeñska,1,0,0,4
+3059,Godków,1,0,0,1
+3060,Chojna,1,0,0,1
+3061,Lisie Pole,1,0,0,4
+3062,Krzywin Gryfiñski,1,0,0,1
+3063,Widuchowa,1,0,0,4
+3064,Pacholêta,1,0,0,4
+3065,Dolna Odra,1,0,1,1
+3066,Gryfino,1,0,0,1
+3067,Czepino Gryfskand,0,0,0,14
+3068,Czepino,1,0,0,4
+3069,Daleszewo,1,0,0,1
+3070,Szczecin ¯ydowce,0,0,0,4
+3071,Szczecin Podjuchy,1,0,1,1
+3072,Szczecin Port Centralny,1,0,1,1
+3073,Szczecin £asztownia,0,0,0,4
+3074,Szczecin G³ówny,1,0,0,1
+3075,Wroc³aw Œwiebodzki DOLKOM DZN,0,0,0,14
+3076,Wroc³aw Œwiebodzki,0,0,0,9
+3077,Wroc³aw Grabiszyn,1,0,0,4
+3078,Wroc³aw Zachodni,1,0,0,1
+3079,Mokronos Górny,1,0,0,4
+3080,Smolec,1,0,0,2
+3081,Sadowice Wroc³awskie,1,0,0,4
+3082,K¹ty Wroc³awskie,1,0,0,1
+3083,Mietków,0,0,0,3
+3084,Mietków,1,0,0,4
+3085,Imbramowice,1,0,0,1
+3086,¯arów Electrolux Poland,0,0,0,14
+3087,¯arów,1,0,0,1
+3088,Œwiebodzice,1,0,0,1
+3089,Wa³brzych Szczawienko,1,0,0,1
+3090,Wa³brzych Miasto,1,0,0,1
+3091,Wa³brzych Centrum,1,0,0,4
+3092,Wa³brzych EKO CARBO - Julia,0,0,0,14
+3093,Wa³brzych Fabryczny,1,0,0,1
+3094,Wa³brzych G³ówny,1,0,1,1
+3095,Boguszów-Gorce Wschód,1,0,0,2
+3096,Boguszów-Gorce,1,0,0,1
+3097,Boguszów-Gorce Zachód,1,0,0,1
+3098,Witków Œl¹ski,1,0,0,4
+3099,Sêdzis³aw,1,0,0,1
+3100,Marciszów,1,0,0,1
+3101,Ciechanowice,1,0,0,4
+3102,Janowice Wielkie,1,0,0,1
+3103,Trzciñsko,1,0,0,4
+3104,Wojanów,1,0,0,1
+3105,Jelenia Góra,1,0,1,1
+3106,Jelenia Góra Zabobrze,1,0,0,4
+3107,Rybnica,1,0,0,13
+3108,Stara Kamienica,1,0,0,1
+3109,Kwieciszowice,1,1,0,4
+3110,Góra Kamienista Kopalnia Bazaltu,0,0,0,14
+3111,Rêbiszów,1,0,0,1
+3112,M³yñsko,1,1,0,4
+3113,Gryfów Œl¹ski,1,0,0,1
+3114,Ubocze,1,1,0,4
+3115,Olszyna Lubañska,1,0,0,4
+3116,Lubañ Œl¹ski,1,0,1,1
+3117,Lubañ Ksiêginki 1 Kopalnia Bazaltu,0,0,0,14
+3118,Zarêba,1,0,0,17
+3119,Batowice Lubañskie,1,1,0,4
+3120,Miku³owa,1,0,0,17
+3121,Studniska,0,0,0,3
+3122,Jerzmanki,1,0,0,1
+3123,Zgorzelec,1,0,0,1
+3124,Zgorzelec (Gr),0,0,0,7
+3125,Wroc³aw Nowy Dwór,1,0,0,2
+3126,Wroc³aw ¯erniki,1,0,0,1
+3127,Wroc³aw Leœnica,1,0,0,1
+3128,Mrozów,1,0,0,4
+3129,Miêkinia,1,0,1,1
+3130,Przedmoœcie Œwiête,1,0,0,4
+3131,Œroda Œl¹ska PGL,0,0,0,9
+3132,Œroda Œl¹ska,1,0,0,4
+3133,Malczyce,1,0,0,1
+3134,Szczedrzykowice,1,0,0,2
+3135,Jaœkowice Legnickie,1,0,0,4
+3136,Wielkie Piekary,0,0,0,3
+3137,Jezierzany,1,0,0,4
+3138,Mi³kowice,1,0,0,1
+3139,Goliszów,1,0,0,4
+3140,Rokitki,1,0,1,1
+3141,Mod³a,1,0,0,4
+3142,Wierzbowa Œl¹ska,1,0,0,4
+3143,Studzianka,1,1,0,4
+3144,Leszno Górne,1,0,1,1
+3145,Ma³omice,1,0,0,1
+3146,¯agañ Jw 718,0,0,0,14
+3147,Bieniów,1,0,0,1
+3148,Lubsko,0,0,0,17
+3149,Gubinek,0,0,0,4
+3150,Lamowice,0,0,0,3
+3151,Iwiny,1,0,0,4
+3152,Smardzów Wroc³awski,1,0,0,1
+3153,¯órawina,1,0,1,1
+3154,Wêgry,1,0,0,4
+3155,Boreczek,1,0,0,1
+3156,Warkocz,1,0,0,4
+3157,Strzelin,1,0,1,1
+3158,Strzelin Cukrownia,0,0,0,14
+3159,Bia³y Koœció³,1,0,0,13
+3160,Henryków,1,0,1,1
+3161,Ziêbice,1,0,0,1
+3162,Starczów,1,0,0,13
+3163,Suszka,1,1,0,4
+3164,Bardo Przy³êk,1,0,1,1
+3165,Bardo Œl¹skie,1,0,0,4
+3166,£awica,1,0,0,4
+3167,K³odzko G³ówne,1,0,1,1
+3168,K³odzko Miasto,1,0,0,1
+3169,K³odzko Nowe,0,0,0,3
+3170,Krosnowice K³odzkie,1,0,0,4
+3171,Gorzanów,1,0,0,1
+3172,Bystrzyca K³odzka,1,0,0,4
+3173,Bystrzyca K³odzka Przedmieœcie,1,0,1,1
+3174,D³ugopole-Zdrój,1,0,0,4
+3175,Domaszków,1,0,1,1
+3176,Roztoki Bystrzyckie,1,0,0,4
+3177,Miêdzylesie,1,0,0,1
+3178,Miêdzylesie (Gr),0,0,0,7
+3179,Opole Wschodnie,1,0,0,1
+3180,Opole Wschodnie EC Opolszczyzna ECO,0,0,0,14
+3181,Opole Czarnow¹sy,1,0,0,1
+3182,Opole Borki,1,0,0,4
+3183,Dobrzeñ Wielki,1,0,0,1
+3184,Chróœcice,1,0,0,17
+3185,Popielów,1,0,0,1
+3186,Kar³owice,1,0,1,1
+3187,Tarnowiec Brzeski,1,0,0,4
+3188,M¹koszyce,1,0,0,4
+3189,Rogalice,1,0,0,4
+3190,Borucice,1,0,0,4
+3191,Biskupice O³awskie,1,0,0,1
+3192,Minkowice O³awskie,1,1,0,4
+3193,Kopalina,1,1,0,4
+3194,Jelcz-Laskowice,1,0,0,1
+3195,Jelcz Mi³oszyce,1,0,0,4
+3196,Jelcz Mi³oszyce Podg,0,0,0,3
+3197,Czernica Wroc³awska,1,0,0,1
+3198,Zakrzów Kotowice,1,0,0,4
+3199,Siechnice,1,0,0,1
+3200,Wroc³aw Brochów,0,0,0,1
+3201,Wêgliniec,1,0,0,1
+3202,Pieñsk,1,0,0,11
+3203,Pieñsk POZ-BRUK,0,0,0,14
+3204,Lasów,1,0,0,4
+3205,Jêdrzychowice,1,0,1,11
+3206,Zgorzelec Miasto,1,0,0,4
+3207,Giera³tów,1,1,0,4
+3208,Giera³tów Wykroty,1,0,0,1
+3209,Oleœnica Rataje,1,0,0,4
+3210,D¹browa Oleœnicka,1,0,0,2
+3211,Dobroszyce,1,0,0,1
+3212,Grabowno Wielkie,1,0,1,1
+3213,Bukowice Trzebnickie,1,0,0,13
+3214,Kroœnice,1,0,0,13
+3215,Wierzchowice,1,1,0,4
+3216,Milicz,1,0,1,1
+3217,Rakoniewice Milickie,1,0,0,4
+3218,Cieszków,1,0,0,4
+3219,Zduny,1,0,1,1
+3220,Krotoszyn,1,0,1,1
+3221,Bo¿acin,1,0,0,4
+3222,Wolenice,1,0,0,4
+3223,KoŸmin Wielkopolski,1,0,1,1
+3224,Obra Stara,1,0,0,4
+3225,Golina,1,0,0,4
+3226,Radlin Wielkopolski,1,0,0,4
+3227,¯erków,1,0,0,1
+3228,Orzechowo,1,0,0,1
+3229,Mi³os³aw,1,0,0,1
+3230,Ksi¹¿no,1,0,0,4
+3231,Chwalibogowo,1,0,0,4
+3232,Wrzeœnia,1,0,1,1
+3233,Marzenin,1,0,0,4
+3234,Czerniejewo,1,0,0,1
+3235,¯ydowo,1,0,0,4
+3236,Gêbarzewo,1,0,0,8
+3237,Gniezno,1,0,1,1
+3238,Gniezno Winiary,1,0,1,1
+3239,Zdziechowa,0,0,0,4
+3240,Œwi¹tniki,0,0,0,4
+3241,Mieleszyn,0,0,0,4
+3242,G¹cz,0,0,0,4
+3243,Janowiec Wielkopolski,0,0,1,5
+3244,D¹browa Miêdzylesie,0,0,0,4
+3245,Damas³awek,0,0,0,5
+3246,Wapno,0,0,0,4
+3247,Rusiec,0,0,0,4
+3248,Kcynia,0,0,1,5
+3249,Szczepice,0,0,0,4
+3250,Studzienki,0,0,0,4
+3251,Paterek,0,0,0,14
+3252,Kozia Góra Krajeñska,0,0,0,4
+3253,Mrocza,0,0,0,18
+3254,Witos³aw,0,0,0,4
+3255,Rajgród,0,0,0,4
+3256,Runowo Krajeñskie,0,0,0,18
+3257,Wiêcbork,0,0,0,18
+3258,Wysoka Krajeñska,0,0,0,4
+3259,Œwidwie Sêpoleñskie,0,0,0,4
+3260,Sêpólno Krajeñskie,0,0,1,18
+3261,Kamieñ Krajeñski,0,0,0,18
+3262,Obkas,0,0,0,4
+3263,Ogorzeliny,0,0,0,17
+3264,Chojnów,1,0,0,1
+3265,Osetnica,1,0,0,4
+3266,Okmiany,1,0,0,1
+3267,Tomaszów Boles³awiecki,1,0,0,4
+3268,Boles³awiec,1,0,0,1
+3269,Zebrzydowa,1,0,0,1
+3270,Zagajnik,1,0,0,4
+3271,Stary Wêgliniec,1,0,0,4
+3272,Jagodzin,1,0,0,4
+3273,Ruszów,1,0,0,1
+3274,Okr¹glica,1,0,0,4
+3275,I³owa ¯agañska,1,0,0,4
+3276,I³owa ¯agañska VITROSILIKON,0,0,0,14
+3277,Konin ¯agañski,1,0,0,4
+3278,Jankowa ¯agañska,1,0,0,1
+3279,¯ary Kunice CIECH Vitrisilikon,0,0,0,14
+3280,¯ary Kunice,1,0,0,4
+3281,Jelenia Góra Pec,0,0,0,14
+3282,Je¿ów Sudecki,0,0,0,4
+3283,Siedlêcin,0,0,0,4
+3284,Pilchowice Zapora,0,0,0,4
+3285,Pilchowice Nielestno,0,0,0,4
+3286,Wleñ,0,0,0,1
+3287,Marczów,0,0,0,4
+3288,Dêbowy Gaj,0,0,0,4
+3289,Lwówek Œl¹ski,0,0,0,1
+3290,Rakowice Wielkie,0,0,0,4
+3291,Rakowice ¯wirownia,0,0,0,3
+3292,Niwnice,1,0,0,1
+3293,Goœciszów,0,0,0,4
+3294,Nowogrodziec,0,0,0,4
+3295,Nowogrodziec KSM Surmin-Kaolin,0,0,0,14
+3296,Tomis³aw,0,0,0,4
+3297,Osiecznica Kliczków,0,0,0,18
+3298,£awszowa,0,0,0,17
+3299,Paw³owice Ma³e,0,0,0,5
+3300,Wilczyce,0,0,0,4
+3301,Kozów,0,0,0,4
+3302,Z³otoryja,0,0,0,17
+3303,Jerzmanice-Zdrój,0,0,1,5
+3304,Wroc³aw Wojszyce,1,0,0,4
+3305,Wroc³aw Partynice,1,0,0,4
+3306,Bielany Wroc³awskie,1,0,0,13
+3307,Domas³aw,1,0,0,4
+3308,Kobierzyce,1,0,0,1
+3309,Wierzbice Wroc³awskie,1,0,0,4
+3310,Pustków ¯urawski,1,0,0,4
+3311,Olbrachtowice,0,0,0,4
+3312,Rogów Sobócki,0,0,0,18
+3313,Rogów Sobócki,1,0,0,4
+3314,Sobótka,1,0,0,4
+3315,Sobótka Zachodnia,1,0,0,1
+3316,Strzelce Œwidnickie,0,0,0,4
+3317,Szczepanów,1,0,0,4
+3318,Marcinowice Œwidnickie,1,0,0,4
+3319,Pszenno,1,0,0,4
+3320,Pszenno Cukrownia,0,0,0,14
+3321,Ciep³ownia Zarzecze,0,0,0,14
+3322,Œwidnica Przedmieœcie,1,0,0,1
+3323,Œwidnica Kraszowice,0,0,0,3
+3324,Burkatów,0,0,0,4
+3325,Jedlina-Zdrój Centrum,0,0,0,4
+3326,Bierkowice,1,1,0,4
+3327,Gorzuchów K³odzki,1,1,0,4
+3328,Œcinawka Œrednia,1,0,0,1
+3329,Nowa Ruda,1,0,0,1
+3330,Nowa Ruda Przedmieœcie,1,1,0,4
+3331,Nowa Ruda Zdrojowisko,1,1,0,4
+3332,Ludwikowice K³odzkie,0,0,0,3
+3333,Ludwikowice K³odzkie,1,0,0,4
+3334,Œwierki Dolne,1,0,0,4
+3335,Bartnica,1,0,0,4
+3336,Bartnica KSS Œwierki,0,0,0,14
+3337,G³uszyca Górna,1,0,0,4
+3338,G³uszyca,1,0,0,1
+3339,Jedlina-Zdrój,1,0,0,4
+3340,Jedlina Górna,1,1,0,4
+3341,Opole Chmielowice,1,0,0,4
+3342,Komprachcice,1,0,1,17
+3343,Polska Nowa Wieœ,0,0,0,4
+3344,Szyd³ów Centrum,1,0,0,4
+3345,Szyd³ów,1,0,1,1
+3346,Tu³owice,1,0,0,4
+3347,Goszczowice,1,0,0,4
+3348,Sowin,1,0,0,4
+3349,£ambinowice,1,0,1,1
+3350,Budziszowice,1,0,0,4
+3351,Jasienica Dolna,1,0,0,4
+3352,Mañkowice,1,0,0,4
+3353,Kubice,1,0,0,4
+3354,Wyszków Œl¹ski,1,0,0,4
+3355,Nysa Wschodnia,1,0,0,4
+3356,Myœliczyn,1,0,0,4
+3357,Pakos³awice,1,0,0,4
+3358,Skoroszyce,1,0,0,4
+3359,Chróœcina Nyska,1,0,0,17
+3360,Stary Grodków,1,0,0,4
+3361,Grodków Œl¹ski,1,0,0,17
+3362,Lipowa Œl¹ska,1,0,0,4
+3363,Czeska Wieœ,1,0,0,4
+3364,Olszanka,1,0,0,4
+3365,Rzeszotary,1,0,0,4
+3366,Raszówka,1,0,0,1
+3367,Gorzelin,1,1,0,4
+3368,Chróstnik,1,0,0,4
+3369,Lubin,1,0,0,1
+3370,Lubin Stadion,1,0,0,4
+3371,KoŸlice,1,0,0,13
+3372,Rynarcice,1,0,0,4
+3373,Las,0,0,0,3
+3374,Sulików,0,0,0,5
+3375,Wilka,0,0,0,3
+3376,Krzewina Zgorzelecka,1,0,0,1
+3377,Bratków Zgorzelecki,0,0,0,4
+3378,Unis³aw Œl¹ski,1,1,0,4
+3379,Mieroszów,1,0,0,1
+3380,Mieroszów (Gr),0,0,0,7
+3381,Chrz¹stawa Ma³a,1,0,0,4
+3382,Nadolice Wielkie,1,0,0,4
+3383,Nadolice Ma³e,1,0,0,4
+3384,Dobrzykowice Wroc³awskie,1,0,0,13
+3385,Wroc³aw Wojnów Wschodni,1,0,0,4
+3386,Wroc³aw Wojnów,1,0,0,4
+3387,Wroc³aw Strachocin,1,0,0,4
+3388,Wroc³aw Swojczyce,1,0,0,1
+3389,Wroc³aw Popiele,1,0,0,4
+3390,Wroc³aw Kowale,1,0,0,4
+3391,Wroc³aw Ró¿anka £adownia,0,0,0,14
+3392,Je³owa,1,0,0,17
+3393,Ka³y,1,0,0,4
+3394,Laskowice Oleskie,1,0,0,4
+3395,Tu³y,1,0,0,4
+3396,Bukowo,1,0,0,4
+3397,Borkowice,1,0,0,4
+3398,G³ubczyce Las,0,0,0,4
+3399,Œciborzyce Ma³e,0,0,0,4
+3400,Bielawa Dolna,0,0,0,3
+3401,Bielawa Dolna (Gr),0,0,0,7
+3402,G³ucho³azy,1,0,0,1
+3403,G³ucho³azy G³ucho³aska F-ka Mebli,0,0,0,14
+3404,G³ucho³azy Miasto,1,0,0,4
+3405,G³ucho³azy Zdrój,0,0,0,4
+3406,Kamienna Góra,1,0,0,1
+3407,B³a¿kowa,1,1,0,4
+3408,Lubawka,1,0,0,4
+3409,Lubawka (Gr),0,0,0,7
+3410,Opole Gos³awice,1,0,0,4
+3411,Kotórz Ma³y,1,0,0,4
+3412,Osowiec Przystanek,1,0,0,4
+3413,Osowiec Œl¹ski,0,0,0,4
+3414,Mañczok,0,0,0,4
+3415,Murów,0,0,0,18
+3416,Oko³y,0,0,0,4
+3417,Pokój,0,0,0,4
+3418,D¹browa Namys³owska,0,0,0,17
+3419,Biestrzykowice,0,0,0,4
+3420,Jastrzêbie Œl¹skie,0,0,0,17
+3421,Ziemie³owice,0,0,0,4
+3422,Ujazd Górny,0,0,0,17
+3423,£agiewniki Œredzkie,0,0,0,4
+3424,Jaroszów,0,0,0,18
+3425,Grabina Œl¹ska,0,0,0,18
+3426,Duninów,0,0,0,18
+3427,Ma³ujowice,0,0,0,14
+3428,Krapkowice,0,0,0,14
+3429,£owkowice,0,0,0,4
+3430,Strzeleczki,0,0,0,4
+3431,Moszna,0,0,0,4
+3432,£¹cznik,0,0,0,4
+3433,Krobusz,0,0,0,4
+3434,Bia³a Prudnicka,0,0,0,17
+3435,Józefówek,0,0,0,4
+3436,Kowary Górne,0,0,0,4
+3437,Kowary Œrednie,0,0,0,4
+3438,Kowary,0,0,0,4
+3439,Kostrzyca,0,0,0,4
+3440,Mys³akowice,0,0,0,17
+3441,£omnica,0,0,0,4
+3442,£omnica Dolna,0,0,0,4
+3443,£omnica Œrednia,0,0,0,4
+3444,K³odzko Ksi¹¿ek,1,1,0,4
+3445,K³odzko Zagórze,1,1,0,4
+3446,Stary Wielis³aw,1,1,0,4
+3447,Polanica-Zdrój,1,0,0,1
+3448,Szczytna,1,0,0,4
+3449,Duszniki-Zdrój,1,0,0,1
+3450,Kulin K³odzki,1,1,0,4
+3451,Lewin K³odzki,1,1,0,4
+3452,Kudowa-Zdrój,1,0,0,1
+3453,Jelenia Góra Zachodnia,1,0,0,1
+3454,Jelenia Góra Przemys³owa,1,0,0,4
+3455,Jelenia Góra Cieplice,1,0,0,4
+3456,Jelenia Góra Orle,1,0,0,4
+3457,Jelenia Góra Sobieszów,1,0,0,1
+3458,Piechowice Dolne,1,1,0,4
+3459,Piechowice,1,0,0,1
+3460,Górzyniec,1,1,0,4
+3461,Szklarska Porêba Dolna,1,0,0,4
+3462,Szklarska Porêba Œrednia,1,0,0,4
+3463,Szklarska Porêba Górna,1,0,0,1
+3464,Szklarska Porêba Huta,0,0,0,4
+3465,Szklarska Porêba Jakuszyce,0,0,0,4
+3466,Jakuszyce (Gr),0,0,0,7
+3467,Krzeniów I Kosd Bsz,0,0,0,14
+3468,Krzeniów II,0,0,0,14
+3469,¯elazno,0,0,0,4
+3470,O³drzychowice K³odzkie,0,0,0,4
+3471,O³drzychowice OMYA,0,0,0,14
+3472,Trzebieszowice,0,0,0,18
+3473,Radochów,0,0,0,4
+3474,L¹dek-Zdrój,0,0,0,4
+3475,L¹dek Stójków,0,0,0,4
+3476,Stronie Œl¹skie,0,0,0,14
+3477,Gr. (Rêczyn) L.324 km 0.689,0,0,0,7
+3478,Czerwonków,0,0,0,4
+3479,Nowa Cerekwia,0,0,0,4
+3480,Ludmierzyce,0,0,0,4
+3481,Wroc³aw Zakrzów,1,0,0,4
+3482,Wroc³aw Paw³owice,0,0,0,4
+3483,Ramiszów,0,0,0,4
+3484,Pasikurowice,0,0,0,4
+3485,Siedlec Trzebnicki,0,0,0,4
+3486,Pierwoszów Mi³ocin,0,0,0,4
+3487,Brochocin Trzebnicki,0,0,0,4
+3488,Trzebnica,0,0,0,4
+3489,Nowa Ruda S³upiec,0,0,0,5
+3490,Grodziec Niemodliñski,0,0,0,4
+3491,Sady,0,0,0,4
+3492,Niemodlin,0,0,0,14
+3493,Szyd³owiec Œl¹ski,0,0,0,4
+3494,Gracze,0,0,0,17
+3495,Gr. (Pokrzywna) L.333 Km 11.225,0,0,0,7
+3496,Lubañ Ksiêginki Kopalnia Bazaltu,0,0,0,14
+3497,Koœcielnik,0,0,0,4
+3498,Koœcielniki Dolne,0,0,0,4
+3499,Koœcielniki Górne,0,0,0,4
+3500,Leœna Zak³ad Produkcji Kruszywa,0,0,0,14
+3501,Leœna,0,0,0,18
+3502,Bielawa Zachodnia,0,0,0,4
+3503,Bielawa Centralna,0,0,0,4
+3504,Wilcza Góra Kopalnia Bazaltu,0,0,0,14
+3505,Wilków Z³otoryjski,0,0,0,18
+3506,G³ucho³azy Papiernia,0,0,0,14
+3507,G³ucho³azy (Gr),0,0,0,7
+3508,Zawidów,0,0,0,5
+3509,Zawidów (Gr),0,0,0,7
+3510,Trzciniec Zgorzelecki,0,0,0,3
+3511,Gr. (Trzciniec Zg.) L.348 km 0.200,0,0,0,7
+3512,Stadion,0,0,0,3
+3513,Wroc³aw G¹dów,0,0,0,5
+3514,Poznañ POD,0,0,0,3
+3515,Poznañ Wola,1,0,0,11
+3516,Kiekrz,1,0,0,1
+3517,Rokietnica,1,0,0,1
+3518,Pami¹tkowo,1,0,0,4
+3519,Baborówko,1,0,0,4
+3520,Szamotu³y,1,0,1,1
+3521,Pêckowo,1,0,0,2
+3522,Wronki,1,0,1,1
+3523,Mokrz,1,0,0,4
+3524,Mia³y,1,0,0,1
+3525,Drawski M³yn,1,0,0,1
+3526,Drawiny,1,0,0,1
+3527,Podlesiec,1,0,0,1
+3528,Mierzêcin Strzelecki,1,0,0,4
+3529,Dobiegniew,1,0,0,1
+3530,Bierzwnik,1,0,0,1
+3531,Rêbusz,1,0,0,1
+3532,S³onice,1,0,0,1
+3533,Stary Klukom,1,0,0,4
+3534,Choszczno,1,0,1,1
+3535,Ziemomyœl,1,0,0,4
+3536,Dolice,1,0,0,1
+3537,Morzyca,1,0,0,4
+3538,Kolin,1,0,0,1
+3539,Strzebielewo Pyrzyckie,1,0,0,4
+3540,Witkowo Pyrzyckie,1,0,0,4
+3541,Grzêdzice,1,0,0,4
+3542,Miedwiecko,1,0,0,4
+3543,Reptowo,1,0,0,1
+3544,Szczecin Zdunowo,1,0,0,4
+3545,Szczecin Dunikowo,0,0,0,4
+3546,Szczecin D¹bie,1,0,1,1
+3547,Szczecin Zdroje,1,0,0,4
+3548,Szczecin Zdroje,0,0,0,3
+3549,Regalica,0,0,0,3
+3550,Dziewoklicz,0,0,0,3
+3551,Szczecin Wstowo,0,0,0,3
+3552,Nowa Wieœ Poznañska,0,0,0,3
+3553,Poznañ Franowo,0,0,1,1
+3554,Pokrzywno,0,0,0,3
+3555,Ligowiec,1,0,0,4
+3556,Kobylnica,1,0,0,1
+3557,Biskupice Wielkopolskie,1,0,0,2
+3558,Promno,1,0,0,4
+3559,Pobiedziska Letnisko,1,0,0,4
+3560,Pobiedziska,1,0,1,1
+3561,Lednogóra,1,0,0,4
+3562,Lednogóra ODST,0,0,0,15
+3563,Fa³kowo,1,0,0,4
+3564,Pierzyska,1,0,0,1
+3565,Mnichówko ODST,0,0,0,15
+3566,Wierzbiczany,0,0,0,15
+3567,Jankowo Dolne,1,0,0,4
+3568,Jankowo Dolne ODST,0,0,0,15
+3569,Trzemeszno,1,0,1,1
+3570,Wydartowo,1,0,0,1
+3571,Mogilno,1,0,1,1
+3572,Ko³odziejewo,1,0,0,1
+3573,Janikowo,1,0,0,1
+3574,Wiêc³awice,1,0,0,1
+3575,Wierzchos³awice,1,0,0,1
+3576,Gniewkowo,1,0,0,1
+3577,Suchatówka,1,0,0,4
+3578,Chor¹giewka,0,0,0,26
+3579,Nieszawka,0,0,0,3
+3580,Toruñ Miasto,1,0,0,1
+3581,Papowo Toruñskie,1,0,0,1
+3582,Turzno,1,0,0,11
+3583,Kamionki Jezioro,1,0,0,4
+3584,Rychnowo Wielkie,1,0,0,4
+3585,Zieleñ,1,0,0,4
+3586,W¹brzeŸno,1,0,1,1
+3587,Ksi¹¿ki,1,0,0,2
+3588,Ostrowite ko³o Jab³onowa,1,0,0,2
+3589,Lipinki,1,0,0,4
+3590,Biskupiec Pomorski,1,0,0,1
+3591,Jamielnik,1,0,0,1
+3592,Rudzienice Suskie,1,0,0,1
+3593,Pikus,1,0,0,4
+3594,Samborowo,1,0,0,1
+3595,Ostróda,1,0,1,1
+3596,Lubajny,1,0,0,4
+3597,Stare Jab³onki,1,0,0,1
+3598,Biesal,1,0,0,1
+3599,Unieszewo,1,0,0,4
+3600,Naterki,1,0,0,1
+3601,£êgajny,1,0,0,1
+3602,Barczewo,1,0,1,1
+3603,Wipsowo,1,0,0,4
+3604,Górowo,1,0,0,4
+3605,S¹topy-Samulewo,1,0,0,1
+3606,£ankiejmy,1,0,0,4
+3607,Parys,0,0,0,4
+3608,Drogosze,0,0,0,4
+3609,Modgarby,0,0,0,4
+3610,Skandawa,0,0,0,5
+3611,Poznañ Podolany,1,0,0,4
+3612,Poznañ Strzeszyn,1,0,0,4
+3613,Suchy Las,0,0,0,3
+3614,Z³otniki Grzybowe,1,0,0,4
+3615,Z³otniki,1,0,0,1
+3616,Z³otkowo,1,0,0,4
+3617,Golêczewo,1,0,0,4
+3618,Chludowo,1,0,0,4
+3619,Wargowo,1,0,0,1
+3620,Bogdanowo,1,0,0,4
+3621,Oborniki Wielkopolskie Most,0,0,0,3
+3622,Oborniki Wielkopolskie Miasto,1,0,0,4
+3623,Oborniki Wielkopolskie,1,0,1,1
+3624,Ro¿nowo,1,0,0,4
+3625,Parkowo,1,0,0,4
+3626,Tarnowo Rogoziñskie,1,0,0,4
+3627,Soko³owo Budzyñskie,1,0,0,4
+3628,Budzyñ,1,0,1,1
+3629,Ostrówki ko³o Chodzie¿y,1,0,0,4
+3630,Chodzie¿,1,0,1,1
+3631,Milcz,1,0,0,4
+3632,Dziembówko,1,0,0,1
+3633,Pi³a Kalina,1,0,0,4
+3634,Topola-Osiedle,1,0,0,1
+3635,Tarcha³y Wielkie,1,0,0,4
+3636,Odolanów,1,0,1,1
+3637,Garki,1,0,0,4
+3638,Granowiec,1,0,0,1
+3639,Soœnie Ostrowskie,1,0,1,1
+3640,Paw³ów Wielkopolski,1,0,0,4
+3641,Miêdzybórz Sycowski,1,0,0,13
+3642,Bukowina Sycowska,1,0,0,13
+3643,Twardogóra,1,0,1,1
+3644,Poznañ Karolin,1,0,0,4
+3645,Czerwonak,1,0,0,1
+3646,Czerwonak Osiedle,1,0,0,4
+3647,Owiñska,1,0,0,4
+3648,Bolechowo,1,0,0,1
+3649,Zielone Wzgórza,1,0,0,4
+3650,Murowana Goœlina,1,0,0,1
+3651,Przebêdowo,1,0,0,4
+3652,£opuchowo,1,0,0,4
+3653,£opuchowo Osiedle,1,0,0,4
+3654,S³awa Wielkopolska,1,0,0,1
+3655,Skoki,1,0,0,17
+3656,Roszkowo W¹growieckie,1,0,0,4
+3657,Przysieczyn,1,0,0,4
+3658,M³yn Pa³ucki,0,0,0,14
+3659,Kobylec,1,0,0,4
+3660,Grylewo,1,0,0,4
+3661,Laskownica,1,0,0,4
+3662,Go³añcz,1,0,0,17
+3663,Panigródz,0,0,0,4
+3664,Grocholin,0,0,0,4
+3665,Szaradowo Zalesie,0,0,0,17
+3666,Piñsko Wielkopolskie,0,0,0,4
+3667,Szubin,0,0,1,18
+3668,Ko³aczkowo,0,0,0,4
+3669,Rynarzewo,0,0,0,17
+3670,Jasiniec Bia³eb³ota,0,0,1,18
+3671,Bia³e B³ota Prefabet,0,0,0,14
+3672,Powodowo,0,0,0,4
+3673,POWODOWO XELLA,0,0,0,14
+3674,Wolsztyn,1,0,0,1
+3675,T³oki,1,0,0,4
+3676,Rostarzewo,1,0,0,4
+3677,Rakoniewice,1,0,0,1
+3678,Drzyma³owo,1,0,0,4
+3679,Ruchocice,1,0,0,4
+3680,Grodzisk Wielkopolski,1,0,1,1
+3681,Gr¹blewo,1,0,0,4
+3682,Ptaszkowo,1,0,0,4
+3683,Kotowo,1,0,0,4
+3684,Granowo Nowotomyskie,1,0,0,1
+3685,Strykowo Poznañskie,1,0,0,4
+3686,Stêszew,1,0,1,1
+3687,Trzebaw Rosnówko,1,0,0,4
+3688,Szreniawa,1,0,0,1
+3689,Wiry,1,0,0,4
+3690,Kosieczyn,0,0,0,3
+3691,Babimost,1,0,0,1
+3692,£êgowo Sulechowskie,1,0,0,4
+3693,Sulechów,1,0,1,1
+3694,Czerwieñsk Wschód,0,0,0,3
+3695,Nietków,1,0,0,4
+3696,Laski Odrzañskie,1,0,0,4
+3697,Szczawno - Ciemnice,1,0,0,13
+3698,Krosno Odrzañskie,1,0,1,1
+3699,Wê¿yska,1,0,0,13
+3700,Wa³owice,1,0,0,1
+3701,Gubin,1,0,0,1
+3702,Gubin (Gr),0,0,0,7
+3703,Wilkowice,1,0,0,4
+3704,Krzycko Wielkie,1,0,0,4
+3705,W³oszakowice,1,0,1,1
+3706,Boszkowo,1,0,0,4
+3707,Starkowo,1,0,0,4
+3708,B³otnica,1,0,0,4
+3709,Perkowo,1,0,0,4
+3710,Nowawieœ Mochy,1,0,0,1
+3711,Nowy Solec,1,0,0,4
+3712,Wroniawy,1,0,0,4
+3713,Nowy Widzim,1,0,0,4
+3714,Tuchorza,1,0,0,4
+3715,Belêcin Wielkopolski,1,0,0,4
+3716,Stefanowo,1,0,0,1
+3717,Zb¹szyñ Przedmieœcie,1,0,0,4
+3718,Brzostów Wielkopolski,0,0,0,17
+3719,Góra,0,0,0,4
+3720,£obzowiec,0,0,0,4
+3721,Wojciechowo,0,0,0,4
+3722,Borek Wielkopolski,0,0,0,4
+3723,Strumiany,0,0,0,4
+3724,Zalesie Wielkopolskie,0,0,0,4
+3725,Godurowo,0,0,0,4
+3726,Piaski Wielkopolskie,0,0,0,4
+3727,Gostyñ,0,0,0,5
+3728,Gola,0,0,0,4
+3729,Kosowo Wielkopolskie,0,0,0,4
+3730,Krzemieniewo,0,0,0,4
+3731,Garzyn,0,0,0,4
+3732,Smolice,0,0,0,4
+3733,Jutrosin,0,0,0,4
+3734,D³oñ,0,0,0,4
+3735,Oczkowice,0,0,0,4
+3736,Sobia³kowo,0,0,0,4
+3737,Miejska Górka,0,0,0,18
+3738,Sarnowa,0,0,0,4
+3739,Rawicz Wschód,0,0,0,4
+3740,Miêdzychód,0,0,0,1
+3741,Wierzbno,0,0,0,5
+3742,Goraj,0,0,0,17
+3743,Przytoczna,0,0,0,17
+3744,Rokitno SHELL-GAS POLSKA,0,0,0,14
+3745,Rokitno,0,0,0,18
+3746,Che³msko,0,0,0,4
+3747,Skwierzyna,1,0,1,1
+3748,Zielomyœl,0,0,0,4
+3749,Pszczew,0,0,0,4
+3750,Policko,0,0,0,4
+3751,Bobowicko,0,0,0,4
+3752,Miêdzyrzecz,1,0,1,1
+3753,Gorzyca,0,0,0,4
+3754,Kursko,0,0,0,4
+3755,Templewo,0,0,0,4
+3756,Trzemeszno Lubuskie,0,0,1,18
+3757,Wêdrzyn,0,0,0,4
+3758,Sulêcin,0,0,0,4
+3759,Smogóry,0,0,0,4
+3760,Oœno Lubuskie,0,0,0,4
+3761,Lubiechnia Ma³a,0,0,0,4
+3762,Kurzagóra,0,0,0,18
+3763,D¹brówka Wielkopolska,1,0,0,4
+3764,Chociszewo Rogoziniec,1,0,0,4
+3765,Lutol Suchy,1,0,0,1
+3766,Panowice,1,0,0,4
+3767,Bukowiec Miêdzyrzecki,1,0,0,4
+3768,Miêdzyrzecz Góra¿d¿e Cement S.A.,0,0,0,14
+3769,G³êbokie Miêdzyrzeckie,1,0,0,4
+3770,Popowo Skwierzyñskie,1,0,0,4
+3771,Trzebiszewo,1,0,0,4
+3772,Brzozowiec Gorzowski,1,0,0,4
+3773,Deszczno,1,0,0,4
+3774,Gorzów Wielkopolski Karnin,1,0,0,4
+3775,Gorzów Wielkopolski Zieleniec,1,0,0,1
+3776,Gorzów Wielkopolski Centroz³om,0,0,0,14
+3777,Gorzów Wielkopolski Zamoœcie,1,0,0,4
+3778,Szczepankowo,0,0,0,4
+3779,Ostroróg,0,0,0,17
+3780,Dobrojewo,0,0,0,4
+3781,Binino,0,0,0,4
+3782,Nojewo,0,0,0,4
+3783,Kikowo,0,0,0,4
+3784,Chrzypsko Wielkie,0,0,0,17
+3785,Ry¿yn,0,0,0,4
+3786,Sieraków Wielkopolski,0,0,0,1
+3787,K³osowice,0,0,0,4
+3788,Zatom Stary,0,0,0,17
+3789,Miêdzychód Letnisko,0,0,0,17
+3790,Panienka,0,0,0,4
+3791,Chwa³kowo Koœcielne,0,0,0,4
+3792,Ksi¹¿ Wielkopolski,0,0,0,4
+3793,Konarskie,0,0,0,4
+3794,Wieszczyczyn,0,0,0,4
+3795,Pysz¹ca,0,0,0,4
+3796,Œrem Odlewnia,0,0,0,4
+3797,Œrem,0,0,0,4
+3798,RPR Ró¿añski,0,0,0,14
+3799,Bucha³ów,1,0,0,4
+3800,Letnica,1,0,0,4
+3801,KoŸla Ko¿uchowska,1,0,0,4
+3802,Bogaczów,1,0,0,4
+3803,Nowogród Bobrzañski,1,0,0,17
+3804,Nowogród Bobrzañski Góra¿d¿e,0,0,0,14
+3805,Nowogród Osiedle,1,0,1,1
+3806,Nowogród Osiedle ELEWARR,0,0,0,10
+3807,Nowogród Osiedle WBK719,0,0,0,10
+3808,Lubanice,1,0,0,4
+3809,Widzim Stary,0,0,0,18
+3810,Kêb³owo,0,0,0,4
+3811,Œwiêtno,0,0,0,18
+3812,Krzy¿ Rudno,0,0,0,4
+3813,£owyñ,0,0,0,14
+3814,Miros³aw Ujski,0,0,0,17
+3815,Ujœcie Noteckie,0,0,0,17
+3816,Motylewo,0,0,0,4
+3817,Nietoperek,0,0,1,18
+3818,Ka³awa,0,0,0,4
+3819,Goœcikowo,0,0,0,18
+3820,Staropole,0,0,0,17
+3821,Sieniawa Lubuska,0,0,0,17
+3822,£agów,0,0,0,4
+3823,Gronów,0,0,0,17
+3824,Obora Wielkopolska,0,0,0,4
+3825,Dêbnica Wielkopolska,0,0,0,4
+3826,K³ecko Wielkopolskie,0,0,0,4
+3827,Olekszyn,0,0,0,4
+3828,Rybno Wielkie,0,0,0,4
+3829,Kiszkowo,0,0,0,4
+3830,Stawiany,0,0,0,5
+3831,Mirostowice Dolne APEXIM,0,0,0,14
+3832,Przewóz,0,0,0,18
+3833,Lipa £u¿ycka,0,0,0,18
+3834,Sanice,0,0,0,4
+3835,P¹tnów Legnicki WPEC,0,0,0,14
+3836,Czarnków,0,0,0,5
+3837,Cigacice Port,0,0,0,14
+3838,Stary M³yn,0,0,0,3
+3839,Zieliniec,0,0,0,3
+3840,Kozieg³owy,0,0,0,5
+3841,Poznañ Pi¹tkowo,0,0,0,5
+3842,Szczecin D¹bie SDC,0,0,0,3
+3843,Szczecin D¹bie Osiedle,0,0,0,4
+3844,Szczecin Trzebusz,0,0,0,4
+3845,Szczecin Za³om,1,0,0,12
+3846,Kliniska,1,0,1,1
+3847,Rurka,1,0,0,2
+3848,Goleniów Park Przemys³owy,0,0,0,4
+3849,Goleniów,1,0,1,1
+3850,Bia³uñ,1,0,0,1
+3851,£oŸnica,1,0,0,2
+3852,Rokita,1,0,1,1
+3853,Wysoka Kamieñska,1,0,0,1
+3854,Par³ówko,1,0,0,1
+3855,Troszyn,1,0,0,4
+3856,Rec³aw,1,0,1,1
+3857,Wolin,1,0,0,4
+3858,Mokrzyca Wielka,1,0,0,2
+3859,£adzin,1,0,0,4
+3860,Warnowo,1,0,0,1
+3861,Miêdzyzdroje,1,0,0,4
+3862,Lubiewo,1,0,0,1
+3863,Œwinoujœcie Przytór,1,0,0,4
+3864,Œwinoujœcie Warszów,1,0,0,4
+3865,Œwinoujœcie,1,0,1,1
+3866,Œwinoujœcie Port,1,0,0,4
+3867,Mœcice,1,0,0,1
+3868,Kazimierz Pomorski,0,0,0,4
+3869,Bêdzino,1,0,0,4
+3870,S³owienkowo,1,0,0,4
+3871,Mi³ogoszcz,1,0,0,17
+3872,Tymieñ,1,0,0,4
+3873,£asin Koszaliñski,0,0,0,4
+3874,Ustronie Morskie,1,0,0,1
+3875,Bagicz,0,0,0,17
+3876,Ko³obrzeg,1,0,1,1
+3877,Ko³obrzeg Stadion,1,0,0,4
+3878,Ko³obrzeg PKN Orlen mag. nr 95,0,0,0,14
+3879,Korzystno,0,0,0,4
+3880,Stary Borek,1,0,0,4
+3881,G³owaczewo,1,0,0,4
+3882,Karcino,1,0,0,4
+3883,Bieczyno Pomorskie,1,0,0,4
+3884,Trzebiatów,1,0,1,1
+3885,G¹bin,1,0,0,4
+3886,Górzyca Reska,1,0,0,4
+3887,Gryfice,1,0,1,1
+3888,Baszewice,1,0,0,4
+3889,P³oty,1,0,0,1
+3890,Wyszogóra,0,0,0,4
+3891,¯abowo,1,0,0,4
+3892,Nowogard,1,0,1,1
+3893,Wyszomierz,1,0,0,4
+3894,Osina,1,0,0,4
+3895,Mosty WBK 817,0,0,0,14
+3896,Mosty,1,0,0,4
+3897,Mosty,0,0,0,3
+3898,Pi³a Pó³noc,0,0,0,3
+3899,Dolaszewo Wa³eckie,0,0,0,14
+3900,Szyd³owo Krajeñskie,1,0,0,17
+3901,Skrzatusz,0,0,0,4
+3902,Dobino Wa³eckie,1,0,0,4
+3903,Wa³cz,1,0,1,1
+3904,Wa³cz WBK 847 Bocznica,0,0,0,14
+3905,Wa³cz Raduñ,1,0,0,17
+3906,Str¹czno,1,0,0,4
+3907,Rutwica,1,0,0,4
+3908,Tuczno Krajeñskie,1,0,0,17
+3909,Jeziorki Wa³eckie,1,0,0,4
+3910,Krêpa Krajeñska,1,0,0,4
+3911,Bia³y Zdrój Po³udniowy,1,0,0,4
+3912,Kalisz Pomorski,1,0,0,1
+3913,Cybowo,1,0,0,4
+3914,Cybowo WBK 822,0,0,0,10
+3915,Prostynia,1,0,1,1
+3916,¯ó³wino,1,0,0,4
+3917,Recz Pomorski,1,0,0,13
+3918,Sokoliniec,1,0,0,4
+3919,Ognica,1,0,1,17
+3920,Tarnowo Pomorskie,1,0,0,13
+3921,Sulino,1,0,0,4
+3922,Barzkowice,1,0,0,4
+3923,Pêzino,1,0,0,4
+3924,Szczecinek Chy¿e,1,0,0,4
+3925,Dalêcino,1,0,0,1
+3926,Przeradz,1,0,0,4
+3927,Iwin,1,0,0,1
+3928,Grzmi¹ca,1,0,0,1
+3929,Wielanowo,1,0,0,1
+3930,Tychowo,1,0,0,1
+3931,Podborsko,1,0,1,1
+3932,Bia³ogard AMPOL,0,0,0,14
+3933,Bia³ogard Cpn,0,0,0,14
+3934,Karlino,1,0,0,1
+3935,Daszewo,1,0,0,4
+3936,Wrzosowo,1,0,0,1
+3937,Jazy,1,0,0,4
+3938,Dygowo,1,0,0,1
+3939,Stramnica,1,0,0,4
+3940,Stara £ubianka,1,0,0,1
+3941,P³ytnica,1,0,0,1
+3942,Ptusza,1,0,0,17
+3943,Jastrowie,1,0,0,1
+3944,Okonek,1,0,1,1
+3945,Brokêcino,1,0,0,4
+3946,Lotyñ,1,0,0,4
+3947,Turowo Pomorskie,1,0,0,1
+3948,Gwda Ma³a,1,0,0,4
+3949,Drzonowo,1,0,0,4
+3950,Bia³y Bór,1,0,1,23
+3951,S³osinko,1,0,0,4
+3952,Miastko,1,0,1,1
+3953,Kawcze,1,0,0,13
+3954,Przytocko,1,0,0,4
+3955,Ciecholub,1,0,0,4
+3956,Biesowice,1,0,0,4
+3957,Kêpka,1,0,0,4
+3958,Kêpice,1,0,0,13
+3959,Wrz¹ca Pomorska,1,0,0,4
+3960,S³onowice,1,0,0,13
+3961,Widzino,1,0,0,4
+3962,Kobylnica S³upska,1,0,0,4
+3963,S³upsk Pó³nocny,1,0,0,4
+3964,Strzelinko,1,0,0,4
+3965,Ga³êzinowo,1,0,0,4
+3966,Charnowo S³upskie,1,0,0,13
+3967,Ustka,1,0,0,1
+3968,Ustka Uroczysko,1,0,0,4
+3969,Szczecin Pomorzany,0,0,0,4
+3970,Szczecin Cmentarz Centralny,0,0,0,4
+3971,Szczecin Turzyn,0,0,0,5
+3972,Szczecin Pogodno,0,0,0,4
+3973,Szczecin £êkno,0,0,0,4
+3974,Szczecin Niemierzyn,0,0,0,4
+3975,Szczecin Niebuszewo,0,0,0,5
+3976,Szczecin Drzetowo,0,0,0,4
+3977,Szczecin ¯elechowa,0,0,0,4
+3978,Szczecin Golêcino,0,0,0,4
+3979,Szczecin Goc³aw,0,0,0,4
+3980,Szczecin Goc³aw,0,0,0,5
+3981,Szczecin Sto³czyn,0,0,0,5
+3982,Szczecin Sto³czyn Pó³nocny,0,0,0,4
+3983,Szczecin Skolwin,0,0,0,5
+3984,Szczecin Skolwin Pó³nocny,0,0,0,4
+3985,Szczecin Mœciêcino,0,0,0,4
+3986,Police D¹brówka,0,0,0,4
+3987,Police,0,0,1,5
+3988,Police Zak³ad,0,0,0,4
+3989,Jasienica ZCHP,0,0,0,6
+3990,Jasienica,0,0,0,4
+3991,Dêbostrów,0,0,0,4
+3992,Niek³oñczyca Uniemyœl,0,0,0,4
+3993,Trzebie¿ Szczeciñski,0,0,0,17
+3994,Stawno,1,0,0,4
+3995,Górki Pomorskie,1,0,0,4
+3996,Jarszewo,1,0,0,4
+3997,Mi³achowo Bocz.,0,0,0,14
+3998,Kamieñ Pomorski,1,0,0,1
+3999,Szczecin Gumieñce,1,0,0,1
+4000,Stobno Szczeciñskie,0,0,1,5
+4001,Szczecin Gum/Gra(Gr),0,0,0,7
+4002,Szczecin Gum/Tan(Gr),0,0,0,7
+4003,Z³ocieniec WBK 839,0,0,0,10
+4004,Osiek Drawski,0,0,0,4
+4005,Wierzchowo Pomorskie,0,0,0,17
+4006,Borujsko,0,0,0,17
+4007,Miros³awiec WBK 824,0,0,0,14
+4008,Miros³awiec,0,0,0,17
+4009,Stara Korytnica,0,0,0,4
+4010,Bia³y Zdrój Pó³nocny,0,0,0,4
+4011,Kalisz Pomorski Miasto,0,0,0,4
+4012,Dêbsko Pomorskie,0,0,0,4
+4013,Sieniawa Drawska,0,0,0,4
+4014,Drawno,0,0,0,17
+4015,Kie³pino,0,0,0,4
+4016,Suliszewo Choszczeñskie,0,0,0,4
+4017,Wardyñ,0,0,0,17
+4018,Wardyñ Cpn Bocz.,0,0,0,14
+4019,Smoleñ,0,0,0,4
+4020,Smoleñ Pzz Bocznica,0,0,0,14
+4021,Stargard Zni,0,0,0,10
+4022,Stargard Osiedle,0,0,0,4
+4023,Stargard Kluczewo,0,0,0,17
+4024,Warnice Dêbica,0,0,0,17
+4025,Obryta,0,0,0,4
+4026,Okunica,0,0,0,4
+4027,Pyrzyce,0,0,0,17
+4028,Kie³pin,0,0,0,4
+4029,Polnica,0,0,0,17
+4030,Czosnowo,0,0,0,4
+4031,S¹polno Cz³uchowskie,0,0,0,17
+4032,Przechlewo,0,0,0,17
+4033,Szczecin Sec Bocz.,0,0,0,14
+4034,Boleszewo,1,0,0,4
+4035,Nowy Jaros³aw,1,0,0,4
+4036,Siñczyca,1,0,0,4
+4037,Dar³owo,1,0,1,17
+4038,Smardzko,0,0,0,17
+4039,Nowielin,0,0,0,4
+4040,Mielêcin Myœliborski,0,0,0,4
+4041,Lipiany,0,0,0,17
+4042,G³azów,0,0,0,17
+4043,Mielno Koszaliñskie,0,0,0,4
+4044,Do³uje,0,0,0,18
+4045,Barnówko KERiGP,0,0,0,14
+4046,Dêbno Lubuskie,0,0,0,18
+4047,Cychry,0,0,0,4
+4048,Krzeœnica Sarbinowo,0,0,0,4
+4049,Police Chemia,0,0,0,5
+4050,Szczecin Wzgórze Hetmañskie,0,0,0,5
+4051,Port Lotniczy Szczecin Goleniów,1,0,0,4
+4052,Warszawa Lotnisko Chopina,1,0,0,1
+4053,Warszawa Ursus,1,0,0,4
+4054,Warszawa Ursus NiedŸwiadek,1,0,0,4
+4055,Piastów,1,0,0,4
+4056,Parzniew,1,0,0,4
+4057,Brwinów,1,0,0,4
+4058,Milanówek,1,0,0,4
+4059,Warszawa Ochota,1,0,0,4
+4060,Warszawa Œródmieœcie,1,0,0,4
+4061,Warszawa Powiœle,1,0,0,4
+4062,Warszawa Stadion,1,0,0,4
+4063,Warszawa Mokry £ug,1,0,0,4
+4064,Zielonka Bankowa,1,0,0,4
+4065,Brest-Centralnyi,0,0,0,1
+4066,Brest Zapadnyj,0,0,0,1
+4067,Park Bug,0,0,0,1
+4068,Grodno,0,0,0,1
+4069,£osoœna,0,0,0,1
+4070,Bruzgi,0,0,0,1
+4071,Œwis³ocz,0,0,0,1
+4072,Wysokolitowsk,0,0,0,1
+4073,Jagodin,0,0,0,1
+4074,Rava Ruskaia Ii,0,0,0,1
+4075,Mostiska 2,0,0,0,1
+4076,Chirow Osobowy,0,0,0,1
+4077,Star¿awa,0,0,0,1
+4078,Rava Ruskaia I,0,0,0,1
+4079,Mockava,0,0,0,1
+4080,Petrovice u Karvine,0,0,0,1
+4081,Bohumin,0,0,0,1
+4082,Cesky Tesin,0,0,0,1
+4083,Lichkov,0,0,0,1
+4084,Mezimesti,0,0,0,1
+4085,Kralovec,0,0,0,1
+4086,Jindrichov Ve Slez,0,0,0,1
+4087,Mikulovice,0,0,0,1
+4088,Visnova,0,0,0,1
+4089,Orlov,0,0,0,4
+4090,Circ,0,0,0,4
+4091,Medzilaborce,0,0,0,1
+4092,Medzilaborce Mesto,0,0,0,4
+4093,Medzilaborce Bocz.,0,0,0,14
+4094,Skalite,0,0,0,1
+4095,Skalite pod Polanou,0,0,0,4
+4096,Skalite Kudlov,0,0,0,4
+4097,Skalite Serafinov,0,0,0,4
+4098,Frankfurt/Oder,0,0,0,1
+4099,Oderbruecke,0,0,0,5
+4100,Forst Lausitz,0,0,0,1
+4101,Kustrin-Kietz,0,0,0,1
+4102,Goerlitz,0,0,0,1
+4103,Guben,0,0,0,1
+4104,Horka Gbf,0,0,0,1
+4105,Hagenwerder,0,0,0,13
+4106,Zittau,0,0,0,1
+4107,Hirschfelde,0,0,0,4
+4108,Grambow,0,0,0,4
+4109,Loecknitz,0,0,0,1
+4110,Tantow,0,0,0,1
+4111,Warszawa Wschodnia Towarowa,0,0,0,5
+4112,Warszawa Jelonki,0,0,0,5
+4113,S³otwiny,1,0,0,1
+4114,£ódŸ D¹browa,1,0,0,4
+4115,£ódŸ D¹browa PBSZ,0,0,0,6
+4116,£ódŸ Andrzejów Szosa,1,0,0,4
+4117,Warszawa Wsch Utrata,0,0,0,10
+4118,Plavec,0,0,0,1
+4119,Stalowa Wola Charzewice,1,0,0,4
+4120,Lublin AIRPORT,1,0,0,4
+4121,Tanvald,0,0,0,1
+4122,Desna,0,0,0,4
+4123,Dolni Polubny,0,0,0,4
+4124,Korenov,0,0,0,1
+4125,Harrachov,0,0,0,13
+4126,Cesky Tesin Towarowy,0,0,0,1
+4127,Bohumin Vrbice,0,0,0,1
+4128,Brest Siewierny,0,0,0,1
+4129,Zarêczyca,0,0,0,1
+4130,¯eleznodoro¿nyj,0,0,0,1
+4131,Mamonowo,0,0,0,1
+4132,Kraków Zab³ocie,0,0,0,3
+4133,Kraków Podgórze,1,0,0,4
+4134,Paczkowo CLIP,0,0,0,14
+4135,Gottwald,0,0,0,3
+4136,S³awków Euroterminal,0,0,0,5
+4137,S³awków LHS,0,0,0,1
+4138,Borki PCC,0,0,0,9
+4139,Tychy Lodowisko,1,0,0,4
+4140,Katowice Towarowa,0,0,0,1
+4141,Barbara PCC,0,0,0,9
+4142,Tychy Fiat,0,0,0,5
+4143,Jêzor Centralny JCA,0,0,0,5
+4144,Gdañsk Wiœlany,0,0,0,14
+4145,Zaj¹czkowo Tcz. War.,0,0,0,14
+4146,Bydgoszcz Zachód Bocz,0,0,0,14
+4147,Szymany Lotnisko,1,0,0,4
+4148,Wroc³aw Œwieb. Centroz³om O\Wroc³aw,0,0,0,14
+4149,Tarnogaj,0,0,0,14
+4150,P³onina,0,0,0,4
+4151,Kaczorów,0,0,0,4
+4152,Wojcieszów Górny,0,0,0,18
+4153,Turoszów Elektrownia,0,0,0,14
+4154,Turoszów,0,0,0,5
+4155,Turoszów Kopalnia,0,0,0,4
+4156,"""Kwb """"Turów"""" Bocz. 5""",0,0,0,14
+4157,Bogatynia,0,0,0,17
+4158,Inowroc³aw Chemia,0,0,0,5
+4159,Œwiecie nad Wis³¹ ZCiP,0,0,0,14
+4160,Rogowiec,0,0,0,5
+4161,KWK Szczyg³owice,0,0,0,5
+4162,Ornontowice Budryk,0,0,0,14
+4163,Katowice KWK Wujek,0,0,0,5
+4164,Ma³aszewicze,0,0,0,5
+4165,Wa³b. Szcz. Petrobaz,0,0,0,14
+4166,Wa³b. Szcz. Góra¿d¿e,0,0,0,14
+4167,Wa³brzych Szczawienko PEC SA,0,0,0,14
+4168,Paw³owice Górnicze,0,0,0,5
+4169,Radlin Marcel Bsz,0,0,0,5
+4170,POLHO,0,0,0,10
+4171,Kwk Czeczott,0,0,0,5
+4172,Mys³owice Kwk Weso³a,0,0,0,5
+4173,Lêdziny Kwk Ziemowit,0,0,0,5
+4174,Kwk Piast,0,0,0,5
+4175,Dwory Z-Dy Chem.,0,0,0,5
+4176,Kwk Julian,0,0,0,14
+4177,Bytom Mostva,0,0,0,14
+4178,Kêdzierzyn Zak³ady Azotowe,0,0,0,5
+4179,Zdziesz.Z-Dy Koksow.,0,0,0,5
+4180,Kwk Makoszowy,0,0,0,5
+4181,Ruda Œl¹ska KWK Ruda Ruch Halemba,0,0,0,5
+4182,Kwk Kleofas,0,0,0,14
+4183,KATOWICE LIGOTA ŒL¥SK,0,0,0,5
+4184,KATOWICE MUCHOWIEC STASZIC,0,0,0,5
+4185,Goworki Bsz,0,0,0,14
+4186,Bór,0,0,0,1
+4187,Oskierki Bst,0,0,0,14
+4188,Planta,0,0,1,22
+4189,Warszawa G³.Towa.Bem,0,0,0,14
+4190,Warszawa Ochota Postojowa,0,0,0,5
+4191,Kutno Zachód Techniczna,0,0,0,4
+4192,Kutno Zachód,0,0,0,4
+4193,Kutno Azory Lokomotywownia,0,0,0,4
+4194,Bufa³ow S Bsz,0,0,0,14
+4195,Hrubieszów Towarowy,0,0,0,18
+4196,Machów,0,0,0,5
+4197,£ódŸ D¹browa Przemys³owa,0,0,0,5
+4198,Kraków SAMBUD-2,0,0,0,14
+4199,Kraków Krzes³awice,0,0,1,14
+4200,Kraków £êg,0,0,0,5
+4201,Gdynia Postojowa,0,0,0,5
+4202,Gdañsk Kana³ Kaszubski,0,0,0,5
+4203,Mietków Wksm Bsz,0,0,0,14
+4204,Lubin Kghm Bsz,0,0,0,14
+4205,Paw³owice Ma³e Fabr.,0,0,0,14
+4206,Rakowice ¯wir. Zksm,0,0,0,14
+4207,Czarny Bór Kssd,0,0,0,14
+4208,Opole Elektrownia,0,0,0,14
+4209,Chorula Cementownia,0,0,0,14
+4210,Moœcice Azoty,0,0,0,14
+4211,Szczecin Port C. Lok,0,0,0,10
+4212,Szczecin Port C. Nabr. Star. T. 846,0,0,0,10
+4213,Œwinoujœcie Baza P.M,0,0,0,10
+4214,Szczecin Elektrownia Pomorzany,0,0,0,14

@@ -1,0 +1,6 @@
+LOAD DATA INFILE '../data/categories.csv' 
+INTO TABLE category
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
